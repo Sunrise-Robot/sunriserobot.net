@@ -1,9 +1,0 @@
----
-number: "53"
-title: "TITLE"
-pubDate: "2015-02-10"
-description: "DESCRIPTION"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft53.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
----
