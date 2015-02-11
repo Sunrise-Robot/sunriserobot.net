@@ -56,7 +56,7 @@ footer {
   margin-bottom: 32px;
 }
 
-.support {
+.support-sidebar {
   margin-top: 16px;
 }
 
@@ -233,6 +233,32 @@ ul.host-links li {
 .btn-lg {
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
+}
+
+.support-page h2 {
+  margin-bottom: 16px;
+}
+
+.support-page h3 {
+  margin-top: 8px;
+}
+
+.support-page h4 {
+  margin-top: 24px;
+}
+
+.support-page ul {
+  margin-bottom: 32px;
+}
+
+.support-page ul li {
+  margin-bottom: 12px;
+}
+
+.support-page ul li h4 {
+  font-weight: 300;
+  margin-top: 16px;
+  margin-left: 8px;
 }
 
 
