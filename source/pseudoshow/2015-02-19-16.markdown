@@ -1,0 +1,11 @@
+---
+number: "16"
+title: "Between the Hangman and the Halo"
+pubDate: "2015-02-19"
+description: "Musician Anthony Ruptak discusses his new album and life as an artist in the Denver music scene."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps16.mp3"
+enclosure_length: "13989312"
+duration: "00:27:13"
+---
+- [Anthony Ruptak on BandCamp](http://anthonyruptak.bandcamp.com)
+- [Follow @anthonyruptak on Twitter](https://twitter.com/anthonyruptak)
