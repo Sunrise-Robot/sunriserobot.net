@@ -9,5 +9,7 @@ duration: "00:37:42"
 ---
 - [Huffington Post’s Guide to Christmas Decoration Take-Down](http://www.huffingtonpost.com/2011/12/29/take-down-holiday-decorations_n_1174822.html) 
 - [87th Academy Award Nominees](http://oscar.go.com/nominees) 
+- [Polly's Oscar picks](/images/likelystory/2/oscarpicks_polly.png)
+- [Shelby's Oscar picks](/images/likelystory/2/oscarpicks_shelby.png)
 - [2015 Indiewire Oscar Predictions](http://www.indiewire.com/article/2015-oscar-predictions)
 - [Watch Kids Reenact Best Picture Oscar Nominees](http://www.rollingstone.com/movies/videos/watch-kids-reenact-best-picture-oscar-nominees-20150204)
