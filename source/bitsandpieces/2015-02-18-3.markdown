@@ -1,0 +1,15 @@
+---
+number: "3"
+title: "Sometimes You Just Need That Explosion Of Sound In Your Face "
+pubDate: "2015-02-18"
+description: "Learn why, as far as listening goes, the audiophile obsession with lossless files and astronomical sample rates and bit depth is misguided. Also, if you're just starting out: what kind of audio gear should you buy?"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/bp3.mp3"
+enclosure_length: "21131007"
+duration: "00:43:53"
+---
+- [Final Fantasy X HD Marathon](https://www.youtube.com/watch?v=LzpTMmlR6G0)
+- [24/192 Music Downloads And Why They Make No Sense](http://xiph.org/~xiphmont/demo/neil-young.html) 
+- [Image example of bit depth and sample rate](/images/bitsandpieces/3/bitsample.jpg)
+- [Tim Exile - Family Galaxy](http://warp.net/records/player/video/tim-exile/family-galaxy)
+- [Deerhoof - +81](https://www.youtube.com/watch?v=oO5L79zPjVA)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
