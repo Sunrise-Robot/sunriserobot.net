@@ -4,9 +4,8 @@ title: "Flying Around Like A Demon, Slaying Everyone Magically"
 pubDate: "2015-02-17"
 description: "People are still modding DOOM. Samsung gets punished for doing the right thing and the wrong thing. And we talk about (The Onion's version of) the Apple Car."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft54.mp3"
-enclosure_length: "30983065"
-duration: "01:02:57"
-published: false
+enclosure_length: "25895941"
+duration: "00:52:21"
 ---
 - [InstaDoom](http://www.doomworld.com/vb/wads-mods/71767-instadoom-screw-nofilter-rc1/)
 - [Besiege](http://www.besiege.spiderlinggames.co.uk/)
