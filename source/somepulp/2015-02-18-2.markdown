@@ -2,7 +2,7 @@
 number: "2"
 title: "How The West(ern) Was Won - and Lost"
 pubDate: "2015-02-18"
-description: "In this first issue we look at the phenomenon of a half-hour TV drama program that debuted in 1959 on the CBS television network, Rod Serling’s The Twilight Zone. Special guests Justin & Michael Edwards join the conversation."
+description: "An analysis of three iconic TV westerns (Gunsmoke, Bonanza and Maverick) and the demise of their genre."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/sp2.mp3"
 enclosure_length: "29060881"
 duration: "00:59:09"
