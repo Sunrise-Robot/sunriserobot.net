@@ -12,6 +12,7 @@ shows.each do |show|
     page "#{blog.prefix}/*", layout: "episode"
     page "#{blog.prefix}/feed.xml", layout: "feed"
     page "#{blog.prefix}/index.html", layout: "show"
+    page "#{blog.prefix}/reddit.html", layout: "reddit"
   end
 end
 
