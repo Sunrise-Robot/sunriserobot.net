@@ -1,11 +1,10 @@
 ---
 number: "2"
 title: "How The West(ern) Was Won - and Lost"
-pubDate: "2015-02-18"
-description: "An analysis of three iconic TV westerns (Gunsmoke, Bonanza and Maverick) and the demise of their genre."
+pubDate: "2015-02-19"
+description: "An analysis of three iconic TV westerns from the 1960s (Gunsmoke, Bonanza and Maverick) and the demise of their genre."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/sp2.mp3"
 enclosure_length: "29060881"
 duration: "00:59:09"
-published: false
 ---
 - [Genres and subgenres of The Western](https://allthetropes.orain.org/wiki/The_Western)
