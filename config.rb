@@ -64,6 +64,8 @@ end
 #   end
 # end
 
+set :url_root, "http://sunriserobot.net"
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
@@ -71,6 +73,8 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 activate :directory_indexes
+
+activate :search_engine_sitemap
 
 # Build-specific configuration
 configure :build do
