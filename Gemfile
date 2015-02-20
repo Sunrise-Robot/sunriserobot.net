@@ -16,3 +16,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 # For creating XML feed
 gem "builder", "~> 3.0"
+
+# For creating XML sitemap
+gem 'middleman-search_engine_sitemap'
