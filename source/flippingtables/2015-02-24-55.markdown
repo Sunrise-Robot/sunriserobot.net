@@ -4,8 +4,8 @@ title: "I Expertly Removed The Bullet I Shot Into Your Chest"
 pubDate: "2015-02-24"
 description: "Some say you must listen to podcasts at normal speed as the artist intended. We say thanks for listening at whatever speed you want. SUPERFISH is the latest scary thing to break the internet in the name of ads. And Edward Snowden wins big at the Oscars, on Reddit, and in our hearts."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft55.mp3"
-enclosure_length: "25895941"
-duration: "00:52:21"
+enclosure_length: "27714686"
+duration: "00:56:08"
 ---
 - [Stop listening to podcasts at 1.5x](http://www.theverge.com/2015/2/17/8043077/stop-listening-to-podcasts-fast-speed)
 - [Listen to podcasts at whatever speed you want](http://www.marco.org/2015/02/17/listen-to-podcasts-at-whatever-speed-you-want)
