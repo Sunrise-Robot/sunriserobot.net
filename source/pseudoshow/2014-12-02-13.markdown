@@ -1,6 +1,6 @@
 ---
 number: "13"
-title: "Winter is Coming"
+title: "Winter is Coming to Wonderbound"
 pubDate: "2014-12-02"
 description: "Meredith Strathmeyer, Candice Bergeron, and Damien Patterson of Wonderbound stop by to discuss Winter, the newest collaborative production of the ballet company."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps13.mp3"
