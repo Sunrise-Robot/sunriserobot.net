@@ -1,6 +1,6 @@
 ---
 number: "16"
-title: "Between the Hangman and the Halo"
+title: "Anthony Ruptak - Between the Hangman and the Halo"
 pubDate: "2015-02-19"
 description: "Musician Anthony Ruptak discusses his new album and life as an artist in the Denver music scene."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps16.mp3"

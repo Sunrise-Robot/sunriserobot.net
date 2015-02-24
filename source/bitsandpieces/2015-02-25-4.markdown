@@ -1,0 +1,22 @@
+---
+number: "4"
+title: "A Giant Warehouse with a Hundred Bands Playing at Once"
+pubDate: "2015-02-25"
+description: "The hi-def Pono Player loses to the iPhone in double blind testing, while Sony wants to sell you some snake oil. Also, which social networks for musicians are actually worthwhile?"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/bp4.mp3"
+enclosure_length: "24526491"
+duration: "01:02:37"
+---
+- [Neil Young's PonoPlayer: The Emperor Has No Clothes](https://www.yahoo.com/tech/it-was-one-of-kickstarters-most-successful-109496883039.html) 
+- [Pono Player review: A tall, refreshing drink of snake oil](http://arstechnica.com/gadgets/2015/02/pono-player-review-a-tall-refreshing-drink-of-snake-oil/)  
+- [Sony's latest snake oil: Pricey 'Premium Sound' Micro SDXC cards](http://www.pcworld.com/article/2886403/sonys-latest-snake-oil-pricey-premium-sound-micro-sdxc-cards.html) 
+- [Splice: github for musicians](https://splice.com/) 
+- [Hatsune Miku Guitar Pedal](https://www.youtube.com/watch?v=aveUEZkcQno)
+- [Scat Guitar Pedal](https://www.youtube.com/watch?v=Y0y5QeLcYPs) 
+- [Hatsune Miku Live](https://www.youtube.com/watch?v=MYe26gbBREs#t=47) 
+- [Cats & Cats & Cats - A Boy Called Haunts](https://www.youtube.com/watch?v=hvMOhLWKSeU) 
+- [Sufjan Stevens - No Shade in the Shadow of the Cross](https://www.youtube.com/watch?v=qx1s_3CF07k) 
+- [Genetic Engines](https://geneticengines.bandcamp.com/album/genetic-engines) 
+- [Lives](https://theastray.bandcamp.com/album/lives) 
+- [Fliers We’ve Made](http://imgur.com/a/YX4AT)
+- [Reddit artwork for Genetic Engines “Rotation”](http://i.imgur.com/hMfHLaj.jpg) 
