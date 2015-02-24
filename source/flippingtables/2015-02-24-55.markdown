@@ -1,0 +1,25 @@
+---
+number: "55"
+title: "I Expertly Removed The Bullet I Shot Into Your Chest"
+pubDate: "2015-02-24"
+description: "Some say you must listen to podcasts at normal speed as the artist intended. We say thanks for listening at whatever speed you want. SUPERFISH is the latest scary thing to break the internet in the name of ads. And Edward Snowden wins big at the Oscars, on Reddit, and in our hearts."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft55.mp3"
+enclosure_length: "25895941"
+duration: "00:52:21"
+---
+- [Stop listening to podcasts at 1.5x](http://www.theverge.com/2015/2/17/8043077/stop-listening-to-podcasts-fast-speed)
+- [Listen to podcasts at whatever speed you want](http://www.marco.org/2015/02/17/listen-to-podcasts-at-whatever-speed-you-want)
+- [How cable networks speed up shows to squeeze in more ads](http://www.engadget.com/2015/02/19/cable-networks-speeding-up-shows/?a_dgi=aolshare_twitter)
+- [Microsoft Office gets third-party cloud storage support on iOS and the web](http://venturebeat.com/2015/02/17/microsoft-launches-third-party-cloud-storage-integration-in-its-office-for-ios-apps-and-office-online/)
+- [Sony's latest snake oil: Pricey 'Premium Sound' Micro SDXC cards](http://www.pcworld.com/article/2886403/sonys-latest-snake-oil-pricey-premium-sound-micro-sdxc-cards.html)
+- [AudioQuest Diamond 16m (52.49 feet) Braided HDMI Cable](http://amzn.com/B00IL3TZSQ)
+- [canibesuperfished.com](https://www.canibesuperphished.com/)
+- [Lenovo PCs ship with man-in-the-middle adware that breaks HTTPS connections [Updated]](http://arstechnica.com/security/2015/02/lenovo-pcs-ship-with-man-in-the-middle-adware-that-breaks-https-connections/)
+-[Lenovo installs adware on its computers that could let hackers steal private data](http://www.theverge.com/2015/2/19/8067505/lenovo-installs-adware-private-data-hackers)
+- [Superfish admits installing root certificate authority to show ads on secure sites](http://thenextweb.com/insider/2015/02/21/superfish-admits-installing-root-certificate-authority-show-ads-secure-sites/)
+- [KOMODIA/SUPERFISH SSL VALIDATION IS BROKEN](https://blog.filippo.io/komodia-superfish-ssl-validation-is-broken/)
+- [THE GREAT SIM HEIST
+HOW SPIES STOLE THE KEYS TO THE ENCRYPTION CASTLE](https://firstlook.org/theintercept/2015/02/19/great-sim-heist/)
+- [We are Edward Snowden, Laura Poitras and Glenn Greenwald from the Oscar-winning documentary CITIZENFOUR. AUAA.](http://www.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/)
+- [“Quite possibly the most reddit thing ever.”](http://www.reddit.com/r/IAmA/comments/2wwdep/we_are_edward_snowden_laura_poitras_and_glenn/cous35y)
+
