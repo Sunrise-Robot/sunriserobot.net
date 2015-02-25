@@ -1,0 +1,4 @@
+---
+blog: "Pseudo Show"
+---
+<% @show = YAML.load_file("source/data/shows.yml").find { |s| s["prefix"] == "pseudoshow" } %>
