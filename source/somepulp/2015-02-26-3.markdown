@@ -4,14 +4,14 @@ title: "Brian Wilson - Surf, Sand, and Studio Revolution"
 pubDate: "2015-02-26"
 description: "A discussion of the revolution in music delivery and listener access in the transition from the 50s to the 60s."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/sp3.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
-published: false
+enclosure_length: "30716570"
+duration: "01:05:46"
 ---
 - [The B-Side: The Death of Tin Pan Alley and the Rebirth of the Great American Song](http://www.washingtonpost.com/entertainment/books/the-b-side-the-death-of-tin-pan-alley-and-the-rebirth-of-the-great-american-song/2015/01/29/4ddc6ad8-9bf2-11e4-bcfb-059ec7a93ddc_story.html)
 - [Okkervil River - John Allyn Smith Sails](https://www.youtube.com/watch?v=nOK7ownE3Hg) 
 - [GoLab’s Pet Zounds](http://itunes.apple.com/us/album/pet-zounds/id488364844) 
 - [Bioshock Infinite - God Only Knows](https://www.youtube.com/watch?v=jUffPtS3-7A) 
+- [Movie Trailer for Love & Mercy, a Brian Wilson biopic](https://www.youtube.com/watch?v=VUhFpFQeilM)
 
 #### Selected Bibliography
 - Carlin, Peter Ames. Catch a Wave: the Rise, Fall, and Redemption of the Beach Boys’ Brian Wilson. New York: Rodale, 2006.
