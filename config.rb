@@ -15,6 +15,12 @@ shows.each do |show|
   end
 end
 
+activate :blog do |blog|
+  blog.name   = "THE NAME OF THE BLOG"
+  blog.prefix = "blog"
+  #page "#{blog.prefix}/*", layout: "blog"
+end
+
 ###
 # Compass
 ###
