@@ -7,8 +7,8 @@ enclosure_link: "http://traffic.libsyn.com/sunriserobot/ls3.mp3"
 enclosure_length: "26540389"
 duration: "00:54:27"
 ---
-- [Picture of Rona](/images/likelystory/3/rona.jpg)
-- [Picture of Odie](/images/likelystory/3/odie.jpg)
+- [Picture of Rona](http://sunriserobot.net/images/likelystory/3/rona.jpg)
+- [Picture of Odie](http://sunriserobot.net/images/likelystory/3/odie.jpg)
 - [Ashley S. The Real Story - Clip](http://abc.go.com/shows/the-bachelor/video/most-recent/VDKA0_au7ocz5d) 
 - [The Girls Visit Arlington - Clip](http://abc.go.com/shows/the-bachelor/video/most-recent/VDKA0_41yhvfg1) 
 - [Jessica Williams Says She Won’t Replace Jon Stewart on Daily Show](http://www.huffingtonpost.com/2015/02/17/jessica-williams-not-host-daily-show_n_6697640.html)
