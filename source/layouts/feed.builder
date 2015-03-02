@@ -33,7 +33,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     xml.tag! "itunes:category", "text" => @show_data["category"]
 
     # Item builder
-    blog.articles[0..9].each do |episode|
+    blog.articles.each do |episode|
       xml.item do
       link = URI.join(site_url, episode.url)
         xml.title "#{episode.data.number} - #{episode.data.title}"
