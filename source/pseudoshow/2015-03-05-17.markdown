@@ -7,6 +7,8 @@ enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps17.mp3"
 enclosure_length: "17839241"
 duration: "00:33:01"
 ---
+- [Image: Stamped album cover of Lion's Den](http://sunriserobot.net/images/pseudoshow/17/betsylay_lionsden_front.jpg)
+- [Image: Hand-written liner notes of Lion's Den](http://sunriserobot.net/images/pseudoshow/17/betsylay_lionsden_back.jpg)
 - [Betsy Lay on BandCamp](https://betsylay.bandcamp.com/)
 - [Follow @betsylay on Twitter](https://twitter.com/betsylay) and [Facebook](https://www.facebook.com/BetsyLayMusic)
 - [Article: Ladysaurus’ polite bloodbath at the Deer Pile](http://www.ucdadvocate.com/ladysaurus-polite-bloodbath-deer-pile/)
