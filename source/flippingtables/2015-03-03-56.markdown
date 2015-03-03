@@ -1,0 +1,21 @@
+---
+number: "56"
+title: "Five Finger Explodey Gesture"
+pubDate: "2015-03-03"
+description: "The Dress is blue and black and that's all there is to that. The FCC does right by the people. WordPress and Google make some big changes. And Stop! PebbleTime."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft56.mp3"
+enclosure_length: "38271034"
+duration: "01:18:08"
+---
+- [4 Things We Still Don’t Know About Net Neutrality](http://consumerist.com/2015/02/27/4-things-we-still-dont-know-about-net-neutrality/)
+- [The Cartoonist Has No Idea How Net Neutrality Works](http://www.johnhodgman.com/post/112540831413/the-cartoonist-has-no-idea-how-net-neutrality)
+- [#TheDress Airplane parody](http://i.imgur.com/qShH5re.gif)
+- [Introducing the new White and Gold Dualshock 4](https://twitter.com/PlayStationAU/status/571176841777516544)
+- [Adobe ends #TheDress debate](https://twitter.com/Adobe/status/571123202568491010/photo/1)
+- [Online Color Test](http://www.xrite.com/online-color-test-challenge)
+- [Valve partnering with HTC to make virtual reality headsets](http://www.polygon.com/2015/3/1/8129113/valve-partnering-with-htc-to-make-virtual-reality-headsets)
+- [A(nother) new era of WordPress](http://bethesignal.org/blog/2015/02/27/new-era-wordpress-hhvm-rest-react/)
+- [Google+ officially splits into Photos and Streams](http://www.theverge.com/2015/3/2/8131639/google-officially-splits-into-photos-and-streams)
+- [Google quietly backs away from encrypting new Lollipop devices by default](http://arstechnica.com/gadgets/2015/03/google-quietly-backs-away-from-encrypting-new-lollipop-devices-by-default/)
+- [GPG and Me](http://www.thoughtcrime.org/blog/gpg-and-me/)
+- [Pebble Time - Awesome Smartwatch, No Compromises](https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises)
