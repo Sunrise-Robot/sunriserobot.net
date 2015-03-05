@@ -85,6 +85,10 @@ activate :search_engine_sitemap
 
 # Build-specific configuration
 configure :build do
+
+  # Don't build reddit post maker for public website
+  ignore '*/reddit.html.erb'
+
   # For example, change the Compass output style for deployment
   # activate :minify_css
 
