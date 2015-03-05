@@ -37,9 +37,11 @@
   large_art: "pseudoshow/pseudoshow_large.jpg"
   email: "hello@sunriserobot.net"
   categories:
-    - { category: "Arts" }
+    - { category: "Arts",
+        subcategory: "Performing Arts" }
+    - { category: "Arts",
+        subcategory: "Visual Arts" }
     - { category: "Music" }
-    - { category: "Visual Arts"}
   itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
 - prefix: "likelystory"
   title: "Likely Story"
