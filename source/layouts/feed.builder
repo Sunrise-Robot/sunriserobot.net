@@ -30,7 +30,15 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.tag! "itunes:name", "Sunrise Robot"
       xml.tag! "itunes:email", @show_data["email"]
     end
-    xml.tag! "itunes:category", "text" => @show_data["category"]
+    @show_data["categories"].each do |category|
+      if category["subcategory"]
+        xml.tag! "itunes:category", "text" => category["category"] do
+          xml.tag! "itunes:category", "text" => category["subcategory"]
+        end
+      else
+        xml.tag! "itunes:category", "text" => category["category"]
+      end
+    end
 
     # Item builder
     blog.articles.each do |episode|
