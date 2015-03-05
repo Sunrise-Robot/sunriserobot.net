@@ -14,7 +14,11 @@
   social_art: "flippingtables/flippingtables_social.jpg"
   large_art: "flippingtables/flippingtables_large.jpg"
   email: "hello@sunriserobot.net"
-  category: "Technology"
+  categories:
+    - { category: "Technology",
+        subcategory: "Tech News" }
+    - { category: "Gaming & Hobbies",
+        subcategory: "Video Games" }
   itunes: "https://itunes.apple.com/us/podcast/flipping-tables/id820841907"
 - prefix: "pseudoshow"
   title: "The Pseudo Show"
@@ -32,7 +36,10 @@
   social_art: "pseudoshow/pseudoshow_social.jpg"
   large_art: "pseudoshow/pseudoshow_large.jpg"
   email: "hello@sunriserobot.net"
-  category: "Arts"
+  categories:
+    - { category: "Arts" }
+    - { category: "Music" }
+    - { category: "Visual Arts"}
   itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
 - prefix: "likelystory"
   title: "Likely Story"
@@ -48,7 +55,9 @@
   social_art: "likelystory/likelystory_social.jpg"
   large_art: "likelystory/likelystory_large.jpg"
   email: "hello@sunriserobot.net"
-  category: "TV & Film"
+  categories:
+    - { category: "TV & Film" }
+    - { category: "Society & Culture" }
   itunes: "https://itunes.apple.com/us/podcast/likely-story/id963635858"
 - prefix: "somepulp"
   title: "Some Pulp"
@@ -61,7 +70,10 @@
   social_art: "somepulp/somepulp_social.jpg"
   large_art: "somepulp/somepulp_large.jpg"
   email: "hello@sunriserobot.net"
-  category: "TV & Film"
+  categories:
+    - { category: "TV & Film" }
+    - { category: "Society & Culture",
+        subcategory: "History" }
   itunes: "https://itunes.apple.com/us/podcast/some-pulp/id963635814"
 - prefix: "bitsandpieces"
   title: "Bits & Pieces"
@@ -79,5 +91,8 @@
   social_art: "bitsandpieces/bitsandpieces_social.png"
   large_art: "bitsandpieces/bitsandpieces_large.png"
   email: "hello@sunriserobot.net"
-  category: "Music"
+  categories:
+    - { category: "Music" }
+    - { category: "Arts" }
+    - { category: "Performing Arts" }
   itunes: "https://itunes.apple.com/us/podcast/bits-pieces/id963635806"
