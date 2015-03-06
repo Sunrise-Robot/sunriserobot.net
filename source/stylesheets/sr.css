@@ -315,9 +315,20 @@ ul.host-links li {
   margin: 24px 0 16px;
 }
 
-hr.blog-entry {
-  margin: 32px 0;
+.blog-entry blockquote {
+  font-size: 32px;
+  color: #777;
+  font-family: 'Oswald', sans-serif;
+  line-height: 40px;
+  font-weight: 300;
+  margin: 16px 0 16px 24px;
+  padding: 8px 24px 8px 24px;
   border-color: #ddd;
+}
+
+hr.blog {
+  margin: 32px 0;
+  border-color: #eee;
 }
 
 /* Links */

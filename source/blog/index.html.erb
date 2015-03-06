@@ -5,9 +5,9 @@ priority: 0.8
 ---
 <div class="container">
     <div class="blog">
-      <% 4.times do %>
       <div class="row">
         <div class="col-sm-12 col-md-10 col-lg-8 col-md-push-1 col-lg-push-2">
+        <% 3.times do %>
           <article class="blog-entry">
             <p class="blog-date">March 6, 2015</p>
             <h1 class="blog-title">Something About How Podcasts Are Cool</h1>
@@ -22,16 +22,17 @@ priority: 0.8
               <li>Stuff</li>
               <li>Crap</li>
             </ol>
+            <p>Here is a <a href="#">motherfucking hyperlink</a>.</p>
             <h2>An important subheader</h2>
             <p>Wolf whatever synth four dollar toast, bespoke put a bird on it authentic migas mustache leggings McSweeney's pour-over pork belly meditation. Tofu farm-to-table Pinterest cronut. Raw denim 3 wolf moon flannel, seitan ennui authentic shabby chic. Wes Anderson taxidermy American Apparel church-key gastropub cronut, retro hoodie Vice 3 wolf moon hashtag 90's.</p>
             <blockquote>"Here is an amazing quote. You won't believe how amazing it is. It's going to inspire you to be a better person."
             </blockquote>
             <p>You think about that.</p>
           </article>
-          <hr class="blog-entry" />
+          <hr class="blog" />
+        <% end %>
         </div>
       </div>
-      <% end %>
       <div class="row">
         <div class="col-sm-12 col-md-10 col-lg-8 col-md-push-1 col-lg-push-2">
           <nav class="text-center text-muted page-buttons"> <!-- Pagination -->
