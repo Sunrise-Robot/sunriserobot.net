@@ -1,0 +1,20 @@
+---
+title: "I Expertly Removed The Bullet I Shot Into Your Chest"
+---
+<p>Fanny pack next level biodiesel tote bag DIY, sustainable gluten-free synth dreamcatcher distillery. Disrupt Bushwick literally, Odd Future <strong>Helvetica sustainable Brooklyn</strong>. Leggings +1 organic, polaroid cronut tofu lo-fi iPhone Godard try-hard meh put a bird on it <em>pickled forage</em>.</p>
+<p>An unordered list, you jackass:</p>
+<ul>
+  <li>Stuff</li>
+  <li>Crap</li>
+</ul>
+<p>An ordered list, you jackass:</p>
+<ol>
+  <li>Stuff</li>
+  <li>Crap</li>
+</ol>
+<p>Here is a <a href="#">motherfucking hyperlink</a>.</p>
+<h2>An important subheader</h2>
+<p>Wolf whatever synth four dollar toast, bespoke put a bird on it authentic migas mustache leggings McSweeney's pour-over pork belly meditation. Tofu farm-to-table Pinterest cronut. Raw denim 3 wolf moon flannel, seitan ennui authentic shabby chic. Wes Anderson taxidermy American Apparel church-key gastropub cronut, retro hoodie Vice 3 wolf moon hashtag 90's.</p>
+<blockquote>"Here is an amazing quote. You won't believe how amazing it is. It's going to inspire you to be a better person."
+</blockquote>
+<p>You think about that.</p>
