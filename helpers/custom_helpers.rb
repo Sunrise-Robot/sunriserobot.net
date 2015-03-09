@@ -4,7 +4,7 @@ module CustomHelpers
   end
 
   def page_title
-    if current_article
+    if current_article && !(blog.options.name == "blog")
       episode_title
     elsif @show
       show_title
@@ -22,11 +22,11 @@ module CustomHelpers
   end
 
   def episode_title
-   "#{@show["title"]} ##{current_article.data.number}: #{current_article.title} | #{default_title}" 
+   "#{@show["title"]} ##{current_article.data.number}: #{current_article.title} | #{default_title}"
   end
 
   def page_description
-    if current_article
+    if current_article && !(blog.options.name == "blog")
       episode_description
     elsif @show
       show_description
