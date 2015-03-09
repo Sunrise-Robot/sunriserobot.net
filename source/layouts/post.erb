@@ -1,0 +1,28 @@
+<% wrap_layout :layout do %>
+<div class="container">
+    <div class="blog">
+      <div class="row">
+        <div class="col-sm-12 col-md-10 col-lg-8 col-md-push-1 col-lg-push-2">
+          <article class="blog-entry">
+            <p class="blog-date"><%= current_article.date %></p>
+            <h1 class="blog-title"><%= link_to current_article.title, current_article.url %></h1>
+              <%= yield %>
+          </article>
+          <hr class="blog" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 col-md-10 col-lg-8 col-md-push-1 col-lg-push-2">
+          <nav class="text-center text-muted page-buttons"> <!-- Pagination -->
+            <ul class="list-inline">
+              <li class="pull-left"><a href="#" class="btn btn-sm btn-default"><i class="fa fa-angle-left fa-fw"></i> Newer</a></li>
+              <li class="text-center text-muted page-number">Page</li>
+              <li class="pull-right"><a href="#" class="btn btn-sm btn-default">Older <i class="fa fa-angle-right fa-fw"></i></a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+</div>
+<% end %>
+
