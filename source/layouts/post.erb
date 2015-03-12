@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-sm-12 col-md-10 col-lg-8 col-md-push-1 col-lg-push-2">
           <article class="blog-entry">
-            <p class="blog-date"><%= current_article.date %></p>
+            <p class="blog-date"><%= current_article.date.strftime("%B %-d, %Y") %></p>
             <h1 class="blog-title"><%= link_to current_article.title, current_article.url %></h1>
               <%= yield %>
           </article>

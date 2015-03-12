@@ -5,7 +5,7 @@
         <div class="col-sm-12 col-md-10 col-lg-8 col-md-push-1 col-lg-push-2">
         <% blog.articles.each do |article| %>
           <article class="blog-entry">
-            <p class="blog-date"><%= article.date %></p>
+            <p class="blog-date"><%= article.date.strftime("%B %-d, %Y") %></p>
             <h1 class="blog-title"><%= link_to article.title, article.url %></h1>
               <%= article.body %>
           </article>
