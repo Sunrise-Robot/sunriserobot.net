@@ -1,5 +1,6 @@
 ---
 title: "Flying Around Like A Demon, Slaying Everyone Magically"
+permalink: butts
 ---
 <p>Fanny pack next level biodiesel tote bag DIY, sustainable gluten-free synth dreamcatcher distillery. Disrupt Bushwick literally, Odd Future <strong>Helvetica sustainable Brooklyn</strong>. Leggings +1 organic, polaroid cronut tofu lo-fi iPhone Godard try-hard meh put a bird on it <em>pickled forage</em>.</p>
 <p>An unordered list, you jackass:</p>
