@@ -29,13 +29,13 @@ body {
 }
 
 .navbar {
-  position: absolute;
-  top: 0;
+  position: relative;
   width: 100%;
   min-height: 24px;
   margin :0;
-  background-color: rgba(0,0,0,.3);
+  background-color: #fff;
   border: none;
+  border-bottom: 1px solid #ccc;
 }
 
 header {
@@ -86,7 +86,8 @@ footer {
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #fff;
+  color: #ff8100;
+  font-weight: 700;
   padding: 7px 24px 7px 7px;
 }
 
@@ -411,7 +412,9 @@ footer h2 a:hover, footer h2 a:focus {
   text-shadow: 4px 4px 0 #ffb16b, 8px 8px 0 #e86d00;
 }
 
-
+.navbar-default .navbar-nav>li>a:hover {
+  color: #aa4e00;
+}
 
 
 /* Buttons */
