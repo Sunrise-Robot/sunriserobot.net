@@ -35,7 +35,7 @@ body {
   margin :0;
   background-color: #fff;
   border: none;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #aaa;
 }
 
 header {
@@ -88,7 +88,7 @@ footer {
 .navbar-default .navbar-nav>li>a {
   color: #ff8100;
   font-weight: 400;
-  padding: 12px 24px 7px 7px;
+  padding: 12px 24px 7px 14px;
 }
 
 body {
@@ -414,6 +414,20 @@ footer h2 a:hover, footer h2 a:focus {
 
 .navbar-default .navbar-nav>li>a:hover {
   color: #aa4e00;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+  color: #aa4e00;
+  background-color: #fafafa;
+}
+
+.dropdown-menu>li>a {
+  color: #ff8100;
+}
+
+.dropdown-menu>li>a:hover {
+  color: #aa4e00;
+  background-color: #fafafa;
 }
 
 
