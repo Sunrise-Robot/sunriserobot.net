@@ -8,21 +8,23 @@ module CustomHelpers
       episode_title
     elsif @show
       show_title
+    elsif current_article && (blog.options.name == "blog")
+      "#{current_page.data.title} | #{blog_title}"
     else
-      default_title
+      "#{current_page.data.title}"
     end
   end
 
-  def default_title
-    "Sunrise Robot | Podcasts for technologists, gamers, artists and cultural enthusiasts"
-  end
-
   def show_title
-    "#{@show["title"]} | #{default_title}"
+    "#{@show["title"]} | Sunrise Robot"
   end
 
   def episode_title
-   "#{@show["title"]} ##{current_article.data.number}: #{current_article.title} | #{default_title}"
+   "#{@show["title"]} ##{current_article.data.number}: #{current_article.title} | Sunrise Robot"
+  end
+
+  def blog_title
+    "H3LiOS' Log: the Sunrise Robot blog"
   end
 
   def page_description
