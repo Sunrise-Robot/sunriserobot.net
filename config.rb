@@ -17,8 +17,9 @@ shows.each do |show|
 end
 
 activate :blog do |blog|
-  blog.name   = "blog"
-  blog.prefix = "blog"
+  blog.name      = "blog"
+  blog.prefix    = "blog"
+  blog.permalink = "{title}"
   page "#{blog.prefix}/*", layout: "post"
   page "#{blog.prefix}/index.html", layout: "blog"
 end
