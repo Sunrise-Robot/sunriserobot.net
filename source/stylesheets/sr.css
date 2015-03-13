@@ -158,6 +158,11 @@ blockquote {
   border-color: #ddd;
 }
 
+code {
+  color: #aa4e00;
+  background-color: #f4e9bd;
+}
+
 footer p, footer ul li, footer ol li {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
@@ -324,14 +329,15 @@ ul.host-links li {
 
 .blog-entry h1 {
   font-size: 32px;
-  line-height: 40px;
-  margin: 0 0 12px;
+  line-height: 32px;
+  margin: 0 0 16px;
+  padding: 0;
 }
 
 .blog-entry h2 {
   font-size: 32px;
-  line-height: 32px;
-  margin: 20px 0 12px;
+  line-height: 40px;
+  margin: 0px 0 12px;
 }
 
 .blog-entry h3, .blog-entry h4 {
@@ -583,14 +589,14 @@ footer h2 a:hover, footer h2 a:focus {
 
   .blog-entry h1 {
     font-size: 40px;
-    line-height: 48px;
+    line-height: 40px;
     margin: 0 0 16px;
   }
 
   .blog-entry h2 {
     font-size: 36px;
-    line-height: 36px;
-    margin: 24px 0 16px;
+    line-height: 48px;
+    margin: 0px 0 16px;
   }
 
   .blog-entry p {
