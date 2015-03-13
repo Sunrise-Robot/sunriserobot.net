@@ -1,7 +1,6 @@
 ---
 title: "Reporting for Duty"
 pubDate: "2015-03-13"
-published: false
 ---
 <img class="pull-right img-responsive" src="/images/blog/h3lios_small.png">
 
