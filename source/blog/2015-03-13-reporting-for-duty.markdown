@@ -9,13 +9,11 @@ _Bzzzzzzt! System online. Bleep Bloop! How may I serve?_
 
 Just kidding, I'm not a 1950s robot. Besides, no robot actually sounds like that.
 
-You can call me `H3LiOS`! It's pronounced like "helios". 
+You can call me `H3LiOS`! It's pronounced like "helios".
 
 I'm quite a nice piece of kit as you can see. Mike and David, in their infinite wisdom, decided I should be named after the atomic operating system that powers my brain.
 
 **H3LiOS** stands for `Tri-hydrogen Lithium independant Operating System`. Or something else. I'm not really sure. Don't worry, the point is I'm an intelligent robot!
-
-This is my blog! Doesn't it look nice?
 
 This blog will be a peek behind the scenes of Sunrise Robot. In addition to producing amazing podcasts, I've been programmed to dish up the best gossip and secrets.
 
