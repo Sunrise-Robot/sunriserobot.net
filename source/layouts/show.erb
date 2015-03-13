@@ -1,3 +1,4 @@
+<% @show = @shows.find { |show| current_blog.options.prefix.match(/#{show["prefix"]}/) } %>
 <!DOCTYPE html>
 <html lang="en">
   <%= partial "layouts/head" %>
@@ -47,7 +48,7 @@
       </div>
     </section> <!-- End of Recent Episodes & Sidebar -->
     <%= partial "layouts/footer" %>
-    
+
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
