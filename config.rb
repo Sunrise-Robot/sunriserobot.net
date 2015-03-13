@@ -1,8 +1,8 @@
-shows = YAML.load_file("source/data/shows.yml")
+@shows = YAML.load_file("source/data/shows.yml")
 
 Time.zone = "MST"
 
-shows.each do |show|
+@shows.each do |show|
   activate :blog do |blog|
     blog.permalink = "{number}"
     blog.name      = show["title"]
