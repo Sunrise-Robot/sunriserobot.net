@@ -300,19 +300,22 @@ ul.host-links li {
 
 .blog-entry p {
   font-weight: 300;
+  font-size: 18px;
 }
 
 .blog-entry ul li, .blog-entry ol li {
   font-weight: 300;
-  font-size: 20px;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
 }
 
 .blog-date {
   color: #999;
   font-family: 'Oswald', sans-serif;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 300;
-  margin: 0 0 16px;
+  margin: 0 0 12px;
 }
 
 .blog-entry h2, .blog-entry h3, .blog-entry h4 {
@@ -320,15 +323,15 @@ ul.host-links li {
 }
 
 .blog-entry h1 {
-  font-size: 40px;
-  line-height: 48px;
-  margin: 0 0 16px;
+  font-size: 32px;
+  line-height: 40px;
+  margin: 0 0 12px;
 }
 
 .blog-entry h2 {
-  font-size: 36px;
-  line-height: 36px;
-  margin: 24px 0 16px;
+  font-size: 32px;
+  line-height: 32px;
+  margin: 20px 0 12px;
 }
 
 .blog-entry h3, .blog-entry h4 {
@@ -336,13 +339,13 @@ ul.host-links li {
 }
 
 .blog-entry blockquote {
-  font-size: 32px;
+  font-size: 24px;
   color: #777;
   font-family: 'Oswald', sans-serif;
-  line-height: 40px;
+  line-height: 32px;
   font-weight: 300;
-  margin: 16px 0 16px 24px;
-  padding: 8px 24px 8px 24px;
+  margin: 16px 0 16px 12px;
+  padding: 8px 16px 8px 16px;
   border-color: #ddd;
 }
 
@@ -428,6 +431,18 @@ footer h2 a:hover, footer h2 a:focus {
 .dropdown-menu>li>a:hover {
   color: #aa4e00;
   background-color: #fafafa;
+}
+
+.blog-home-link {
+  font-size: 14px;
+}
+
+.blog-home-link a {
+  color: #ff8100;
+}
+
+.blog-home-link a:hover {
+  text-decoration: underline;
 }
 
 
@@ -557,6 +572,38 @@ footer h2 a:hover, footer h2 a:focus {
     font-size: 48px;
     line-height: 54px;
     margin: 12px 0 12px;
+  }
+
+  .blog-entry blockquote {
+    font-size: 32px;
+    line-height: 40px;
+    margin: 16px 0 16px 24px;
+    padding: 8px 24px 8px 24px;
+  }
+
+  .blog-entry h1 {
+    font-size: 40px;
+    line-height: 48px;
+    margin: 0 0 16px;
+  }
+
+  .blog-entry h2 {
+    font-size: 36px;
+    line-height: 36px;
+    margin: 24px 0 16px;
+  }
+
+  .blog-entry p {
+    font-size: 20px;
+  }
+
+  .blog-date {
+    font-size: 24px;
+    margin: 0 0 16px;
+  }
+
+  .blog-entry ul li, .blog-entry ol li {
+    font-size: 20px;
   }
 
 }
