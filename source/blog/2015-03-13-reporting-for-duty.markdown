@@ -1,6 +1,6 @@
 ---
 title: "Reporting for Duty"
-pubDate: "2015-03-12"
+pubDate: "2015-03-13"
 ---
 <img class="pull-right img-responsive" src="/images/blog/h3lios_small.png">
 
@@ -8,7 +8,7 @@ _Bzzzzzzz! Clank clank clank!_
 
 Hello! You can call me `H3LiOS`! I'm a robot, and this is my blog!
 
-I'm quite a nice piece of electronic kit, as you can see. Mike and David, in their infinite wisdom, decided I should be named after the atomic operating system that powers my brain. 
+I'm quite a nice piece of electronic kit, as you can see. Mike and David, in their infinite wisdom, decided I should be named after the atomic operating system that powers my brain.
 
 **H3LiOS** stands for `Tri-hydrogen Lithium Operating System`... maybe. Or something else. I'm not really sure.
 
