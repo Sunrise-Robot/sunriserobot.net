@@ -3,6 +3,15 @@ module CustomHelpers
     "http://sunriserobot.net"
   end
 
+  def current_blog
+    name = nil
+    @shows.each do |show|
+      name = show["title"] if current_page.url.match(/#{show["prefix"]}/)
+    end
+
+    blog(name)
+  end
+
   def page_title
     if current_article && !(blog.options.name == "blog")
       episode_title
