@@ -2,11 +2,10 @@
 number: "58"
 title: "They’ve Cross-faded Real Life"
 pubDate: "2015-03-17"
-description: "Lyons comes clean about his feelings for Apple. Nintendo may or may not be doing something great at some point in the future. Disney does The Internet of Things the right way. And Meerkat we hardly knew ye."
+description: "Lyons comes clean about his feelings for Apple. Nintendo may or may not be doing something great at some point in the future. Disney does The Internet of Things the right way. And Meerkat, we hardly knew ye."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft58.mp3"
-enclosure_length: "41453741"
-duration: "01:24:45"
-published: false
+enclosure_length: "33701906"
+duration: "01:08:36"
 ---
 - [I just tried the Apple Watch for myself and it's complicated](http://www.businessinsider.com/apple-watch-hands-on-its-complicated-2015-3#ixzz3Twkf9M1A)
 - [All The iPhone Apps You Can’t Delete Are There For Rich People](https://medium.com/@caseyjohnston/all-the-iphone-apps-you-can-t-delete-are-there-for-rich-people-5aca5d100855)
@@ -19,4 +18,3 @@ published: false
 - [Edward Snowden issues 'call to arms' for tech companies in secret SXSW meeting](http://www.theverge.com/2015/3/15/8218659/edward-snowden-secret-sxsw-2015-meeting)
 - [Xcode Compromised](http://furbo.org/2015/03/10/xcode-compromised/)
 - [Twitter Chokes Off Meerkat’s Access To Its Social Network](http://www.buzzfeed.com/mathonan/twitter-chokes-off-meerkats-access-to-its-social-graph#.rykVNvoGg)
-
