@@ -78,6 +78,10 @@ footer {
   margin-top: 32px;
 }
 
+.press-quote {
+  margin: 96px 16px 0 0;
+}
+
 
 /* Typography */
 
@@ -145,6 +149,14 @@ h4 {
   font-size: 24px;
   line-height: 32px;
   margin: 0 0 4px;
+}
+
+.press-quote h1, .press-quote h2, .press-quote h3, .press-quote h4 {
+  margin-bottom: 16px;
+}
+
+.attribution {
+  float: right;
 }
 
 blockquote {
@@ -360,6 +372,22 @@ hr.blog {
   border-color: #eee;
 }
 
+.press-quote p {
+  font-style: italic;
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 32px;
+  color: #666;
+}
+
+.quote-img {
+  margin: 0;
+  padding: 0;
+  padding-right: 12px;
+}
+
+
+
 /* Links */
 
 a, a:active {
@@ -450,6 +478,12 @@ footer h2 a:hover, footer h2 a:focus {
 .blog-home-link a:hover {
   text-decoration: underline;
 }
+
+.press-quote a, .press-quote a:link {
+  font-weight: 400;
+}
+
+
 
 
 /* Buttons */
