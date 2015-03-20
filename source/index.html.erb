@@ -14,7 +14,7 @@ priority: 1.0
               <div class="caption">
                 <h2 class="index-show-title"><a href="<%= show["prefix"] %>"><%= show["title"] %></a></h2>
                 <p class="index-show-desc"><%= show["description"] %></p>
-                <p><% if show["itunes"] %><a href="<%= show["itunes"] %>" class="btn btn-itunes" role="button"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= show["prefix"] %>/feed.xml" class="btn btn-rss" role="button"><i class="fa fa-rss"></i> RSS</a></p>
+                <p><% if show["itunes"] %><a href="<%= show["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= show["prefix"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a></p>
               </div>
             </div>
           </div>
@@ -22,5 +22,5 @@ priority: 1.0
         </div>
         <% end %>
       </div>
-    </article>
+</article>
 
