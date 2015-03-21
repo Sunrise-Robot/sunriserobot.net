@@ -14,24 +14,22 @@
               </div>
             </div>
             <% end %>
-
             <div class="support-sidebar">
-              <h3>The Show Must Go On</h3>
-              <p>If you like what we're doing, then help us keep the lights on and the episodes coming!</p>
-              <p><a href="/support" class="btn btn-lg btn-support"><i class="fa fa-thumbs-up fa-fw"></i> Support The Show</a></p>
+            <h3>The Show Must Go On</h3>
+            <p>If you like what we're doing, then help us keep the lights on and the episodes coming!</p>
+            <p><a href="/support" class="btn btn-lg btn-support" onclick="ga('send', 'event', 'support', 'click', 'from_show', 1);"><i class="fa fa-thumbs-up fa-fw"></i> Support The Show</a></p>
             </div>
-
             <div class="press">
-              <h3>Praise for Flipping Tables</h3>
+              <h4>Praise for <%= @show["title"] %></h4>
+              <% @show["praise"].each do |praise| %>
               <div class="quote">
-                <img class="pull-left quote-img" src="/images/assets/quote.png" />
-                <p>If you're looking for nerds opining about technology, throw a dart at iTunes. With Flipping Tables, David and Michael provide an often missing ingredient: perspective. Even when they're full of shit, they're still smarter than you.</p>
-                <p class="attribution"><a href="http://matthewdjordan.com/">- Matthew D. Jordan</a></p>
-              </div>
-              <div class="quote">
-                <img class="pull-left quote-img" src="/images/assets/quote.png" />
-                <p>Flipping Tables cuts the fat - they simply ask the same questions you do, then dust it with humor and an agnostic perspective.</p>
-                <p class="attribution"><a href="http://matthewdjordan.com/">- Matthew D. Jordan</a></p>
-              </div>
+              <img class="pull-left quote-img" src="/images/assets/quote.png" />
+              <p><%= praise["quote"] %></p>
+              <p class="attribution">- <%= if praise["link"].empty?
+                praise["name"]
+              else
+                "<a href=\"http://#{praise["link"]}\">#{praise["name"]}</a>"
+              end %></p>
             </div>
+            <% end %>
           </aside> <!-- End of Sidebar -->
