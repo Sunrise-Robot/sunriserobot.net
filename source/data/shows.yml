@@ -20,6 +20,13 @@
     - { category: "Gaming & Hobbies",
         subcategory: "Video Games" }
   itunes: "https://itunes.apple.com/us/podcast/flipping-tables/id820841907"
+  praise:
+    - { name: "Matthew D. Jordan",
+        link: "matthewdjordan.com",
+        quote: "If you're looking for nerds opining about technology, throw a dart at iTunes. With Flipping Tables, David and Michael provide an often missing ingredient: perspective. Even when they're full of shit, they're still smarter than you." }
+    - { name: "Mark Suman",
+        link: "marksuman.com",
+        quote: "These guys are great - the perfect combo of tech, humor, and pop culture." }
 - prefix: "pseudoshow"
   title: "The Pseudo Show"
   hosts:
@@ -43,6 +50,13 @@
         subcategory: "Visual Arts" }
     - { category: "Music" }
   itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
+  praise:
+    - { name: "Phoebe Spier",
+        link: "phoebespier.com",
+        quote: "The Pseudo Show is a must-listen for all creatives and those whose lives are influenced by creatives (everyone!)" }
+    - { name: "Besty Lay",
+        link: "betsylay.bandcamp.com",
+        quote: "Creative, insightful, and fun." }
 - prefix: "likelystory"
   title: "Likely Story"
   hosts:
@@ -61,6 +75,13 @@
     - { category: "TV & Film" }
     - { category: "Society & Culture" }
   itunes: "https://itunes.apple.com/us/podcast/likely-story/id963635858"
+  praise:
+    - { name: "Kelly Rivera",
+        link: "",
+        quote: "These two make me laugh so hard that I peed myself... Always brings a smile to my face and can't wait for more!" }
+    - { name: "John Kyed",
+        link: "",
+        quote: "These two are a trip. Can't wait to hear more and more!" }
 - prefix: "somepulp"
   title: "Some Pulp"
   hosts:
@@ -77,6 +98,13 @@
     - { category: "Society & Culture",
         subcategory: "History" }
   itunes: "https://itunes.apple.com/us/podcast/some-pulp/id963635814"
+  praise:
+    - { name: "Carolyn Kraut",
+        link: "twitter.com/cmkraut",
+        quote: "Unlike most pop culture themed podcasts, Bruce chooses to dissect very specific themes that mean a lot to him personally." }
+    - { name: "Tara Newman",
+        link: "",
+        quote: "Who doesn't love little retro these days? Great find!" }
 - prefix: "bitsandpieces"
   title: "Bits & Pieces"
   hosts:
@@ -98,3 +126,10 @@
     - { category: "Arts" }
     - { category: "Performing Arts" }
   itunes: "https://itunes.apple.com/us/podcast/bits-pieces/id963635806"
+  praise:
+    - { name: "Benji Robinson",
+        link: "twitter.com/benjirobinson",
+        quote: "It's like a cool book club for music lovers." }
+    - { name: "Dave Glassner",
+        link: "",
+        quote: "Mike and Matt are both practicing musicians which lends a new angle to their take on current music and trends. I really appreciate and enjoy their weekly picks. In just two episodes I've expanded my music listening to the bands they've recommended. Great stuff all around." }
