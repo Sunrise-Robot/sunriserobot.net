@@ -78,6 +78,15 @@ footer {
   margin-top: 32px;
 }
 
+.press {
+  margin: 32px 16px 0 0;
+}
+
+.quote {
+  clear: both;
+  margin-bottom: 64px;
+}
+
 
 /* Typography */
 
@@ -145,6 +154,25 @@ h4 {
   font-size: 24px;
   line-height: 32px;
   margin: 0 0 4px;
+}
+
+.support-sidebar p {
+  color: #666;
+  font-weight: 300;
+}
+
+.press h1, .press h2, .press h3, .press h4 {
+  margin-bottom: 8px;
+}
+
+.press h3 {
+  font-size: 28px;
+  line-height: 36px;
+}
+
+.attribution {
+  float: right;
+  margin-right: 24px;
 }
 
 blockquote {
@@ -360,6 +388,23 @@ hr.blog {
   border-color: #eee;
 }
 
+.press p {
+  font-style: italic;
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 32px;
+  color: #666;
+  margin: 0;
+}
+
+.quote-img {
+  padding: 0;
+  padding-right: 12px;
+  clear: both;
+}
+
+
+
 /* Links */
 
 a, a:active {
@@ -450,6 +495,12 @@ footer h2 a:hover, footer h2 a:focus {
 .blog-home-link a:hover {
   text-decoration: underline;
 }
+
+.press a, .press a:link {
+  font-weight: 400;
+}
+
+
 
 
 /* Buttons */
@@ -648,6 +699,15 @@ footer h2 a:hover, footer h2 a:focus {
     line-height: 48px;
   }
 
+  .press {
+    margin: 32px 24px 0 0;
+  }
+
+  .press h3 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+
   footer h2 {
     font-size: 54px;
     line-height: 60px;
@@ -715,6 +775,15 @@ footer h2 a:hover, footer h2 a:focus {
 
   ul.host-links li {
     line-height: 24px;
+  }
+
+  .press {
+    margin: 32px 24px 0 0;
+  }
+
+  .press h3 {
+    font-size: 28px;
+    line-height: 36px;
   }
 
   footer h2 {
