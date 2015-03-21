@@ -28,7 +28,7 @@
             <% blog.articles.each do |episode| %>
             <li>
               <pre><code>
-**<%= @show["title"] %>** [#<%= episode.data.number %> - <%= episode.title %>](<%= "//sunriserobot.net#{episode.url}" %>)
+**<%= @show["title"] %>** [#<%= episode.data.number %> - <%= episode.title %>](<%= "//sunriserobot.net#{episode.url}?utm_source=reddit&utm_medium=dailypodcast&utm_campaign=feed" %>)
 
 <%= episode.data.description %>
 
