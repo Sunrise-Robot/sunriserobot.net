@@ -3,10 +3,9 @@ number: "59"
 title: "A Lot of Little Stabby Moments"
 pubDate: "2015-03-24"
 description: "OneShot forgets how Twitter works. Nintendo partners with a pay-to-win company. Good guy Microsoft plans to bring Cortana to Android and iOS. And USB-C is a standard worthy of our love (and maybe fear.)"
-enclosure_link: ""
-enclosure_length: ""
-duration: "01:08:36"
-published: false
+enclosure_link: "http://audio.simplecast.fm/9447.mp3"
+enclosure_length: "45779151"
+duration: "01:02:31"
 ---
 - [Twitter Vets Launch OneShot, An App For Highlighting And Tweeting Screenshots Of Text](http://techcrunch.com/2015/03/02/twitter-vets-launch-oneshot-an-app-for-highlighting-and-tweeting-screenshots-of-text/)
 - [You Might Not Like The Company Making Mobile Games With Nintendo](http://kotaku.com/you-might-not-like-the-company-making-nintendos-mobile-1691952503)
@@ -17,4 +16,3 @@ published: false
 - [The NSA Is Going to Love These USB-C Charging Cables](http://gizmodo.com/he-nsa-is-going-to-love-these-usb-c-charging-cables-1691781672)
 - [The Original USB Condom](http://int3.cc/products/usbcondoms)
 - [Mortal Kombat X - Quitality](https://www.youtube.com/watch?v=aGaDqao99ZE)
-
