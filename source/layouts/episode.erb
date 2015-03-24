@@ -36,6 +36,7 @@
               <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://sunriserobot.net<%= current_article.url %>" class="btn btn-facebook" onclick="ga('send', 'event', 'share_button', 'click', 'facebook', 1);"><i class="fa fa-facebook fa-lg fa-fw"></i></a></li>
               <li><a href="https://plus.google.com/share?url=http://sunriserobot.net<%= current_article.url %>" class="btn btn-google" onclick="ga('send', 'event', 'share_button', 'click', 'gplus', 1);"><i class="fa fa-google-plus fa-lg fa-fw"></i></a></li>
             </ul>
+            <p class="back-to-episode-list"><a href="/<%= @show["prefix"] %>"><i class="fa fa-angle-left fa-fw"></i> back to full episode list</a></p>
           </article> <!-- End Show Notes -->
 
           <hr class="hidden-sm hidden-md hidden-lg"/> <!-- horizontal rule for mobile only -->

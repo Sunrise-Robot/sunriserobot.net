@@ -403,6 +403,10 @@ hr.blog {
   clear: both;
 }
 
+.back-to-episode-list {
+  font-size: 14px;
+}
+
 
 
 /* Links */
@@ -500,26 +504,17 @@ footer h2 a:hover, footer h2 a:focus {
   font-weight: 400;
 }
 
+.back-to-episode-list a {
+  color: #666;
+}
 
+.back-to-episode-list a:hover {
+  text-decoration: none;
+  color: #ff8100;
+}
 
 
 /* Buttons */
-
-/*.btn-default {
-  color: #fff;
-  background-color: #ff7800;
-  border-color: #df6900;
-}
-.btn-default:hover,
-.btn-default:focus,
-.btn-default.focus,
-.btn-default:active,
-.btn-default.active,
-.open > .dropdown-toggle.btn-default {
-  color: #ff7800;
-  background-color: #ffe7d2;
-  border-color: #fcb06a;
-}*/
 
 .btn-itunes {
   color: #fff;
@@ -706,6 +701,10 @@ footer h2 a:hover, footer h2 a:focus {
   .press h3 {
     font-size: 24px;
     line-height: 36px;
+  }
+
+  .back-to-episode-list {
+    text-align: center;
   }
 
   footer h2 {
