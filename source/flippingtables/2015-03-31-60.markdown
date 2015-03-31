@@ -3,10 +3,9 @@ number: "60"
 title: "Weaponized"
 pubDate: "2015-03-31"
 description: "Even we make mistakes sometimes. Luckily it wasn't anything important. Food robots are surprisingly hilarious. We finally found out how the Daily Show collects all those amazing clips. Neptune may be the future of computing. And live streaming! Spoiler: it's dead. Or isn't. Or is."
-enclosure_link: "http://audio.simplecast.fm/9447.mp3"
-enclosure_length: ""
-duration: ""
-published: false
+enclosure_link: "http://audio.simplecast.fm/9721.mp3"
+enclosure_length: "54945582"
+duration: "01:15:15"
 ---
 - [Bored Elon Musk on Twitter](https://twitter.com/BoredElonMusk/status/580469127686561792/photo/1)
 - [George R.R. Martin doesn't know why you care so much about spoilers](http://www.theverge.com/2015/3/25/8287909/game-of-thrones-season-five-george-r-r-martin-hbo)
