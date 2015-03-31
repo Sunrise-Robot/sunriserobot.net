@@ -1,0 +1,25 @@
+---
+number: "60"
+title: "Weaponized"
+pubDate: "2015-03-31"
+description: "Even we make mistakes sometimes. Luckily it wasn't anything important. Food robots are surprisingly hilarious. We finally found out how the Daily Show collects all those amazing clips. Neptune may be the future of computing. And live streaming! Spoiler: it's dead. Or isn't. Or is."
+enclosure_link: "http://audio.simplecast.fm/9447.mp3"
+enclosure_length: ""
+duration: ""
+published: false
+---
+- [Bored Elon Musk on Twitter](https://twitter.com/BoredElonMusk/status/580469127686561792/photo/1)
+- [George R.R. Martin doesn't know why you care so much about spoilers](http://www.theverge.com/2015/3/25/8287909/game-of-thrones-season-five-george-r-r-martin-hbo)
+- [Microsoft Clears Up Just Who Gets Free Windows 10](https://www.yahoo.com/tech/microsoft-clarifies-who-gets-free-windows-10-114730456889.html)
+- [Easy Cheese 3D Printer](https://www.youtube.com/watch?v=uCy0NEbJf4s)
+- [Heinz Automato](https://www.youtube.com/watch?v=JcniyQYFU6M)
+- [The User is Drunk](http://theuserisdrunk.com/)
+- [motherfuckingwebsite.com](http://motherfuckingwebsite.com/)
+- [Inside the Secret Technology that Makes 'The Daily Show' and 'Last Week Tonight' Work](http://splitsider.com/2015/03/inside-the-secret-technology-that-makes-the-daily-show-and-last-night-tonight-work/)
+- [Descent: Underground revives classic PC game series](https://www.kickstarter.com/projects/descendentstudios/descent-underground)
+- [The Joy and Misery of Life With a Grotesquely Large "Smartwatch"](http://gizmodo.com/the-joy-and-misery-of-life-with-a-grotesquely-large-sm-1637632048)
+- [Neptune Suite: a Taste of What Computing Should Be in 2025](http://www.wired.com/2015/03/neptune-suite-taste-computing-2025/)
+- [Meerkat](//meerkat.com)
+- [Periscope](//periscope.tv)
+- [Stre.am](//stre.am)
+- [Meerkat is dying – and it’s taking U.S. tech journalism with it](http://bgr.com/2015/03/30/meerkat-vs-periscope-analysis-journalism/)
