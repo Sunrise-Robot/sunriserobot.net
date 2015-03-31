@@ -22,3 +22,4 @@ duration: "01:15:15"
 - [Periscope](//periscope.tv)
 - [Stre.am](//stre.am)
 - [Meerkat is dying – and it’s taking U.S. tech journalism with it](http://bgr.com/2015/03/30/meerkat-vs-periscope-analysis-journalism/)
+- [A video of us badly testing out Periscope](https://www.youtube.com/watch?v=uGvDURIdJQw&feature=youtu.be)
