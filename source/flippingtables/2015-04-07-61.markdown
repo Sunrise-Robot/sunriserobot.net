@@ -1,0 +1,20 @@
+---
+number: "61"
+title: "Did You Really Mean 25 Tides?"
+pubDate: "2015-04-07"
+description: "John Oliver and Edward Snowden make the American people care about government surveillance with dick pics. Nintendo continues to hate people who advertise their products for them. Amazon brings 1-click ordering to your house. And someone staples a gameboy camera to a handgun."
+enclosure_link: ""
+enclosure_length: ""
+duration: ""
+published: false
+---
+- [The Game Boy Camera Gun: Because Russia](http://www.dorkly.com/post/73694/the-game-boy-camera-gun-because-russia)
+- [John Oliver on Government Surveillance (Video)](https://www.youtube.com/watch?v=XEVlyP4_11M)
+- [Popular YouTuber Quits Doing Nintendo Videos Due To Strict Policies](http://mynintendonews.com/2015/04/06/popular-youtuber-quits-doing-nintendo-videos-due-to-strict-policies/)
+- [College Humor: Every YouTube Gamer Ever](https://www.youtube.com/watch?v=_4PnboqFwiI)
+- [GameGrumps on reddit: Singing mentioned in recent episodes](https://www.reddit.com/r/gamegrumps/comments/2yhj6l/singing_mentioned_in_recent_episodes/cp9s378)
+- [snopes.com: Happy Birthday, We'll Sue](http://www.snopes.com/music/songs/birthday.asp)
+- [You can now run Android apps on a Mac or PC with Google Chrome](http://www.theverge.com/2015/4/3/8339197/android-apps-on-windows-mac-linux-chrome-os)
+- [Amazon Dash Button](https://www.amazon.com/oc/dash-button)
+- [Amazon Dash](https://fresh.amazon.com/dash/)
+- [Amazon Dash Replenishment Service](https://www.amazon.com/oc/dash-replenishment-service)
