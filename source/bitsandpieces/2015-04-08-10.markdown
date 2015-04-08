@@ -3,10 +3,9 @@ number: "10"
 title: "People Can Believe The Wrong Thing If It Makes Things Cheaper For Me"
 pubDate: "2015-04-08"
 description: "Kid Rock is asked by a court to produce a strange item, Jay Z unveils Tidal, his Spotify competitor, and then we explore a huge variety of experimental and alternative instruments before revealing our latest Picks of the Week."
-enclosure_link: "URL"
-enclosure_length: "00000"
-duration: "00:00:00"
-published: "false"
+enclosure_link: "http://audio.simplecast.fm/9992.mp3"
+enclosure_length: "27172515"
+duration: "00:48:57"
 ---
 - [Kid Rock Subpoenaed To Produce Glass Dildo As Evidence In Insane Clown Posse Lawsuit](http://www.stereogum.com/1693871/kid-rock-subpoenaed-to-produce-glass-dildo-as-evidence-in-insane-clown-posse-lawsuit/news/?utm_source=share-red&utm_medium=button)
 - [Galaxy Nexus: Android Ice Cream Sandwich guinea pig](https://imgur.com/gallery/xe7Uw)
