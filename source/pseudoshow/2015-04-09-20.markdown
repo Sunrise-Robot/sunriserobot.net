@@ -2,11 +2,10 @@
 number: "20"
 title: "Talking Creativity in Music with Robert Delong"
 pubDate: "2015-04-09"
-description: "Electronic Pop musician Robert Delong sat down before his set at the Lost Lake Lounge to discuss his work creating phenomenal electro-pop songs with keyboards, drums, and a variety of custom hardware and software, including Nintendo and PC controllers and joysticks."
-enclosure_link: "URL"
+description: "Electro-pop musician Robert Delong sat down before his set at the Lost Lake Lounge to discuss his work creating phenomenal songs with keyboards, drums, and a variety of custom hardware and software, including Nintendo and PC controllers and joysticks."
+enclosure_link: "http://audio.simplecast.fm/10018.mp3"
 enclosure_length: "9489384"
 duration: "00:13:49"
-published: "false"
 ---
 - [VIDEO: Long Way Down](https://www.youtube.com/watch?v=U-ZDBddRXFA)
 - [Robert Delong official website](http://robertdelong.com)
