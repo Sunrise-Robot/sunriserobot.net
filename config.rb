@@ -1,6 +1,6 @@
 @shows = YAML.load_file("source/data/shows.yml")
 
-Time.zone = "MST"
+Time.zone = "EST"
 
 @shows.each do |show|
   activate :blog do |blog|
