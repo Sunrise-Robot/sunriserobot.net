@@ -1,0 +1,13 @@
+---
+number: "21"
+title: "The Making of Boomtown: An Interview with Chimney Choir"
+pubDate: "2015-04-14"
+description: "Denver band Chimney Choir discusses their collaboration with Wonderbound on Boomtown. Learn how their entire creative process has been transformed, what they've learned about living and creating in Denver, and the latest details of their postponed-yet-still-forthcoming Dream album."
+enclosure_link: "http://audio.simplecast.fm/10175.mp3"
+enclosure_length: "16827478"
+duration: "00:28:22"
+---
+- [Boomtown - April 17-25](http://wonderbound.com/shows-events/boomtown-2015/)
+- Follow the Chimney Choir on [Facebook](https://www.facebook.com/ChimneyChoir) and [Twitter](https://twitter.com/chimneychoir)
+- [Chimney Choir on the web](http://chimneychoir.com/)
+- [Dream album on Indiegogo](https://www.indiegogo.com/projects/chimney-choir-s-dream-album)
