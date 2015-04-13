@@ -1,0 +1,12 @@
+---
+number: "6"
+title: "Look At You, Being All Fancy"
+pubDate: "2015-04-12"
+description: "Polly bought her wedding dress. Shelby complains about being tired. The Slap is finally over and everyone is thrilled. Polly & Shelby have a love-fest about CW show, iZombie. Also: Summer tv premieres are discussed."
+enclosure_link: "http://audio.simplecast.fm/10173.mp3"
+enclosure_length: "24877772"
+duration: "00:46:18"
+---
+- [TV Premiere Dates for Summer Shows](http://www.metacritic.com/feature/tv-premiere-dates)
+- [True Detective trailer](http://variety.com/2015/tv/news/true-detective-season-2-watch-trailer-video-1201469406/) 
+- [Daily Show Successor Trevor Noah Finds Himself Catching Criticism, Not Dealing It Out NY Times](http://www.nytimes.com/2015/04/10/arts/television/daily-show-trevor-noah-controversy-twitter.html)
