@@ -1,0 +1,21 @@
+---
+number: "62"
+title: ""
+pubDate: "2015-04-14"
+description: "The Grid wants to make web design algorithmic. The Basilisk wants to make managing humanity algorithmic. Adobe refuses to by TLDs defensively. And Mike tried on an Apple Watch."
+enclosure_link: ""
+enclosure_length: ""
+duration: ""
+published: false
+---
+- [Apple Watch 38mm Milanese Loop](http://store.apple.com/us/product/MJ5E2ZM/A/38mm-milanese-loop)
+- [Roko’s Basilisk](http://rationalwiki.org/wiki/Roko%27s_basilisk)
+- [The Grid](http://thegrid.io)
+- [Foundation and Earth](http://en.wikipedia.org/wiki/Foundation_and_Earth)
+- [spacejam.com](http://www2.warnerbros.com/spacejam/movie/jam.htm)
+- [A New Internet Domain: Extortion Or Free Speech?](http://www.npr.org/blogs/alltechconsidered/2015/04/07/397886748/a-new-internet-domain-extortion-or-free-speech)
+- [Seeing Through the Illusion: Understanding Apple’s Mastery of the Media](http://9to5mac.com/2014/08/29/seeing-through-the-illusion-understanding-apples-mastery-of-the-media/)
+- [Super Mario World 2: Yoshi's Island](http://en.wikipedia.org/wiki/Super_Mario_World_2:_Yoshi's_Island)
+- [Yoshi’s Island DS](http://en.wikipedia.org/wiki/Yoshi's_Island_DS)
+- [Yoshi’s New Island](http://en.wikipedia.org/wiki/Yoshi%27s_New_Island)
+- [The Pseudobook](https://itunes.apple.com/us/book/the-pseudobook/id509396187?mt=11)
