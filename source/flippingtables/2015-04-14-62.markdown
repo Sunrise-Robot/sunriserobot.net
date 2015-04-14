@@ -1,12 +1,11 @@
 ---
 number: "62"
-title: ""
+title: "So That You Don't Crumple In Certain Ways"
 pubDate: "2015-04-14"
-description: "The Grid wants to make web design algorithmic. The Basilisk wants to make managing humanity algorithmic. Adobe refuses to by TLDs defensively. And Mike tried on an Apple Watch."
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
-published: false
+description: "The Grid wants to make web design algorithmic. The Basilisk wants to make managing humanity algorithmic. Adobe refuses to buy TLDs defensively. And Mike tried on an Apple Watch and has some things to say about supposedly 'intuitive' interfaces."
+enclosure_link: "http://audio.simplecast.fm/10328.mp3"
+enclosure_length: "34049611"
+duration: "01:02:06"
 ---
 - [Apple Watch 38mm Milanese Loop](http://store.apple.com/us/product/MJ5E2ZM/A/38mm-milanese-loop)
 - [Roko’s Basilisk](http://rationalwiki.org/wiki/Roko%27s_basilisk)
