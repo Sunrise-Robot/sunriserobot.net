@@ -3,7 +3,7 @@ number: "44"
 title: "Balloons That Rain Down Wifi on Africa"
 pubDate: "2014-12-10"
 description: "Square Enix continues trolling the world by releasing the original FFVII on PS4 like it was a big deal, and the 3D version of FFIV on Steam as if that was the version we wanted. Suikoden proves some games can cast off RPG tropes. Wire is yet another revolutionary chat app. And Google fixes the CAPTCHA."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft044.mp3"
+enclosure_link: "http://audio.simplecast.fm/10417.mp3"
 enclosure_length: "26843850"
 duration: "00:59:05"
 ---

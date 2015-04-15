@@ -1,9 +1,9 @@
 ---
 number: "0"
-title: Nintendo Is Doomed
-pubDate: 2014-02-11
-description: In this inaugural episode, David and Mike kick things off with a discussion of Nintendo's woes. In the mix are console redesigns, the consistency of the Zelda series, Sega's disappointing life as a 3rd party developer, and the dubious future of games-only appliances. Honorable mention to the latest craze Flappy Bird.
-enclosure_link: http://traffic.libsyn.com/sunriserobot/ft000.mp3
+title: "Nintendo Is Doomed"
+pubDate: "2014-02-11"
+description: "In this inaugural episode, David and Mike kick things off with a discussion of Nintendo's woes. In the mix are console redesigns, the consistency of the Zelda series, Sega's disappointing life as a 3rd party developer, and the dubious future of games-only appliances. Honorable mention to the latest craze Flappy Bird."
+enclosure_link: "http://audio.simplecast.fm/10373.mp3"
 enclosure_length: "27506917"
 duration: "00:55:09"
 ---

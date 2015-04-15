@@ -3,7 +3,7 @@ number: "62"
 title: "So That You Don't Crumple In Certain Ways"
 pubDate: "2015-04-14"
 description: "The Grid wants to make web design algorithmic. The Basilisk wants to make managing humanity algorithmic. Adobe refuses to buy TLDs defensively. And Mike tried on an Apple Watch and has some things to say about supposedly 'intuitive' interfaces."
-enclosure_link: "http://audio.simplecast.fm/10328.mp3"
+enclosure_link: "http://audio.simplecast.fm/10435.mp3"
 enclosure_length: "34049611"
 duration: "01:02:06"
 ---

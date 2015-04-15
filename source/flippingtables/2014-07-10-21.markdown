@@ -3,7 +3,7 @@ number: "21"
 title: "Who Algorithms the Algorithmers?"
 pubDate: "2014-07-10"
 description: "Follow-up about classic games and emulators gives way to a discussion of the strange implementation of \"Right to be Forgotten\" legislation in the EU. Also, Goldman Sachs asks Google to mess with someone's Gmail inbox, and what would it take for you to quit Facebook?"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft021.mp3"
+enclosure_link: "http://audio.simplecast.fm/10394.mp3"
 enclosure_length: "60065083"
 duration: "01:00:38"
 ---

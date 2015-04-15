@@ -3,7 +3,7 @@ number: "60"
 title: "Weaponized"
 pubDate: "2015-03-31"
 description: "Even we make mistakes sometimes. Luckily it wasn't anything important. Food robots are surprisingly hilarious. We finally found out how the Daily Show collects all those amazing clips. Neptune may be the future of computing. And live streaming! Spoiler: it's dead. Or isn't. Or is."
-enclosure_link: "http://audio.simplecast.fm/9721.mp3"
+enclosure_link: "http://audio.simplecast.fm/10433.mp3"
 enclosure_length: "54945582"
 duration: "01:15:15"
 ---

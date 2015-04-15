@@ -3,7 +3,7 @@ number: "57"
 title: "Old Man Yells At Watch"
 pubDate: "2015-03-10"
 description: "The Apple Watch is here, but that new Macbook is way more interesting. Valve is killing it with Steam Machines and the Steam Link. And there's a smart pocket watch running Firefox OS. Yes you read that correctly."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft57.mp3"
+enclosure_link: "http://audio.simplecast.fm/10430.mp3"
 enclosure_length: "41453741"
 duration: "01:24:45"
 ---
@@ -16,4 +16,3 @@ duration: "01:24:45"
 - [TMNT Walkie Talkie](http://i.imgur.com/ZeqUTOD.jpg)
 - [How Google’s New Wireless Service Will Change the Internet](http://www.wired.com/2015/03/googles-new-wireless-service-will-change-internet/)
 - [This is a perfectly circular phone, and it's wonderfully weird](http://www.theverge.com/2015/3/3/8140023/smart-pocket-watch-mwc-gadget)
-

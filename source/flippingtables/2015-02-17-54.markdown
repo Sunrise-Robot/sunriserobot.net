@@ -3,7 +3,7 @@ number: "54"
 title: "Flying Around Like A Demon, Slaying Everyone Magically"
 pubDate: "2015-02-17"
 description: "People are still modding DOOM. Samsung gets punished for doing the right thing and the wrong thing. And we talk about (The Onion's version of) the Apple Car."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft54.mp3"
+enclosure_link: "http://audio.simplecast.fm/10427.mp3"
 enclosure_length: "25895941"
 duration: "00:52:21"
 ---
@@ -16,4 +16,3 @@ duration: "00:52:21"
 - [Samsung TVs start inserting ads into your movies](https://gigaom.com/2015/02/10/samsung-tvs-start-inserting-ads-into-your-movies/)
 - [Report: Apple has “several hundred” staffers building an electric car](http://arstechnica.com/cars/2015/02/report-apple-has-several-hundred-staffers-building-an-electric-car/)
 - [Features Of The Apple Car](http://www.theonion.com/articles/features-of-the-apple-car,38023/)
-

@@ -3,7 +3,7 @@ number: "39"
 title: "I Swooned, I’ll See You After My Nap"
 pubDate: "2014-11-04"
 description: "If talking about meta-gaming is a kind of meta-gaming then we're all meta-gamers now! CurrentC does us all a favor and proves that it's a joke prior to release, smalltowns are NFC poor, and region locked gaming is confirmed to be dumb."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft039.mp3"
+enclosure_link: "http://audio.simplecast.fm/10412.mp3"
 enclosure_length: "48243077"
 duration: "01:04:08"
 ---

@@ -3,7 +3,7 @@ number: "53"
 title: "Think of the Spectrum"
 pubDate: "2015-02-10"
 description: "Net Neutrality wins! Maybe, sort of, we'll see... also Nintendo has a new 3DS coming out and Comcast is still insulting its customers."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft53.mp3"
+enclosure_link: "http://audio.simplecast.fm/10426.mp3"
 enclosure_length: "30983065"
 duration: "01:02:57"
 ---

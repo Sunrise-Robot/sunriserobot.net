@@ -3,7 +3,7 @@ number: "18"
 title: "The Smart Cup is Stupid"
 pubDate: "2014-06-17"
 description: "A philosophical discussion about what is worth spending your time on in modern society gets eaten alive by Hipster Ipsum and depressing TV show finales."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft018.mp3"
+enclosure_link: "http://audio.simplecast.fm/10391.mp3"
 enclosure_length: "57586567"
 duration: "00:58:03"
 ---

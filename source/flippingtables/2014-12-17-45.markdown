@@ -3,7 +3,7 @@ number: "45"
 title: "Sonic On Gamegear Is Not A Good Look"
 pubDate: "2014-12-17"
 description: "Lyons rights an ancient wrong by finally playing GoldenEye. Teens play Megaman and are surprisingly optimistic about how bad they are. Gangnam Style actually breaks Youtube. And Pebble finds a way to stay in the game a little longer."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft045.mp3"
+enclosure_link: "http://audio.simplecast.fm/10418.mp3"
 enclosure_length: "27425389"
 duration: "00:54:59"
 ---

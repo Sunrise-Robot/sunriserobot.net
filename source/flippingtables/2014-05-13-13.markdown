@@ -3,7 +3,7 @@ number: "13"
 title: "Just Gunshots for 15 to 30 Seconds"
 pubDate: "2014-05-13"
 description: "Rat-a-tat-a-tat pchoom pchoooooom pew pew pew ptwoh boom rattle rattle pecha kucha ch chk pow!"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft013.mp3"
+enclosure_link: "http://audio.simplecast.fm/10386.mp3"
 enclosure_length: "62657688"
 duration: "01:03:20"
 ---

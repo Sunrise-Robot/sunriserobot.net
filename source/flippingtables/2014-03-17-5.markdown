@@ -3,7 +3,7 @@ number: "5"
 title: "Internet Sins"
 pubDate: "2014-03-17"
 description: "David and Mike flip many tables talking about their most hated \"internet sins\", including unsolicited newsletters, blogspam practices, and evil software installers from Adobe and Microsoft."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft005.mp3"
+enclosure_link: "http://audio.simplecast.fm/10378.mp3"
 enclosure_length: "47540820"
 duration: "01:03:26"
 ---

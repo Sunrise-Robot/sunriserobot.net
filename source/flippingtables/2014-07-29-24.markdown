@@ -3,7 +3,7 @@ number: "24"
 title: "David Lynch Does Not Have All The Answers"
 pubDate: "2014-07-29"
 description: "Flipping Tables is flipping even more tables on Twitter, Google+ Facebook and now even Youtube! This week we debate streaming vs buying music, the merits of 3D movies, and wonder if anyone actually goes to the theater anymore at all. Don't you have like a 42\" tv at home?!"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft024.mp3"
+enclosure_link: "http://audio.simplecast.fm/10397.mp3"
 enclosure_length: "59998400"
 duration: "01:00:21"
 ---

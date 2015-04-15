@@ -3,7 +3,7 @@ number: "49"
 title: "Everything I Know About Him Is That He Is A Miserable Failure"
 pubDate: "2015-01-13"
 description: "CES 2015 is over and we're not going to recap it because we're better than that, but we will talk about it. Just the interesting parts though. Promise. Also, RealPlayer thinks they're a startup now?"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft049.mp3"
+enclosure_link: "http://audio.simplecast.fm/10422.mp3"
 enclosure_length: "25322059"
 duration: "00:50:35"
 ---

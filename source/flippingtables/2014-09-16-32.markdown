@@ -3,7 +3,7 @@ number: "32"
 title: "There's Lots of Evil Car Salesmen"
 pubDate: "2014-09-16"
 description: "The Apple Watch gets a brief mention because that's all it deserves. U2 and Urban Outfitters inspire a discussion about stupid decisions and the subsequent PR backlashes, as we also take a look at the Bullet Journal and Opp.io. Is there a journaling system that Mike can succeed with?"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft032.mp3"
+enclosure_link: "http://audio.simplecast.fm/10405.mp3"
 enclosure_length: "37426496"
 duration: "00:49:07"
 ---

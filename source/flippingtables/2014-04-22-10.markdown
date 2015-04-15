@@ -3,7 +3,7 @@ number: "10"
 title: "It Has an Internally Consistent Narrative"
 pubDate: "2014-04-22"
 description: "Mike finally delivers an original theme song for the show! Heartbleed and security are revisited before the discussion gives way to video game music and sandbox simulators of the goat and tabletop variety."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft010.mp3"
+enclosure_link: "http://audio.simplecast.fm/10383.mp3"
 enclosure_length: "41547970"
 duration: "00:55:07"
 ---

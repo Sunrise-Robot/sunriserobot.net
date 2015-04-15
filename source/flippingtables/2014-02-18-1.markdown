@@ -3,7 +3,7 @@ number: "1"
 title: "Ender's Game"
 pubDate: "2014-02-18"
 description: "Tables get flipped over the Ender’s Game movie, a discussion follows about the past and future of Star Wars, while the Star Trek reboot gets compared to Star Wars."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft001.mp3"
+enclosure_link: "http://audio.simplecast.fm/10374.mp3"
 enclosure_length: "47796167"
 duration: "01:04:57"
 ---

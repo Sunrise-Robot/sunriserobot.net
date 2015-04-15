@@ -3,7 +3,7 @@ number: "51"
 title: "Sport Puck"
 pubDate: "2015-01-27"
 description: "It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft051.mp3"
+enclosure_link: "http://audio.simplecast.fm/10424.mp3"
 enclosure_length: "34098683"
 duration: "01:08:53"
 ---

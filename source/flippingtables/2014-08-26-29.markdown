@@ -3,7 +3,7 @@ number: "29"
 title: "Yeah, It’s An Incomprehensible Mess"
 pubDate: "2014-08-26"
 description: "What is Twitch.tv and why do people care about watching other people play video games on the internet? Also, how Slack might change the way you communicate in teams."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft029.mp3"
+enclosure_link: "http://audio.simplecast.fm/10402.mp3"
 enclosure_length: "54798140"
 duration: "00:54:56"
 ---

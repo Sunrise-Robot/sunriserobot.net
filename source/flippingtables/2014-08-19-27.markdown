@@ -3,7 +3,7 @@ number: "27"
 title: "The Quiet Frustration That Rises In You"
 pubDate: "2014-08-19"
 description: "Technology in sports is here to stay, but how much is too much before it becomes a different game altogether? Do we need \"pure human leagues\" and \"robo leagues\"? Also, with all our keyboards and touchscreens, why should anyone care about penmanship? Our very first flipping of a TED talk table!"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft027.mp3"
+enclosure_link: "http://audio.simplecast.fm/10400.mp3"
 enclosure_length: "57399526"
 duration: "00:57:38"
 ---

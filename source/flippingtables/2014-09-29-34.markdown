@@ -3,7 +3,7 @@ number: "34"
 title: "Get In My Magic School Bus"
 pubDate: "2014-09-29"
 description: "Shellshock is another \"the internet is doomed\" bug, the Yahoo Directory apparently still exists but not for much longer, Ello is pretty ugly for a \"designer built\" product, and iPhones bend when enough pressure is applied. With all that said, have you ever dollar sign hash placid fourteen mapped your way to a national park?"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft034.mp3"
+enclosure_link: "http://audio.simplecast.fm/10407.mp3"
 enclosure_length: "41714744"
 duration: "00:55:04"
 ---

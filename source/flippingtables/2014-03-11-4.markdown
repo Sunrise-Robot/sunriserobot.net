@@ -3,12 +3,10 @@ number: "4"
 title: "Could You Live Without Google?"
 pubDate: "2014-03-11"
 description: "Could you live without Google? Turns out you can, but why would you want to? Gmail Man, Vine, and the secrets of Schadenfreude revealed!"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft004.mp3"
+enclosure_link: "http://audio.simplecast.fm/10377.mp3"
 enclosure_length: "45764755"
 duration: "01:00:58"
 ---
-
-
 - [Gmail Man](https://www.youtube.com/watch?v=iMbQCom7VTY)
 - [XKCD I’m a server](https://xkcd.com/869/)
 - [Mike's homescreen](https://lh5.googleusercontent.com/-xnecMy2D2Xs/Ux9OSx5mvJI/AAAAAAAABJI/lGD8fw0e8H8/w640-h1136-no/IMG_0003.PNG)

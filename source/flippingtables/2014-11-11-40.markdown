@@ -3,7 +3,7 @@ number: "40"
 title: "Superlatives Are the Best!"
 pubDate: "2014-11-11"
 description: "Unlike Comcast internet speeds, the firehose of their BS never slows down. Luckily they have a bought and paid for politician to make ridiculous statements about net neutrality. The Verge thinks the iPhone had a perfect security record, and Microsoft Research has some killer touchscreen tech."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft040.mp3"
+enclosure_link: "http://audio.simplecast.fm/10413.mp3"
 enclosure_length: "37374758"
 duration: "00:49:02"
 ---

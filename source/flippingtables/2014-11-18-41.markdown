@@ -3,7 +3,7 @@ number: "41"
 title: "Anna, Queen of the Internet"
 pubDate: "2014-11-18"
 description: "Turns out metagaming is not optional for some people. The world is confused by the world of Twitter and their craziest mission statement in the world. Sometimes the best thing doesn't win. And when did shipping unplayably broken games become okay? Answer: never!"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft041.mp3"
+enclosure_link: "http://audio.simplecast.fm/10414.mp3"
 enclosure_length: "28450812"
 duration: "00:54:58"
 ---

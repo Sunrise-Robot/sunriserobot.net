@@ -3,7 +3,7 @@ number: "50"
 title: "Maximum Computer Smartness"
 pubDate: "2015-01-21"
 description: "Smash Bros. is still fun after all these years. Mike and Lyons are going to track their internet usage. And the #SOTU shall be tweeted, youtubed, instagramed, and other Web 2.0 buzz words. Will policy actually improve though? That remains to be seen."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft050.mp3"
+enclosure_link: "http://audio.simplecast.fm/10423.mp3"
 enclosure_length: "30042003"
 duration: "01:00:26"
 ---
@@ -17,4 +17,3 @@ duration: "01:00:26"
 - [Obama talks cybersecurity, but Federal IT system breaches increasing](http://arstechnica.com/tech-policy/2015/01/obama-talks-cybersecurity-but-federal-it-systems-breaches-increase/)
 - [Rumor: 12-inch Retina MacBook/Air updates coming soon without fan or mechanical trackpad button](http://9to5mac.com/2014/03/21/rumor-12-inch-retina-macbook-air-updates-coming-soon-without-fan-or-mechanical-trackpad-button/)
 - [EyeFi](http://www.eyefi.com/)
-
