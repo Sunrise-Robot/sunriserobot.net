@@ -3,7 +3,7 @@ number: "5"
 title: "Keep Using Your One Weird Trick"
 pubDate: "2015-03-04"
 description: "Do you have to learn music theory to create music? When is it good (or bad) to drastically shift genres? Also, the record industry picks a global release day and a followup on video game music."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/bp5.mp3"
+enclosure_link: "http://audio.simplecast.fm/10440.mp3"
 enclosure_length: "25201382"
 duration: "00:43:21"
 ---

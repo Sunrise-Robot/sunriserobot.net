@@ -3,7 +3,7 @@ number: "4"
 title: "My Narnia, Not Yours: Why C. S. Lewis Mistrusted Film"
 pubDate: "2015-03-09"
 description: "1950’s Narnia-fantasist C. S. Lewis distrusted film’s ability to render a story well, convinced it short-circuited the imagination. Here’s why--and what may have changed his mind if he’d lived a little longer."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/sp4.mp3"
+enclosure_link: "http://audio.simplecast.fm/10343.mp3"
 enclosure_length: "28625531"
 duration: "00:53:56"
 ---

@@ -3,7 +3,7 @@ number: "21"
 title: "The Making of Boomtown: An Interview with Chimney Choir"
 pubDate: "2015-04-14"
 description: "Denver band Chimney Choir discusses their collaboration with Wonderbound on the new ballet 'Boomtown'. Learn how their entire creative process has been transformed, what they've learned about living and creating in Denver, and the latest details of their postponed-yet-still-forthcoming Dream album."
-enclosure_link: "http://audio.simplecast.fm/10303.mp3"
+enclosure_link: "http://audio.simplecast.fm/10366.mp3"
 enclosure_length: "16826884"
 duration: "00:28:22"
 ---

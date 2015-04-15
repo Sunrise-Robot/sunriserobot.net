@@ -3,7 +3,7 @@ number: "4"
 title: "A Giant Warehouse with a Hundred Bands Playing at Once"
 pubDate: "2015-02-25"
 description: "The hi-def Pono Player loses to the iPhone in double blind testing, while Sony wants to sell you some snake oil. Also, which social networks for musicians are actually worthwhile?"
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/bp4.mp3"
+enclosure_link: "http://audio.simplecast.fm/10439.mp3"
 enclosure_length: "24526491"
 duration: "01:02:37"
 ---

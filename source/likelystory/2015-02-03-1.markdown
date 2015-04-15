@@ -3,7 +3,7 @@ number: "1"
 title: "Please Don't Die During This Episode"
 pubDate: "2015-02-03"
 description: "In this debut episode, Polly and Shelby discuss Polly’s recent engagement, the pure devastation that Parenthood has ended, why they don’t care about the Super Bowl this year, and how the Netflix show Peaky Blinders is truly amazing."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ls1.mp3"
+enclosure_link: "http://audio.simplecast.fm/10367.mp3"
 enclosure_length: "22201693"
 duration: "00:43:26"
 ---

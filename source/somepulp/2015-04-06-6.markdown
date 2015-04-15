@@ -3,7 +3,7 @@ number: "6"
 title: "I Don't Care If I Never Get Back: The Golden Age of Baseball Radio Broadcasts"
 pubDate: "2015-04-06"
 description: "How did baseball come to be America's national pastime? Also, a deep look at how and why radio dominated professional sports in the mid-century, and why baseball is still the sport of the future."
-enclosure_link: "http://audio.simplecast.fm/9926.mp3"
+enclosure_link: "http://audio.simplecast.fm/10345.mp3"
 enclosure_length: "36752669"
 duration: "01:06:45"
 ---

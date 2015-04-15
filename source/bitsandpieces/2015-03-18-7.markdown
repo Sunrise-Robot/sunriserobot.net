@@ -3,7 +3,7 @@ number: "7"
 title: "Someone Is Paying Me To Rap Into A Vocoder"
 pubDate: "2015-03-18"
 description: "In this episode we learn that making a buck or two on the side is easier than ever when it comes to music. Also, the industry gets shaken up by Blurred Lines and mastering doesn't have to be the ultra-high-fidelity expensive process in all cases."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/bp7.mp3"
+enclosure_link: "http://audio.simplecast.fm/10442.mp3"
 enclosure_length: "31033298"
 duration: "00:53:17"
 ---

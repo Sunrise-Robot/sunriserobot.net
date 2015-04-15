@@ -3,7 +3,7 @@ number: "2"
 title: "I Need You To Tone It Down, Music Man"
 pubDate: "2015-02-03"
 description: "How has video game music changed as gaming hardware has become more powerful? Also, a discussion of the pressure to mix your music as loud as possible with compressors and limiters."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/bp2.mp3"
+enclosure_link: "http://audio.simplecast.fm/10437.mp3"
 enclosure_length: "23783057"
 duration: "00:49:24"
 ---

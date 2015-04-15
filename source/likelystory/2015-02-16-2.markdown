@@ -3,7 +3,7 @@ number: "2"
 title: "I Hate Movies (That's A Lie)"
 pubDate: "2015-02-16"
 description: "Did you fall behind in catching new movies this year? Well so did we, but that doesn’t stop us from talking about movies and making Oscar predictions for an entire episode."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ls2.mp3"
+enclosure_link: "http://audio.simplecast.fm/10368.mp3"
 enclosure_length: "19455686"
 duration: "00:37:42"
 ---

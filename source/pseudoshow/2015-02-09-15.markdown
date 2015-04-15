@@ -3,7 +3,7 @@ number: "15"
 title: "Talking Costume Design with Rachael Kras"
 pubDate: "2015-02-09"
 description: "Rachael Kras discusses her work designing costumes for Wonderbound's newest production, Marie. Also joining the show, special guest co-host Meredith Strathmeyer."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps15.mp3"
+enclosure_link: "http://audio.simplecast.fm/10360.mp3"
 enclosure_length: "17214705"
 duration: "00:33:56"
 ---
