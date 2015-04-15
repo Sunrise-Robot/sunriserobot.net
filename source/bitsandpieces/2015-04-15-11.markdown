@@ -1,0 +1,16 @@
+---
+number: "11"
+title: "You're Normcore, I Guess"
+pubDate: "2015-04-15"
+description: "How do artists employ unique visual aesthetics to complement their music? Why doesn't Tidal co-owner Rihanna bolster the new streaming service with an exclusive for her newest single? Also: Modulince, a fascinating new DAW, and a discussion of the good and bad of live albums."
+enclosure_link: "http://audio.simplecast.fm/10453.mp3"
+enclosure_length: "26154470"
+duration: "00:44:13"
+---
+- [Behold The Half-Assed Hubris Of Tidal](http://www.stereogum.com/1790959/behold-the-half-assed-hubris-of-tidal/franchises/essay/) 
+- [Sopor Aeternus pictures](http://www.last.fm/music/Sopor+Aeternus/+images) 
+- [Modulince DAW](https://www.modulince.com/) 
+- [Mike Love - Permanent Holiday](https://www.youtube.com/watch?v=1fSXxdn0RzI&t=4m22s) 
+- [Talking Heads - This Must Be The Place](https://www.youtube.com/watch?v=E9aN93S8nl8) 
+- [Akron/Family - River](https://www.youtube.com/watch?v=pW5QCtNOLDs )
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
