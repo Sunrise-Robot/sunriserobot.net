@@ -2,9 +2,23 @@
 number: "7"
 title: "Our Nightly Noir: TV’s Dark Anti-Heroes in the 1950s and 1960s"
 pubDate: "2015-04-20"
-description: "Tracing its roots in German Expressionism and other sources, we examine the development of noir as a genre in American cinema including the careers of Roy Huggins and Richard Diamond, television shows like The Fugitive, and the expansion and lasting impact of noir on films such as Blade Runner, Dark City and the work of the Coen Brothers."
-enclosure_link: "http://audio.simplecast.fm/10542.mp3"
-enclosure_length: "52211167"
-duration: "01:11:35"
-published: "false"
+description: "Tracing its roots in German Expressionism and other sources, we examine the development of Noir as a genre in American cinema, including the careers of Roy Huggins and David Janssen, television shows like The Fugitive and Richard Diamond, Private Detective, and the expansion and lasting impact of noir today, including films such as Blade Runner, Dark City and the work of the Coen Brothers."
+enclosure_link: "http://audio.simplecast.fm/10565.mp3"
+enclosure_length: "52111483"
+duration: "01:11:26"
 ---
+- [Lighting for film noir](http://photographyhq.net/the-basics-of-lighting-for-film-noir/)
+- [The Night of the Hunter (1955)](URL)
+- [Cape Fear (1962)](http://www.imdb.com/title/tt0048424/?ref_=nv_sr_1)
+- [Roy Huggins interviews](http://www.emmytvlegends.org/interviews/people/roy-huggins)
+- [Film Noir classics](http://www.filmsite.org/filmnoir6.html)
+- [Film Noir TV (UCLA)](https://www.cinema.ucla.edu/sites/default/files/filmnoirTV.pdf )
+- [The Invaders open theme](https://youtu.be/uOLGrXOtuwQ?list=PL814B4281F0520BEC)
+- David Janssen in Richard Diamond, Private Detective. Two episodes: [1](https://youtu.be/UyuTBASP_8g) [2](https://youtu.be/kACndcWvAiM)
+- [Richard Diamond on Wikipedia](http://en.wikipedia.org/wiki/Richard_Diamond,_Private_Detective)
+- [TV Tropes on The Invaders](http://tvtropes.org/pmwiki/pmwiki.php/Series/TheInvaders)
+- [TV Tropes on The Fugitive](http://tvtropes.org/pmwiki/pmwiki.php/Series/TheFugitive)
+- [The Fugitive S02E17: The End Is But The Beginning](https://youtu.be/A5YgT2outpE)
+- [Quinn Martin opening main title sequences](http://www.leegoldberg.com/15-main-title-sequences-quinn-martin-crime-shows/)
+- [Resources on Run For Your Life](http://www.run4.us/thistownforsale.htm)
+- [Outer Limits: “Demon with a glass hand”](http://tvtropes.org/pmwiki/pmwiki.php/Series/TheOuterLimits)
