@@ -1,0 +1,17 @@
+---
+number: "22"
+title: "Eat Your Cherry Pie Before You Get To The Airport: The Documentary Filmmaker Experience"
+pubDate: "2015-04-23"
+description: " Justin speaks with documentary filmmaker/professor Scott Thurman about his experiences making the award-winning documentary “The Revisionaries.” They also discuss tips for documentarians just starting out, and how doc films can be/are more entertaining and satisfying than narrative films – scandalous!"
+enclosure_link: "http://audio.simplecast.fm/10636.mp3"
+enclosure_length: "31837704"
+duration: "00:42:56"
+---
+- [IMAGE: Justin and Scott](http://sunriserobot.net/images/pseudoshow/22/justin_scott.jpg)
+- [“The Revisionaries” website & trailer](http://www.therevisionariesmovie.com/)
+- [Paul Simon’s “You Can Call Me Al” video w/ Chevy Chase](https://www.youtube.com/watch?v=ULjCSK0oOlI)
+- [Trailer for “Thin Blue Line” by Errol Morris](https://www.youtube.com/watch?v=dNL5A4D0G4g)
+- [Trailer for “Billy The Kid” by Jennifer Venditti](https://www.youtube.com/watch?v=eQvEh9ulORk)
+- [“The Revisionaries” on Netflix](http://dvd.netflix.com/Movie/The-Revisionaries/70241261)
+- [“The Revisionaries” on PBS](http://www.pbs.org/independentlens/revisionaries/)
+- [The Texas Textbook Wars Interview with Scott Thurman](http://www.pbs.org/independentlens/blog/filmmaker-scott-thurman-on-the-texas-textbook-wars)
