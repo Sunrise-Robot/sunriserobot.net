@@ -1,0 +1,25 @@
+---
+number: "63"
+title: "Offers In-App Savings"
+pubDate: "2015-04-21"
+description: "Pseudojustin of The Pseudo Show joins us to talk making saving money as easy as the Amazon Dash Button makes spending it. Reddit has their own Button. Lyons admits he's hooked on HBO Now. The BB-8 droid from Star Wars is real(ish). Info about Google's cell service is leaked. And the FCC is unsurprisingly being sued over net neutrality."
+enclosure_link: "http://audio.simplecast.fm/10651.mp3"
+enclosure_length: "69869569"
+duration: "01:35:58"
+---
+- [Rory Sutherland: Life lessons from an ad man](http://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man)
+- [Deal: Moto 360 is Now Just $165 at the Google Store, Free Shipping Included](http://www.droid-life.com/2015/04/13/deal-moto-360-is-now-just-165-at-the-google-store-free-shipping-included/)
+- [Little Worlds Turns the Moto 360’s Flat Tire Into Something Fun](http://www.droid-life.com/2015/04/15/little-worlds-turns-the-moto-360s-flat-tire-into-something-fun/)
+- [Android Wear: wear what you want, get what you need](http://googleblog.blogspot.com/2015/04/android-wear-wear-what-you-want-get.html)
+- [Shut up and I’ll keep my money](http://www.gamrreview.com/media/images/fkod-ssb-dlc-bad-15146209029549793969492848149643.jpg)
+- [GUI Guidebook: Microsoft Bob](http://www.guidebookgallery.org/guis/bob)
+- [r/futurology: Due to recent concerns about AI by Bill Gates, Stephen Hawking, Elon Musk, and Steve Wozniak, the Lifeboat Foundation has launched an Interactive Friendly AI project.](http://www.reddit.com/r/Futurology/comments/334lb5/due_to_recent_concerns_about_ai_by_bill_gates/)
+- [lifeboat foundation](http://lifeboat.com/ex/about)
+- [Ikea’s wireless charging furniture is coming in late spring](http://www.geek.com/mobile/ikeas-wireless-charging-furniture-is-coming-in-late-spring-1620701/)
+- [Asimov’s Foundation to Become an HBO Series](http://dariopecarov.com/2015/04/18/asimovs-foundation-to-become-an-hbo-series/)
+- [Star Wars Celebration Anaheim 2015 youtube playlist](https://www.youtube.com/playlist?list=PL148kCvXk8pCalaZXaRa91cICcWECDe0O)
+- [This Star Wars super fan created his own working BB-8 droid](http://mashable.com/2015/04/19/mini-bb-8-sphero-robot-ball/)
+- [George Lucas wants to build affordable housing on his land because ‘we’ve got enough millionaires’](http://www.washingtonpost.com/news/morning-mix/wp/2015/04/17/george-lucas-wants-to-build-affordable-housing-on-his-land-because-weve-got-enough-millionaires/)
+- [The button: the fascinating social experiment driving Reddit crazy](http://www.vox.com/2015/4/10/8383165/reddit-button-explained)
+- [[Rumor] Google's Carrier Project Detailed In Leaked App - Pay-Per GB, Unused Data Refunds, In-App Service Activation, And More](http://www.androidpolice.com/2015/04/13/rumor-googles-carrier-project-detailed-in-leaked-app-pay-per-gb-unused-data-refunds-in-app-service-activation-and-more/)
+- [Net neutrality rules get published -- let the lawsuits begin](http://www.cnet.com/au/news/fccs-net-neutrality-rules-hit-federal-register-lawsuit-underway/)
