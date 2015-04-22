@@ -1,0 +1,16 @@
+---
+number: "12"
+title: "Look At Me: I Am The Metronome Now"
+pubDate: "2015-04-22"
+description: "A new wearable promises to keep your band in time without destroying your ears, Jukely promises you unlimited live shows and Google takes us inside Abbey Road studios. Also: Mumford & Sons weigh in on Tidal with their banjos and suspenders."
+enclosure_link: "http://audio.simplecast.fm/10686.mp3"
+enclosure_length: "31801551"
+duration: "00:54:04"
+---
+- [Mumford & Sons wouldn’t join Tidal even if they asked](http://www.nme.com/news/mumford-and-sons/84455) 
+- [Soundbrenner Pulse](https://www.indiegogo.com/projects/soundbrenner-pulse-wearable-device-for-musicians/)
+- [Jukely Unlimited](https://www.jukely.com/unlimited )
+- [Inside Abbey Road](https://insideabbeyroad.withgoogle.com/en )
+- [Alarmist - Bathtime For Squid](https://alarmist.bandcamp.com/track/bathtime-for-squid)
+- [Postmodern Jukebox - Creep (Radiohead Cover)](https://www.youtube.com/watch?v=m3lF2qEA2cw)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm) 
