@@ -8,8 +8,7 @@ enclosure_length: "52111483"
 duration: "01:11:26"
 ---
 - [Lighting for film noir](http://photographyhq.net/the-basics-of-lighting-for-film-noir/)
-- [The Night of the Hunter (1955)](URL)
-- [Cape Fear (1962)](http://www.imdb.com/title/tt0048424/?ref_=nv_sr_1)
+- [The Night of the Hunter (1955)](http://www.imdb.com/title/tt0048424/?ref_=nv_sr_1)
 - [Roy Huggins interviews](http://www.emmytvlegends.org/interviews/people/roy-huggins)
 - [Film Noir classics](http://www.filmsite.org/filmnoir6.html)
 - [Film Noir TV (UCLA)](https://www.cinema.ucla.edu/sites/default/files/filmnoirTV.pdf )
@@ -22,3 +21,4 @@ duration: "01:11:26"
 - [Quinn Martin opening main title sequences](http://www.leegoldberg.com/15-main-title-sequences-quinn-martin-crime-shows/)
 - [Resources on Run For Your Life](http://www.run4.us/thistownforsale.htm)
 - [Outer Limits: “Demon with a glass hand”](http://tvtropes.org/pmwiki/pmwiki.php/Series/TheOuterLimits)
+- [It's Amazing How Badly Fox Screwed Up Joss Whedon's 'Firefly'](http://www.businessinsider.com/fox-screwed-up-firefly-2014-9#ixzz3Y4nXQ0v9)
