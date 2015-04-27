@@ -1,0 +1,12 @@
+---
+number: "7"
+title: "He’s Back In The NFL Y’all"
+pubDate: "2015-04-27"
+description: "Polly has mixed feelings about zombies, serial killers, and recording during the Pittsburgh Penguins playoff game. Shelby is obsessed with Game of Thrones. Oh yeah, and Tim Tebow is back in the NFL."
+enclosure_link: "http://audio.simplecast.fm/10751.mp3"
+enclosure_length: "32564657"
+duration: "00:43:20"
+---
+- [iZombie’s Villain Is Disarmingly Charming For A Dead Guy](http://io9.com/izombies-villain-is-disarmingly-charming-for-a-dead-guy-1693707307) 
+- [The Fall Has Been Renewed For A Third Season](http://variety.com/2015/tv/global/the-fall-renewed-for-season-3-with-jamie-dornan-gillian-anderson-1201449808/) 
+- [Tim Tebow Is Going To The Eagles](http://www.nytimes.com/2015/04/21/sports/tim-tebow-joining-a-crowd-of-eagles-quarterbacks.html?_r=1)
