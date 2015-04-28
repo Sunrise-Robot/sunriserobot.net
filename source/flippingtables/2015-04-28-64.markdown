@@ -1,0 +1,24 @@
+---
+number: "64"
+title: "I Surf The Web Indiscriminately"
+pubDate: "2015-04-28"
+description: "Lyons gets called out on geek naming sins. Google fi is happening and all the rumors were true. Google Contributor is happening and Mike is unsure if it’ll take hold. Are there too many hamburger menus in apps and at Burger King? And Mike’s first days with the Apple Watch."
+enclosure_link: "http://audio.simplecast.fm/11062.mp3"
+enclosure_length: "56049037"
+duration: "01:16:46"
+---
+- [Sphero - This is the Droid You’re Looking For](http://www.gosphero.com/starwars/)
+- [THANK GOD - You'll Be Able To Buy Your Own BB-8 Droid](http://www.dorkly.com/post/73991/thank-god-youll-be-able-to-get-your-own-bb-8-this-christmas)
+- [Use the Force, Harry](http://i.imgur.com/syeCDxG.jpg)
+- [Say hi to Fi: A new way to say hello](http://googleblog.blogspot.com/2015/04/project-fi.html)
+- [Project Fi](https://fi.google.com/about/)
+- [T-Mobile's John Legere finds a way to knock Sprint in Google Project Fi announcement](http://www.theverge.com/2015/4/22/8469879/t-mobile-ceo-john-legere-sprint-google-project-fi)
+- [T-Mobile G1, HTC Dream](http://en.wikipedia.org/wiki/HTC_Dream)
+- [Google Contributor](https://www.google.com/contributor/welcome/)
+- [Harrison Bergeron](http://en.wikipedia.org/wiki/Harrison_Bergeron)
+- [Apple says it removed apps with Pebble compatibility by mistake](http://www.theverge.com/2015/4/24/8493483/apple-app-update-pebble-policy)
+- [Black Mirror: Fifteen Million Merits](http://en.wikipedia.org/wiki/Fifteen_Million_Merits)
+- [Apple on Hamburger Menus](http://blog.manbolo.com/2014/06/30/apple-on-hamburger-menus)
+- [Burger King offers Hamburgers for Breakfast](https://instagram.com/p/19pN2NqHn_/)
+- [Konami Cancels Guillermo del Toro’s Silent Hill Game](http://www.theverge.com/2015/4/27/8503181/silent-hills-cancelled)
+- [IGN - P.T. Demo Walkthrough](http://www.ign.com/wikis/silent-hills/P.T._Demo_Walkthrough)
