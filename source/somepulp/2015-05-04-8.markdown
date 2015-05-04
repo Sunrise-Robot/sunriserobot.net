@@ -1,0 +1,30 @@
+---
+number: "8"
+title: "Robot Parade: From Klaatu to the 6 Million Dollar Man"
+pubDate: "2015-05-04"
+description: "In cinema, robots have been our friends, our helpers, or our enemies and destroyers. This episode is a deep dive into how robots have been depicted in tv and film, including such classics as The Day The Earth Stood Still, Forbidden Planet, and Kronos, to the Jetsons, Twilight Zone, and eventually George Lucas' Star Wars."
+enclosure_link: "http://audio.simplecast.fm/11173.mp3"
+enclosure_length: "42350028"
+duration: "00:57:53"
+---
+- [Ex Machina (trailer)](http://www.youtube.com/watch?v=XYGzRB4Pnq8)
+- [Kronos (trailer)](https://youtu.be/dxwxL6xDT3s)
+- [The Day The Earth Stood Still (trailer)](https://youtu.be/OfpSXI8_UpY)
+- [Lost in Space (CBS TV Show): Dr. Smith's exchanges with Robot](https://www.youtube.com/watch?v=jfh-YY465HA)
+- [Lost in Space: Dick Tufeld (robot voice) tribute](https://www.youtube.com/watch?v=GydbuH4C8QA)
+- [Original Lux Radio presentation of The Day the Earth Stood Still](https://youtu.be/dOrQ78guYoo)
+- [Twilight Zone, "The Mighty Casey"](http://www.tv.com/shows/the-twilight-zone/watch/the-mighty-casey-12619/)
+- [Pop culture and the Pastime: Baseball and the Twilight Zone](http://www.hardballtimes.com/tht-live/pop-culture-and-the-pastime-baseball-and-the-twilight-zone/)
+- [Outer Limits, "Demon With a Glass Hand"](https://youtu.be/wekTMh2CjEQ)
+- [Outer Limits, "I, Robot"](http://www.hulu.com/watch/155117)
+- [Music for Robots](https://youtu.be/6P4NDVrfOZU)
+- [Best Robot Science Fiction Books](http://bestsciencefictionbooks.com/best-robot-science-fiction-books.php)
+- [Vintage Toy Robots & Retro Robot Signs](http://www.retroplanet.com/CTGY/Robots)
+- [Robot Island](http://www.robotisland.com)
+- [Robot Commando](https://youtu.be/DJFzi6Gx7SA)
+- [Time Warp Toys](http://www.timewarptoys.com/toptoys.htm#commando)
+- [MST3K Robots -- Gypsy, Tom Servo, Crow](http://en.wikipedia.org/wiki/Tom_Servo)
+- [IMDB List of Robot Themed Movies](http://www.imdb.com/list/ls057630572/)
+- [Sample List of favorite cinematic robots](http://listverse.com/2008/08/01/top-10-greatest-robots-in-movies/)
+- [Asimov’s Laws of Robotics](http://sf-encyclopedia.com/entry/laws_of_robotics)
+- [Pulp Magazines featuring Robots](https://www.google.com/search?q=pulp+robot+covers&client=safari&rls=en&tbm=isch&tbo=u&source=univ&sa=X&ei=BFQ5VbmtDYnkoASzxICYCA&ved=0CCYQsAQ&biw=1092&bih=586)
