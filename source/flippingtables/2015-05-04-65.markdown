@@ -3,23 +3,22 @@ number: "65"
 title: "We Want You To Gamity Game Game Game"
 pubDate: "2015-05-04"
 description: "Mike and Lyons gush about hardware. Valve apologizes for paid mods on Steam. Tons of awesome (and skepticism) came out of Microsoft Build. Elon Musk and Tesla are trying to save the world. And Mike is delighted by Miyamoto being delighted."
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
-published: false
+enclosure_link: "http://audio.simplecast.fm/11208.mp3"
+enclosure_length: "72098053"
+duration: "01:39:03"
 ---
-- [Apple works with Pebble to fix apps being rejected for mentioning Pebble in the code](http://www.pocket-lint.com/news/133683-apple-works-with-pebble-to-fix-apps-being-rejected-for-mentioning-pebble-in-the-code)
+- [Apple Works With Pebble to Fix Apps Being Rejected for Mentioning Pebble in the Code](http://www.pocket-lint.com/news/133683-apple-works-with-pebble-to-fix-apps-being-rejected-for-mentioning-pebble-in-the-code)
 - [Digit.co](https://digit.co/)
-- [Court says T-Mobile owns the color magenta](http://www.washingtonpost.com/blogs/the-switch/wp/2014/02/10/court-says-t-mobile-owns-the-color-magenta/)
-- [kristoff cunningham on twitter re: burgers for breakfast](https://twitter.com/stoffington/status/594983937656500225/photo/1)
-- [Table flip arcade game](http://imgur.com/JACwaSE)
+- [Court Says T-Mobile Owns the Color Magenta](http://www.washingtonpost.com/blogs/the-switch/wp/2014/02/10/court-says-t-mobile-owns-the-color-magenta/)
+- [Kristoff Cunningham on twitter re: burgers for breakfast](https://twitter.com/stoffington/status/594983937656500225/photo/1)
+- [Table Flip arcade game](http://imgur.com/JACwaSE)
 - [People Got So Into This Strange Internet Button They Made Up Religions ](http://gizmodo.com/people-got-so-into-this-strange-internet-button-they-ma-1700779699)
-- [Apple is rejecting Watch apps that only tell the time](http://mashable.com/2015/04/28/apple-watch-faces/)
+- [Apple Is Rejecting Watch Apps That Only Tell the Time](http://mashable.com/2015/04/28/apple-watch-faces/)
 - [Valve CEO: 'Pissing off the internet costs you a million bucks in just a couple of days'](http://www.businessinsider.com/valve-ends-paid-skyrim-mods-2015-4)
 - [All the Important Stuff Microsoft Announced at Build 2015 Today](http://lifehacker.com/all-the-important-stuff-microsoft-announced-at-build-20-1700943959)
 - [Your Windows 10 phone can turn into a full PC](http://www.theverge.com/2015/4/29/8513519/microsoft-windows-10-continuum-for-phones)
 - [Tesla Energy](http://www.teslamotors.com/presskit/teslaenergy)
-- [Watch Elon Musk announce Tesla Energy in the best tech keynote I've ever seen](http://www.theverge.com/2015/5/1/8527543/elon-musk-tesla-battery-feels)
+- [Watch Elon Musk Announce Tesla Energy in the Best Tech Keynote I've Ever Seen](http://www.theverge.com/2015/5/1/8527543/elon-musk-tesla-battery-feels)
 - [Elon Musk Debuts the Tesla Powerwall](https://youtu.be/yKORsrlN-2k)
 - [Watch Retro Game Master delight in Shigeru Miyamoto's many deaths](http://www.polygon.com/2015/4/27/8502745/retro-game-master-shigeru-miyamoto)
-- [Miyamoto Smiling with Gamers at e3](http://www.laparent.com/wp-content/uploads/2014/06/gaming.jpg)
+- [Miyamoto Smiling with Gamers at E3](http://www.laparent.com/wp-content/uploads/2014/06/gaming.jpg)
