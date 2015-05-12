@@ -1,0 +1,17 @@
+---
+number: "66"
+title: "Physics Textbook Lorem Ipsum"
+pubDate: "2015-05-12"
+description: "Lyons finds his place outside the modder community. Playable Teaser disappears from the store. Kickstarter is sometimes great and sometimes funds mojitos. And a gamer beats Mega Man X and X2 at the same time on the same controller."
+enclosure_link: ""
+enclosure_length: ""
+duration: ""
+published: false
+---
+- [Moon Physics + Carmageddon Mod - GTA V](https://youtu.be/USewOn1x5lo)
+- [@rothgar on twitter, re: breakfast burger](https://twitter.com/rothgar/status/595618534299951106)
+- [PT no longer downloadable, even if you own it](https://www.reddit.com/r/Games/comments/350gsk/pt_no_longer_downloadable_even_if_you_own_it/)
+- [Creepy Fiberglass ‘Selfie Arm’ Adds the Illusion of a Friend to a Self-Portrait Photo](http://laughingsquid.com/creepy-fiberglass-selfie-arm-adds-the-illusion-of-a-friend-to-a-self-portrait-photo/)
+- [Did the Creators of a $1M Kickstarter Botch Production or Blow the Cash on Mojitos?](http://observer.com/2015/04/did-the-creators-of-a-1m-kickstarter-botch-production-or-blow-the-cash-on-mojitos/)
+- [The Terrible Fate of Abandoned Kickstarter Games](http://www.dorkly.com/post/74150/what-happens-to-abandoned-kickstarter-games)
+- [Gamer Beats Mega Man X And X2 Together... Using The Same Controller](http://kotaku.com/gamer-beats-mega-man-x-and-x2-together-using-the-sam-1703472353)
