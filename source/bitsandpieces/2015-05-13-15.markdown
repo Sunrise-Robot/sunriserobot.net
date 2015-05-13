@@ -1,6 +1,6 @@
 ---
 number: "15"
-title: "Come On Now Deepak Chopra, Make A Stand."
+title: "Come On Now Deepak Chopra, Make A Stand"
 pubDate: "2015-05-13"
 description: "Grooveshark is back! Apple might be out to kill free music streaming, the Z-Tar is a strange midi guitar and much laughter is had about drugs at festivals and a curious lazy music generator."
 enclosure_link: "http://audio.simplecast.fm/11478.mp3"
