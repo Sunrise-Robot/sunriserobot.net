@@ -1,0 +1,19 @@
+---
+number: "15"
+title: "Come On Now Deepak Chopra, Make A Stand."
+pubDate: "2015-05-13"
+description: "Grooveshark is back! Apple might be out to kill free music streaming, the Z-Tar is a strange midi guitar and much laughter is had about drugs at festivals and a curious lazy music generator."
+enclosure_link: "http://audio.simplecast.fm/11478.mp3"
+enclosure_length: "23974662"
+duration: "00:42:45"
+---
+- [Grooveshark is back! Well, not really](http://www.theverge.com/2015/5/5/8555327/grooveshark-clone-revives-music-streaming-site)
+- [Noel Gallagher on Tidal](http://www.rollingstone.com/music/features/noel-gallagher-sounds-off-on-tidal-zayn-malik-and-same-sex-marriage-20150505?page=4)
+- [Apple Pushing music labels to kill free Spotify](http://www.theverge.com/2015/5/4/8540935/apple-labels-spotify-streaming)
+- [The Z-Tar](http://www.starrlabs.com/)
+- [Sony vs. Soundcloud](http://www.theverge.com/2015/5/6/8561781/soundcloud-sony-music-negotiation-breakdown-songs-pulled )
+- [New study reveals most popular drugs at American music festivals](http://consequenceofsound.net/2015/05/new-study-reveals-most-popular-drugs-at-american-music-festivals/)
+- [Lazy Lyrics Generator](http://www.song-lyrics-generator.org.uk/)
+- [Owen Pallett (Final Fantasy) - Many Lives / 49 MP](https://www.youtube.com/watch?v=AqzBRqcCBec)
+- [Fredrik - Milo](https://www.youtube.com/watch?v=QM0ykVc3gU8)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
