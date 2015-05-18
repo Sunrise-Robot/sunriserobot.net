@@ -1,0 +1,17 @@
+---
+number: "9"
+title: "Comics in the 1950s and 60s -- Green Lantern is Too Yellow to Defeat Yellow"
+pubDate: "2015-05-18"
+description: "What was it like discovering comic books in the 1950s and 60s? Learn why Bruce favored DC Comics over pre-rebirth Marvel, his fascination with superhero origin stories, and what the first superhero tv shows were like. Finally, learn the fate of Bruce's sizeable collection of Golden and Silver Age comics."
+enclosure_link: "http://audio.simplecast.fm/11895.mp3"
+enclosure_length: "42616208"
+duration: "00:58:15"
+---
+- [Akron, Ohio](http://en.wikipedia.org/wiki/Akron,_Ohio)
+- [DC Comics](http://en.wikipedia.org/wiki/DC_Comics)
+- [Marvel Comics](http://en.wikipedia.org/wiki/Marvel_Comics)
+- [Stan Lee](http://en.wikipedia.org/wiki/Stan_Lee)
+- [Batman](http://en.wikipedia.org/wiki/Batman)
+- [Superman](http://en.wikipedia.org/wiki/Superman)
+- [Green Lantern](http://en.wikipedia.org/wiki/Green_Lantern)
+- [Fantastic Four](http://en.wikipedia.org/wiki/Fantastic_Four)
