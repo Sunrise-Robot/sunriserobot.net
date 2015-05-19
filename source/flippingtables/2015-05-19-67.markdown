@@ -1,0 +1,18 @@
+---
+number: "67"
+title: "Download A Spoon From The Internet"
+pubDate: "2015-05-19"
+description: "Followup inception creates its own followup. Microsoft proves old habits die hard. 3D printing is even more amazing than we thought. And what is up with this Spiderman toy?"
+enclosure_link: ""
+enclosure_length: ""
+duration: ""
+published: false
+---
+- [Microsoft will bypass carriers, push Windows 10 updates directly to phones](http://www.pcworld.com/article/2923085/microsoft-will-bypass-carriers-push-windows-10-updates-directly-to-phones.html#tk.rss_all)
+- [Introducing Windows 10 Editions](https://blogs.windows.com/bloggingwindows/2015/05/13/introducing-windows-10-editions/)
+- [Apple Confirms Their Web Crawler](http://searchengineland.com/apple-confirms-their-web-crawler-applebot-220423)
+- [WatchDots let you customize Apple Watch w/ $10 decals for Digital Crown & button (Giveaway)](http://9to5mac.com/2015/05/14/watchdots-apple-watch-decals/)
+- [Nothing About This Toy Makes Any Sense](https://vid.me/WaJr)
+- [Amazon Echo: Five months in, it's the most used gadget in my home](http://www.zdnet.com/article/amazon-echo-revisited-5-months-later/)
+- [Blind mom-to-be meets her unborn baby through 3D-printed ultrasound](http://wkrn.com/2015/05/07/blind-mom-to-be-meets-her-unborn-baby-through-3d-printed-ultrasound/)
+- [3D Printing with Bamboo Wood Filament](https://learn.adafruit.com/3d-printing-with-bamboo-wood-filament/overview)
