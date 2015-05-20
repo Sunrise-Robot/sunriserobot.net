@@ -3,10 +3,9 @@ number: "16"
 title: "What Is Ian’s Magic Box Doing?"
 pubDate: "2015-05-20"
 description: "A band pulls a PR stunt and gets called out by the internet mob. Typedrummer is a really cool drum machine web app, American Idol calls it a day and nobody cares. Also: Learn why you should never leave Facebook even if you hate it."
-enclosure_link: "URL"
-enclosure_length: "TEXT"
-duration: "TEXT"
-published: "false"
+enclosure_link: "http://audio.simplecast.fm/12049.mp3"
+enclosure_length: "21873614"
+duration: "00:42:30"
 ---
 - [“I've got 99 problems [...] And Jay Z is not the one I'm thinking about.”](http://www.philly.com/philly/entertainment/music/20150517_Jay_Z_s_Tidal_is_working_hard_to_catch_a_wave.html)
 - [Typedrummer](http://typedrummer.com/)
