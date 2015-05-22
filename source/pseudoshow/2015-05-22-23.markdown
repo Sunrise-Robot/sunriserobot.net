@@ -1,0 +1,12 @@
+---
+number: "23"
+title: "Talking Music Business with Storm Gloor"
+pubDate: "2015-05-22"
+description: "Does Silicon Valley own the future of music? How should musicians navigate the rapidly changing market with streaming services, social media, and a constantly increasing competition for attention? Music industry veteran and university professor Storm Gloor joins to discuss these questions and much more!"
+enclosure_link: "http://audio.simplecast.fm/12489.mp3"
+enclosure_length: "35907439"
+duration: "00:48:35"
+---
+[What's in a name? For a singer, probably a lot!](http://www.usatoday.com/story/money/business/2015/03/12/brands-in-song-lyrics/70176372/)
+[I Teach Online: Storm Gloor](https://www.youtube.com/watch?v=smccno_QNjI)
+[Glendale's Music Man: Storm Gloor](http://www.glendale.co.us/DocumentCenter/View/467)
