@@ -1,0 +1,22 @@
+---
+number: "68"
+title: "There's Always A Brick Somewhere"
+pubDate: "2015-05-26"
+description: "Lyons is living fingerprint unlock life. Smartstraps try to make Smartwatches smarter. Podcasts are coming to Spotify, but only if you're a special snowflake. The Void is VR 'laser tag on steroids'. And Nintendo is making theme park rides for Universal Studios!"
+enclosure_link: ""
+enclosure_length: ""
+duration: ""
+published: false
+---
+- [Samsung Galaxy S6](http://www.samsung.com/us/explore/galaxy-s-6-features-and-specs/?cid=ppc-)
+- [Aria: Gesture Control for Smartwatches](http://www.gadgetify.com/aria-gesture/)
+- [Pebble Smartstraps Are Coming—And Here's What They Might Do](http://readwrite.com/2015/04/17/pebble-time-smartstrap-preview)
+- [Inside the labs where Netflix is trying to make televisions suck less](http://www.theverge.com/2015/5/21/8635587/inside-the-netflix-tv-testing-labs)
+- [Netflix Recommended Tvs](https://devices.netflix.com/recommendedtv/)
+- [Podcasts are coming to Spotify](http://thenextweb.com/apps/2015/05/20/podcasts-are-coming-to-spotify/)
+- [Ocarina of Time speedrun](http://www.twitch.tv/skater82297/v/4798001)
+- [How Long To Beat? Dragon Quest IX](http://howlongtobeat.com/game.php?id=2817)
+- [Nintendo rides are coming to Universal theme parks](http://www.theverge.com/2015/5/7/8564337/nintendo-universal-theme-park-licensing-deal)
+- [DirectX-12-Demo von Final Fantasy 15 (Build 2015)](https://www.youtube.com/watch?feature=player_embedded&v=e1mwhdYZvSE)
+- [LG unveils wallpaper OLED panel](http://www.koreatimesus.com/lg-unveils-wallpaper-oled-panel/)
+- [The Void wants to offer fully immersive virtual reality games](http://www.engadget.com/2015/05/10/the-void-virtual-reality/)
