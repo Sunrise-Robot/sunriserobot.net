@@ -1,0 +1,18 @@
+---
+number: "9"
+title: "He Felt the Vibrations of Their Boxes"
+pubDate: "2015-05-25"
+description: "Shelby moved to the suburbs and got cable again. The new season of The Bachelorette just started and it’s as crazy as you would expect. Polly explains the new toll lanes along US 36 in Colorado. Also: an update on iZombie and rumors of a Gilmore Girls reunion.  "
+enclosure_link: "http://audio.simplecast.fm/12524.mp3"
+enclosure_length: "43932020"
+duration: "00:59:08"
+---
+- [Memorial Day](http://en.wikipedia.org/wiki/Memorial_Day)
+- [What you need to know about the Denver - Boulder express toll lanes - CPR](http://www.cpr.org/news/story/what-you-need-know-about-denver-boulder-us-36-express-lanes-tolls)
+- [Final tolls approved for US 36 - CPR](http://www.cpr.org/news/story/final-tolls-approved-us-36-express-heres-what-itll-cost-you)
+- [The surprisingly feminist roots of the Bachelorette](http://time.com/3853715/the-bachelorette-helen-gurley-brown/)
+- [Britt likes Shawn B, He likes Kaitlyn - VIDEO](http://abc.go.com/shows/the-bachelorette/video/VDKA0_zd1zvp5z) 
+- [Why did The Bachelorette let rape jokes air?](http://time.com/3887315/the-bachelorette-premiere-rape-jokes/?utm_content=buffer92853&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Can Connecticut’s American Idol Winner Nick Fradiani Expect Stardom?](http://www.courant.com/entertainment/music/hc-american-idol-winner-nick-fradiani-faces-challenges-20150524-story.html#page=1)
+- [Maggie Gyllenhaal: At 37 I was ‘too old’ for role opposite 55-year-old man](http://www.theguardian.com/film/2015/may/21/maggie-gyllenhaal-too-old-hollywood?CMP=fb_us) 
+- [Is a Gilmore Girls reunion in the works?](http://www.eonline.com/news/659212/is-a-gilmore-girls-reunion-in-the-works-scott-patterson-is-giving-us-serious-hope)
