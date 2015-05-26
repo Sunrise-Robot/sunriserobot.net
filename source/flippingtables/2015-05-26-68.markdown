@@ -2,11 +2,10 @@
 number: "68"
 title: "There's Always A Brick Somewhere"
 pubDate: "2015-05-26"
-description: "Lyons is living fingerprint unlock life. Smartstraps try to make Smartwatches smarter. Podcasts are coming to Spotify, but only if you're a special snowflake. The Void is VR 'laser tag on steroids'. And Nintendo is making theme park rides for Universal Studios!"
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
-published: false
+description: "Lyons is living the fingerprint unlock life. Smartstraps try to make Smartwatches smarter. Podcasts are coming to Spotify, but only if you're a special snowflake. The Void is VR 'laser tag on steroids' and Nintendo is making theme park rides for Universal Studios!"
+enclosure_link: "http://audio.simplecast.fm/12569.mp3"
+enclosure_length: "48547716"
+duration: "01:06:21"
 ---
 - [Samsung Galaxy S6](http://www.samsung.com/us/explore/galaxy-s-6-features-and-specs/?cid=ppc-)
 - [Aria: Gesture Control for Smartwatches](http://www.gadgetify.com/aria-gesture/)
