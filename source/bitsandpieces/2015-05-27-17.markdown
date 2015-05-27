@@ -6,7 +6,6 @@ description: "A leaked Spotify contract with Sony Music provides juicy details o
 enclosure_link: "http://audio.simplecast.fm/12586.mp3"
 enclosure_length: "24946711"
 duration: "00:46:10"
-published: false
 ---
 - [Tidal review](http://www.techradar.com/reviews/audio-visual/hi-fi-and-audio/music/tidal-1270607/review)
 - [This Was Sony Music’s Contract with Spotify](http://www.theverge.com/2015/5/19/8621581/sony-music-spotify-contract)
