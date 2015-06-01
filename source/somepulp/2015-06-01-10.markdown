@@ -1,0 +1,19 @@
+---
+number: "10"
+title: "Sputnik: the Space Race and Disney’s Tomorrowland (Nostalgia for a Future That Never Happened)"
+pubDate: "2015-06-01"
+description: "Sputnik was a 58 cm (23 in) diameter polished metal sphere, with four external radio antennas to broadcast radio pulses. It was visible all around the Earth and its radio pulses were detectable. A surprise launch. As was its success. Learn how the launch of Sputnik affected American culture, arts and politics."
+enclosure_link: "http://audio.simplecast.fm/12721.mp3"
+enclosure_length: "38676567"
+duration: "00:52:47"
+---
+- [Sputnik](http://en.wikipedia.org/wiki/Sputnik_1)
+- [International Geophysical Year](http://en.wikipedia.org/wiki/International_Geophysical_Year)
+- [Vanguard TV3](http://en.wikipedia.org/wiki/Vanguard_TV3)
+- [Space Race](http://en.wikipedia.org/wiki/Space_Race)
+- [National Defense Education Act](http://en.wikipedia.org/wiki/National_Defense_Education_Act)
+- [Yuri Gagarin](http://en.wikipedia.org/wiki/Yuri_Gagarin)
+- [Nikita Khruschchev](http://en.wikiquote.org/wiki/Nikita_Khrushchev)
+- [Conelrad, a collection of space race and red scare paranoia and propaganda](http://www.conelrad.com/index.php)
+- [Rocket Boys](http://en.wikipedia.org/wiki/Rocket_Boys)
+- [Sputnik in Space and Song (NPR celebration)](http://www.npr.org/templates/story/story.php?storyId=14937486)
