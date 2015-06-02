@@ -1,0 +1,19 @@
+---
+number: "69"
+title: "My Hand Can Only Open So Much Further"
+pubDate: "2015-06-02"
+description: "Mike learns sneezes can be forced. Lyons has a magical Uber experience. And oh yeah, Google I/O 2015 happened! Lots of amazing tech, and more steps to return to the true developer conference Google I/O is supposed to be."
+enclosure_link: "http://audio.simplecast.fm/12725.mp3"
+enclosure_length: "51743786"
+duration: "01:11:51"
+published: false
+---
+- [Where the Word “sneeze” Came from and the Origin of “nothing to Sneeze At”](http://www.todayifoundout.com/index.php/2014/03/word-sneeze-came/)
+- [Uber](http://uber.com)
+- [All the New Features of Android M](http://lifehacker.com/all-the-new-features-of-android-m-1707454646)
+- [Pay your way with Android](http://officialandroid.blogspot.com/2015/05/pay-your-way-with-android.html)
+- [Hands Free by Google could be way better than Apple Pay](http://www.cultofandroid.com/73722/hands-free-by-google-could-be-way-better-than-apple-pay/)
+- [Google's Now on Tap makes Android M smartphones so much smarter](http://www.engadget.com/2015/05/28/googles-now-on-tap-hands-on/)
+- [Google Photos](https://www.google.com/photos/about/)
+- [Google Photos Is Your New Essential Picture App](http://www.wired.com/2015/05/google-photos-new-essential-picture-app/)
+- [Google Launches Smart Lock Passwords Manager For Android To Make Signing Into Apps Easier](http://techcrunch.com/2015/05/28/google-launches-smart-lock-passwords-manager-for-android-to-make-signing-into-apps-easier/)
