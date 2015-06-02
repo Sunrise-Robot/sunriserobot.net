@@ -6,7 +6,6 @@ description: "Mike learns sneezes can be forced. Lyons has a magical Uber experi
 enclosure_link: "http://audio.simplecast.fm/12725.mp3"
 enclosure_length: "51743786"
 duration: "01:11:51"
-published: false
 ---
 - [Where the Word “sneeze” Came from and the Origin of “nothing to Sneeze At”](http://www.todayifoundout.com/index.php/2014/03/word-sneeze-came/)
 - [Uber](http://uber.com)
