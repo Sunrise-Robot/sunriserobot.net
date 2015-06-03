@@ -15,4 +15,5 @@ duration: "01:11:51"
 - [Google's Now on Tap makes Android M smartphones so much smarter](http://www.engadget.com/2015/05/28/googles-now-on-tap-hands-on/)
 - [Google Photos](https://www.google.com/photos/about/)
 - [Google Photos Is Your New Essential Picture App](http://www.wired.com/2015/05/google-photos-new-essential-picture-app/)
+- [Mike with a Monocle in the Forest](http://sunriserobot.net/images/flippingtables/69/mike_monocle.jpg)
 - [Google Launches Smart Lock Passwords Manager For Android To Make Signing Into Apps Easier](http://techcrunch.com/2015/05/28/google-launches-smart-lock-passwords-manager-for-android-to-make-signing-into-apps-easier/)
