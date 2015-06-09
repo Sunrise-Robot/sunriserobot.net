@@ -151,16 +151,16 @@
         twitter: "NewGenRivera",
         website: "goodreads.com/user/show/4062226-jeannette",
         website_text: "Goodreads",
-        photo: "jeannetterivera.png" }
+        photo: "jeannetterivera.jpg" }
     - { name: "Tara Newman",
         twitter: "TaraNewman",
         website: "goodreads.com/user/show/4653158-tara-newman",
         website_text: "Goodreads",
         photo: "taranewman.jpg" }
   description: "BOOKS!"
-  album_art: "eclecticreaders/eclecticreaders_album.png"
+  album_art: "eclecticreaders/eclecticreaders_album.jpg"
   social_art: "eclecticreaders/eclecticreaders_social.png"
-  large_art: "eclecticreaders/eclecticreaders_large.png"
+  large_art: "eclecticreaders/eclecticreaders_large.jpg"
   email: "hello@sunriserobot.net"
   categories:
     - { category: "Literature" }
