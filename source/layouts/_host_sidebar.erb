@@ -20,6 +20,7 @@
             <p>If you like what we're doing, then help us keep the lights on and the episodes coming!</p>
             <p><a href="/support" class="btn btn-lg btn-support" onclick="ga('send', 'event', 'support', 'click', 'from_show', 1);"><i class="fa fa-thumbs-up fa-fw"></i> Support The Show</a></p>
             </div>
+            <% if @show["praise"] %>
             <div class="press">
               <h4>Praise for <%= @show["title"] %></h4>
               <% @show["praise"].each do |praise| %>
@@ -34,4 +35,5 @@
               </div>
             <% end %>
             </div>
+            <% end %>
           </aside> <!-- End of Sidebar -->
