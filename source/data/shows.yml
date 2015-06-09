@@ -149,7 +149,7 @@
         photo: "profile.png" }
     - { name: "Jeannette Rivera",
         twitter: "NewGenRivera",
-        website: "",
+        website: "goodreads.com/user/show/4062226-jeannette",
         website_text: "Goodreads",
         photo: "profile.png" }
     - { name: "Tara Newman",
@@ -163,7 +163,6 @@
   large_art: "eclecticreaders/eclecticreaders_large.png"
   email: "hello@sunriserobot.net"
   categories:
-    - { category: "" }
-    - { category: "" }
-    - { category: "" }
+    - { category: "Literature" }
+    - { category: "Hobbies" }
   itunes: ""
