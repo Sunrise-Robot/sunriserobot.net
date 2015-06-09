@@ -1,0 +1,22 @@
+---
+number: "70"
+title: "Some Of My Best Friends Are Microsoft"
+pubDate: "2015-06-09"
+description: "Apple's WWDC event happened and that means Lyons and Mike are here to pick it apart! We also pour one out for the Apple TV that wasn't."
+enclosure_link: ""
+enclosure_length: ""
+duration: ""
+published: false
+---
+
+- [Only on Android](https://medium.com/google-developers/only-on-android-45ff04d5722e)
+- [WWDC 2015 Keynote](http://www.apple.com/live/2015-june-event/)
+- [Everything Apple Announced at WWDC 2015 that Actually Matters](http://lifehacker.com/everything-apple-announced-at-wwdc-2015-that-actually-m-1709861705)
+- [Gmail Man - Episode 1](https://vimeo.com/49048679)
+- [Gmail Man - Episode 2](https://vimeo.com/76994635)
+- [Sven Hoek](http://img3.wikia.nocookie.net/__cb20130618174058/renandstimpy/images/3/3c/Cousins.png)
+- [Apple Music](https://www.apple.com/music/)
+- [Apple announces its streaming music serivce, Apple Music](http://www.theverge.com/2015/6/8/8729481/apple-music-streaming-service-wwdc-15)
+- [Here’s how Apple finally fixed the shift key in iOS 9](http://9to5mac.com/2015/06/08/ios-9-shift-key/)
+- [Apple Watch OS 2 preview](https://www.apple.com/watchos-2-preview/)
+- [Apple reveals new OS for Apple Watch, complete with Time Travel](http://mashable.com/2015/06/08/apple-watch-update/)
