@@ -8,7 +8,8 @@
               </div>
               <div class="col-xs-9">
                 <ul class="list-unstyled host-links">
-                  <% if host["website"] %><li><a href="http://<%= host["website"] %>"><i class="fa fa-globe fa-fw"></i> <%= host["website"] %> </a></li><% end %>
+                  <% if host["website"] %>
+                  <li><a href="http://<%= host["website"] %>"><i class="fa fa-globe fa-fw"></i> <%= host["website_text"] %> </a></li><% end %>
                   <% if host["twitter"] %><li><a href="http://twitter.com/<%= host["twitter"] %>"><i class="fa fa-twitter fa-fw"></i> <%= host["twitter"] %></a></li><% end %>
                 </ul>
               </div>
