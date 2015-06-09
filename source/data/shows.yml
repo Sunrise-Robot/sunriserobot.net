@@ -133,3 +133,34 @@
     - { name: "Dave Glassner",
         link: "",
         quote: "Mike and Matt are both practicing musicians which lends a new angle to their take on current music and trends. I really appreciate and enjoy their weekly picks. In just two episodes I've expanded my music listening to the bands they've recommended. Great stuff all around." }
+- prefix: "eclecticreaders"
+  title: "Eclectic Readers Book Club"
+  hosts:
+    - { name: "Susan Lyons",
+        twitter: "ruri_kaichou",
+        link: "https://www.goodreads.com/user/show/4077519-sue",
+        photo: "profile.png" }
+    - { name: "Jeannette Rivera",
+        twitter: "NewGenRivera",
+        photo: "profile.png" }
+    - { name: "Tara Newman",
+        twitter: "TaraNewman",
+        link: "https://www.goodreads.com/user/show/4653158-tara-newman",
+        photo: "taranewman.jpg" }
+  description: "BOOKS!"
+  album_art: "eclecticreaders/eclecticreaders_album.png"
+  social_art: "eclecticreaders/eclecticreaders_social.png"
+  large_art: "eclecticreaders/eclecticreaders_large.png"
+  email: "hello@sunriserobot.net"
+  categories:
+    - { category: "" }
+    - { category: "" }
+    - { category: "" }
+  itunes: ""
+  praise:
+    - { name: "",
+        link: "",
+        quote: "" }
+    - { name: "",
+        link: "",
+        quote: "" }
