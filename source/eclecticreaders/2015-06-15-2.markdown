@@ -6,5 +6,6 @@ description: "SOME BOOK STUFF"
 enclosure_link: ""
 enclosure_length: ""
 duration: ""
+published: false
 ---
 STUFF ABOUT BOOKS!
