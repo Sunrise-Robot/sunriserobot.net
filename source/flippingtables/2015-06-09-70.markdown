@@ -2,13 +2,11 @@
 number: "70"
 title: "Some Of My Best Friends Are Microsoft"
 pubDate: "2015-06-09"
-description: "Apple's WWDC event happened and that means Lyons and Mike are here to pick it apart! We also pour one out for the Apple TV that wasn't."
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
-published: false
+description: "Apple's WWDC event happened and that means Lyons and Mike are here to pick it apart! We also pour one out for the Apple TV that wasn't. Also: somehow we found a way to bash Microsoft and we feel appropriately contrite about it."
+enclosure_link: "http://audio.simplecast.fm/12930.mp3"
+enclosure_length: "53096720"
+duration: "01:13:44"
 ---
-
 - [Only on Android](https://medium.com/google-developers/only-on-android-45ff04d5722e)
 - [WWDC 2015 Keynote](http://www.apple.com/live/2015-june-event/)
 - [Everything Apple Announced at WWDC 2015 that Actually Matters](http://lifehacker.com/everything-apple-announced-at-wwdc-2015-that-actually-m-1709861705)
