@@ -8,4 +8,5 @@ enclosure_length: ""
 duration: ""
 published: false
 ---
-STUFF ABOUT BOOKS!
+- [Buy Ready Play One on Amazon](http://amzn.com/B004J4WKUQ)
+- [Ready Player One on Goodreads](http://www.goodreads.com/book/show/11472275-ready-player-one)

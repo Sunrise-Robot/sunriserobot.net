@@ -8,4 +8,5 @@ enclosure_length: ""
 duration: ""
 published: false
 ---
-STUFF ABOUT BOOKS!
+- [Buy Wool on Amazon](http://amzn.com/B0071XO8RA)
+- [Wool on Goodreads](https://www.goodreads.com/book/show/13453029-wool-omnibus)
