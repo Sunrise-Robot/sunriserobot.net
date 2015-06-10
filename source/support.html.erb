@@ -28,8 +28,7 @@ priority: 0.9
             <div class="col-sm-6 col-md-5 col-lg-4 col-md-push-1 col-lg-push-2">
               <h3>Rate us on iTunes</h3>
               <ul class="media-list">
-              <% shows = YAML.load_file("source/data/shows.yml") %>
-              <% shows.each do |show| %>
+              <% @shows.each do |show| %>
                 <a href="<%= show["itunes"] %>" onclick="ga('send', 'event', 'rate_on_iTunes', 'click', '<%= show["title"] %>', 1);">
                   <li class="media">
                     <div class="media-left">
