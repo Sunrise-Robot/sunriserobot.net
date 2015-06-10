@@ -1,7 +1,7 @@
 ---
-number: "2"
-title: "The Miniaturist"
-pubDate: "2015-06-15"
+number: "4"
+title: "Ready Player One"
+pubDate: "2015-07-01"
 description: "SOME BOOK STUFF"
 enclosure_link: ""
 enclosure_length: ""

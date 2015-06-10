@@ -1,6 +1,6 @@
 ---
 number: "1"
-title: "SOME BOOK"
+title: "Gilead"
 pubDate: "2015-06-15"
 description: "SOME BOOK STUFF"
 enclosure_link: ""
