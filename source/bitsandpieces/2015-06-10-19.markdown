@@ -1,0 +1,21 @@
+---
+number: "19"
+title: "If You’re A Japanese Scientist Please Reach Out To Us"
+pubDate: "2015-06-10"
+description: "Matt reports back on seeing Denver band The Still Tide, reducing our degrees of separation! Smoke & Honey play a cd release show, too. NPR throws their hat in the audiophile snake oil ring, YouTube launches 360 degree videos and we discuss passive and active music videogames."
+enclosure_link: "http://audio.simplecast.fm/12962.mp3"
+enclosure_length: "26843289"
+duration: "00:47:14"
+---
+- [The Verge’s obituary on Tidal](http://www.theverge.com/2015/6/3/8714231/jay-z-tidal-music-streaming-fail-succeed)
+- [Silly Temporary Secretary Covers](https://soundcloud.com/temporary-secretary )
+- [The Still Tide interview on the Pseudo Show](http://sunriserobot.net/pseudoshow/19/)
+- [How Well Can You Hear Audio Quality?](http://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality)
+- [Marco Arment on the NPR Audio Quality Test](http://www.marco.org/2015/06/03/npr-audio-quality-test )
+- [SoundCloud makes a deal with independent labels](http://www.nme.com/news/various-artists/85965 )
+- [Björk’s 360° Video (not blocked by GEMA anymore)](https://www.youtube.com/watch?v=gQEyezu7G20)
+- [Google Music Insights](https://www.youtube.com/yt/artists/insights.html)
+- [Wireless Midi Controller for Acoustic Guitar](https://www.youtube.com/watch?v=eJFfnTkyj-g)
+- [Natalie Tate - True North](https://www.youtube.com/watch?v=yL6GQHDdt8E )
+- [Pedro The Lion - Priests And Paramedics](https://www.youtube.com/watch?v=0tbNEt67M3o)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
