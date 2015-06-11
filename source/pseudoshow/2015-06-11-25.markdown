@@ -2,11 +2,10 @@
 number: "25"
 title: "Lee Bozeman and Luxury's New Album: Trophies"
 pubDate: "2015-06-11"
-description: "Justin and Mike talk with Lee Bozeman about his band Luxury and their first new album in 10 years, Trophies. Lee reveals behind the scenes stories of writing and recording the album, and tells us what he is reading and listening to lately, including discussion of Sufjan Stevens, Angel Olsen, and more."
-enclosure_link: "TEXT"
-enclosure_length: "TEXT"
-duration: "TEXT"
-published: "false"
+description: "We talk to Lee Bozeman about Luxury and their first new album in around 10 years: Trophies. Lee tells us some behind the scenes stories of recording the album, the thoughts put behind previous Luxury album covers, and whether or not Luxury will ever tour again! Also: Lee is asked for the third time this week what he thinks of Walker Percy!"
+enclosure_link: "http://audio.simplecast.fm/12984.mp3"
+enclosure_length: "36924207"
+duration: "00:51:16"
 ---
 - [Luxury's BandCamp site](http://luxury.bandcamp.com)
 - [Lee's BandCamp site](http://leebozeman.bandcamp.com/)
