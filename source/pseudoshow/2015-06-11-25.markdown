@@ -1,0 +1,16 @@
+---
+number: "25"
+title: "Lee Bozeman and Luxury's New Album: Trophies"
+pubDate: "2015-06-11"
+description: "Justin and Mike talk with Lee Bozeman about his band Luxury and their first new album in 10 years, Trophies. Lee reveals behind the scenes stories of writing and recording the album, and tells us what he is reading and listening to lately, including discussion of Sufjan Stevens, Angel Olsen, and more."
+enclosure_link: "TEXT"
+enclosure_length: "TEXT"
+duration: "TEXT"
+published: "false"
+---
+- [Luxury's BandCamp site](http://luxury.bandcamp.com)
+- [Lee's BandCamp site](http://leebozeman.bandcamp.com/)
+- [Lee Bozeman's website](http://www.leebozeman.com/)
+- [Mea Culpa - song that Mike guested on with Lee](http://orientishisname.bandcamp.com/track/mea-culpa)
+- [Luxury - Record #5 (Kickstarter Campaign)](https://www.kickstarter.com/projects/1057486100/record-5)
+- [“Music was better back then”: When do we stop keeping up with popular music?](http://skynetandebert.com/2015/04/22/music-was-better-back-then-when-do-we-stop-keeping-up-with-popular-music/)
