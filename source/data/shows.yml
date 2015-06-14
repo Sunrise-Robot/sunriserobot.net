@@ -146,7 +146,7 @@
         twitter: "ruri_kaichou",
         website: "goodreads.com/user/show/4077519-sue",
         website_text: "Goodreads",
-        photo: "profile.png" }
+        photo: "susanlyons.jpg" }
     - { name: "Jeannette Rivera",
         twitter: "DrJeannette",
         website: "goodreads.com/user/show/4062226-jeannette",
@@ -157,7 +157,7 @@
         website: "goodreads.com/user/show/4653158-tara-newman",
         website_text: "Goodreads",
         photo: "taranewman.jpg" }
-  description: "BOOKS!"
+  description: "A monthly book club and podcast for readers who enjoy an eclectic variety of books - and talking about them nonstop."
   album_art: "eclecticreaders/eclecticreaders_album.jpg"
   social_art: "eclecticreaders/eclecticreaders_social.png"
   large_art: "eclecticreaders/eclecticreaders_large.jpg"
