@@ -1,0 +1,17 @@
+---
+number: "11"
+title: "From Hootenany to Shindig: Music Television Circa 1964"
+pubDate: "2015-06-15"
+description: "TV played a surprisingly subversive role in diversifying musical genres and introducing some American pop and folk groups and Motown R&B stars that people otherwise may not have heard. We review shows such as Hootenanny, Shindig and Hullabaloo from the 60s, and examine how they broke the hold of AM radio formats and advertisers on programming."
+enclosure_link: "http://audio.simplecast.fm/13046.mp3"
+enclosure_length: "45321425"
+duration: "01:02:56"
+---
+- [Hootenanny promo](https://youtu.be/v3rOJHKf91k?list=PL19542249EFDA8323)
+- [American Bandstand](https://youtu.be/cgHGLBMiX5I)
+- [Where the Action Is (ABC)](http://www.imdb.com/title/tt0240305/)
+- [Shindig!!](https://youtu.be/1mSv7VS3tTE)
+- [Shindig!!](https://youtu.be/KdO4TP21Xys)
+- [Lloyd Thaxton Show](https://youtu.be/Rx5mwJ9KzHw)
+- [Teen Beat magazine](http://en.wikipedia.org/wiki/Teen_Beat)
+- [Tiger Beat](http://en.wikipedia.org/wiki/Tiger_Beat)
