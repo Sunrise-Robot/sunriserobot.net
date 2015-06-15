@@ -2,11 +2,10 @@
 number: "3"
 title: "Wool"
 pubDate: "2015-06-15"
-description: "SOME BOOK STUFF"
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
-published: false
+description: "Wool, the first in a trilogy of post apocalyptic novels, is discussed this episode."
+enclosure_link: "http://audio.simplecast.fm/13045.mp3"
+enclosure_length: "47467487"
+duration: "01:04:40"
 ---
 - [Buy Wool on Amazon](http://amzn.com/B0071XO8RA)
 - [Wool on Goodreads](https://www.goodreads.com/book/show/13453029-wool-omnibus)

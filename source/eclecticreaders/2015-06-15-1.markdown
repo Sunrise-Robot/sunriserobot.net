@@ -2,11 +2,10 @@
 number: "1"
 title: "Gilead"
 pubDate: "2015-06-15"
-description: "SOME BOOK STUFF"
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
-published: false
+description: "In the launch episode of the Eclectic Readers Book Club the group discusses Gilead."
+enclosure_link: "http://audio.simplecast.fm/13041.mp3"
+enclosure_length: "50010688"
+duration: "01:08:12"
 ---
 - [Buy Gilead on Amazon](http://amzn.com/B000O76NMS)
 - [Gilead on Goodreads](http://www.goodreads.com/book/show/68210.Gilead)
