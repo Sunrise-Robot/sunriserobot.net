@@ -1,7 +1,7 @@
 ---
 number: "2"
 title: "The Miniaturist"
-pubDate: "2015-06-15"
+pubDate: "2015-06-14"
 description: "This month The Miniaturist is discussed."
 enclosure_link: "http://audio.simplecast.fm/13042.mp3"
 enclosure_length: "48920138"
