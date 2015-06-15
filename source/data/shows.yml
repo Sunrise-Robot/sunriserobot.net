@@ -159,7 +159,7 @@
         photo: "taranewman.jpg" }
   description: "A monthly book club and podcast for readers who enjoy an eclectic variety of books - and talking about them nonstop."
   album_art: "eclecticreaders/eclecticreaders_album.jpg"
-  social_art: "eclecticreaders/eclecticreaders_social.png"
+  social_art: "eclecticreaders/eclecticreaders_social.jpg"
   large_art: "eclecticreaders/eclecticreaders_large.jpg"
   email: "hello@sunriserobot.net"
   categories:
