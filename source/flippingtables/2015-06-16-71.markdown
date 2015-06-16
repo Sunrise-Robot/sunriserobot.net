@@ -1,0 +1,25 @@
+---
+number: "71"
+title: "A Lawnmower Floating Near You"
+pubDate: "2015-06-16"
+description: "E3 is officially here and it's fan service all the way down. Backwards compatibility on the Xbox One, The Last Guardian is finally being released, and Final Fantasy VII is getting the remake everyone apparently wants."
+enclosure_link: "http://audio.simplecast.fm/13084.mp3"
+enclosure_length: "59514692"
+duration: "01:22:39"
+---
+- [Welcome, Apple. Seriously. (rdio on Facebook)](https://www.facebook.com/Rdio/photos/a.10150682502784362.419381.143872364361/10153348782184362/?type=1&comment_id=10153350841929362)
+- [This Is How You Should Secure Your iPhone](http://lifehacker.com/5914602/this-is-how-you-should-secure-your-iphone)
+- [Mike's Gameboy Color](https://instagram.com/p/3-tBIEKHsp/)
+- [Hound Internal Demo](https://youtu.be/M1ONXea0mXg)
+- [DJI Phantom 3 - “Lasting Love”](https://youtu.be/MfqZVh8E7bs)
+- [DJI's Realistic Phantom 3 Wedding Commercial](https://www.youtube.com/watch?v=M9cRjMip_fo)
+- [Peter Kasting, Google engineer](https://plus.google.com/+PeterKasting/posts/GpL63A1K2TF)
+- [How Chrome Handles RAM (comic)](http://i.imgur.com/bhfYx6R.jpg)
+- [[Update: Nintendo Says No] Nintendo's Next Console May Be Built On Android](http://www.androidpolice.com/2015/06/01/rumor-nintendos-next-console-may-be-built-on-android/)
+- [A YouTube built for gamers](http://youtube-global.blogspot.com/2015/06/a-youtube-built-for-gamers.html)
+- [Fallout 4 - Official Trailer (PEGI)](https://www.youtube.com/watch?v=Lnn2rJpjar4)
+- [Ron Perlman's reaction to Fallout 4](https://twitter.com/perlmutations/status/606103480504180737)
+- [The Last Guardian - E3 2015 Gameplay - PS4](https://www.youtube.com/watch?v=H4CPFdpbi7M)
+- [Final Fantasy VII - E3 2015 Trailer | PS4](https://www.youtube.com/watch?v=Kznek1uNVsg)
+- [Google Monthly Movie Pass, A Google Netflix Competitor?](http://techaeris.com/2015/06/02/google-monthly-movie-pass-google-netflix-competitor/)
+- [Eclectic Readers Book Club](http://sunriserobot.net/eclecticreaders)
