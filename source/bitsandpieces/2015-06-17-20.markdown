@@ -1,0 +1,21 @@
+---
+number: "20"
+title: "Hell Yes Clarinet"
+pubDate: "2015-06-17"
+description: "NPR explained their signature sound, Spotify dabbles in premium-only songs, and Apple Music is poised to shake up the music industry. Which suggests the question: Is the whole music industry now just a feature of technology platforms?"
+enclosure_link: "http://audio.simplecast.fm/13129.mp3"
+enclosure_length: "25411660"
+duration: "00:47:20"
+---
+- [NPR’s signature sound](http://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
+- [Spotify can do premium songs](http://www.completemusicupdate.com/article/muse-track-premium-only-on-spotify-but-no-shift-in-content-approach/)
+- [Apple Music gets a cheer for reordering a playlist (starts at 2:45)](https://youtu.be/mLJwPA1rF7Y?t=144)
+- []()
+- [Apple will pay out $0 (to indies) during 3 month trial](http://diymag.com/2015/06/10/apple-music-to-pay-0-royalties-to-artists-through-free-trial-accounts)
+- [Spotify CEO’s reaction to Apple Music](http://www.theverge.com/2015/6/8/8747951/spotify-ceo-apple-music-tweet-wwdc-2015)
+- [NME hasn’t gotten the memo about lossless audio yet](http://www.nme.com/blogs/nme-blogs/apple-music-five-reasons-to-be-excited-and-five-to-be-wary)
+- [The entire music industry is a feature to Apple](http://www.theverge.com/2015/6/9/8753939/the-iphone-is-about-to-change-the-media-industry-again)
+- [Now here is someone who loves their job (woman conducting)](http://i.imgur.com/holRuAE.gifv) 
+- [Telefon Tel Aviv - You’re The Worst Thing In The World](https://www.youtube.com/watch?v=juzehizq1JQ)
+- [Floex - Veronika’s Dream](http://store.floex.cz/track/veronikas-dream)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
