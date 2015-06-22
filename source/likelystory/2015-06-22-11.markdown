@@ -1,0 +1,15 @@
+---
+number: "11"
+title: "It’s Called An Anthology"
+pubDate: "2015-06-22"
+description: "Polly’s wedding is coming up fast and Shelby survives a spider attack. They are compelled to discuss the iZombie season finale and the latest shenanigans on the Bachelorette. Later, Shelby takes back her disappointment in SYTYCD. Also: latest tv show addictions and the amazingness that is Jurassic World."
+enclosure_link: "http://audio.simplecast.fm/13241.mp3"
+enclosure_length: "44413487"
+duration: "00:59:48"
+---
+- [iZombie Season Finale Review - Screen Rant](http://screenrant.com/izombie-season-1-finale-review/)
+- [Who is Jaja Vankova of So You Think You Can Dance?](http://www.inquisitr.com/2174488/who-is-jaja-vankova-of-so-you-think-you-can-dance-season-12/)
+- [Who is Jaja Vankova of So You Think You Can Dance?](http://www.inquisitr.com/2174488/who-is-jaja-vankova-of-so-you-think-you-can-dance-season-12/)
+- [True Detective’ Review: New Cases, New Faces, New Places](http://www.wsj.com/articles/true-detective-review-new-cases-new-faces-new-places-1434660987)
+- [Chris Soules and Whitney Bischoff Breakup Update](http://www.latinpost.com/articles/60662/20150618/bachelor-chris-soules-talks-break-up-more.htm)
+- [Walking Dead’s Norman Reedus and co-star Emily Kinney are dating](http://www.usmagazine.com/celebrity-news/news/the-walking-deads-norman-reedus-costar-emily-kinney-are-dating-2015176)
