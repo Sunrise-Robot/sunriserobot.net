@@ -21,7 +21,7 @@ duration: "01:06:41"
 - [Eragon by Christopher Paolini](http://www.amazon.com/Eragon-Inheritance-Book-Christopher-Paolini/dp/0375826696/ref=sr_1_1?s=books&ie=UTF8&qid=1434401182&sr=1-1&keywords=Eragon)
 - [Eragon on Goodreads](https://www.goodreads.com/book/show/113436.Eragon?ac=1)
 - [Beautiful Creatures by Kami Garcia and Margaret Stohl](http://www.amazon.com/Beautiful-Creatures-Kami-Garcia/dp/0316231657/ref=sr_1_1?s=books&ie=UTF8&qid=1434401244&sr=1-1&keywords=Beautiful+Creatures)
-- [Beautiful Creatures on Goodreads]()https://www.goodreads.com/book/show/6304335-beautiful-creatures?from_search=true&search_version=service_impr
+- [Beautiful Creatures on Goodreads](https://www.goodreads.com/book/show/6304335-beautiful-creatures?from_search=true&search_version=service_impr)
 - [Ready Player One by Ernest Cline](http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307913147/ref=sr_1_1_twi_5_aud?s=books&ie=UTF8&qid=1434402210&sr=1-1&keywords=Ready+Player+One)
 - [Ready Player One on Goodreads](https://www.goodreads.com/book/show/9969571-ready-player-one?from_search=true&search_version=service_impr)
 - [The Rosie Project by Graeme Simsion](http://www.amazon.com/Rosie-Project-Novel-Graeme-Simsion/dp/1476729093/ref=sr_1_1?s=books&ie=UTF8&qid=1434401406&sr=1-1&keywords=The+Rosie+Project)
