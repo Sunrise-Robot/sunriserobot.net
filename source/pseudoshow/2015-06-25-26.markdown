@@ -1,0 +1,15 @@
+---
+number: "26"
+title: "I Want So Much To Believe: An Interview With Adam McCabe"
+pubDate: "2015-06-25"
+description: "DESCRIPTION GOES HERE"
+enclosure_link: "http://audio.simplecast.fm/13271.mp3"
+enclosure_length: "35727521"
+duration: "00:48:20"
+published: "false"
+---
+- [Cleve Dixon: Terrible Detective](http://www.funnyordie.com/funnyordie/playlists/340172)
+- [Pitiful Creatures](http://wearepitifulcreatures.com)
+- [UCB’s Bangarang!](https://losangeles.ucbtheatre.com/show/3435)
+- [Adam’s UCB Profile](http://ucbcomedy.com/user/9507)
+- [Detective Detective Detective feature film](http://detectivedetectivedetective.com)
