@@ -1,11 +1,30 @@
 ---
 number: "2"
-title: "The Miniaturist"
+title: "The Miniaturist: In Which We Found the Secret Tulip Society"
 pubDate: "2015-06-14"
-description: "This month The Miniaturist is discussed."
+description: "In this episode, we love on our libraries, vote for our favorite book club reads, and discuss Jessie Burton's The Miniaturist. Susan defines the difference between observation and being a total creeper, Tara licks language from a bowl, and Jeannette shares a cool Kindle tip!"
 enclosure_link: "http://audio.simplecast.fm/13042.mp3"
 enclosure_length: "48920138"
 duration: "01:06:41"
 ---
+- [Eclectic Readers on Goodreads](https://www.goodreads.com/group/show/68328-eclectic-readers)
+- [Overdrive](https://www.overdrive.com/ )
+- [Find It VA](http://www.boopsie.com/library-page/library-of-virginia-352/)
 - [Buy The Miniaturist on Amazon](http://amzn.com/B00H1UK3UO)
 - [The Miniaturist on Goodreads](http://www.goodreads.com/book/show/18498569-the-miniaturist)
+- [The Martian by Andy Weir](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?ie=UTF8&qid=1434401100&sr=8-1&keywords=The+Martian)
+- [The Martian on Goodreads](https://www.goodreads.com/book/show/18007564-the-martian?from_search=true&search_version=service_impr)
+- [A Tree Grows in Brooklyn by Betty Smith](http://www.amazon.com/Tree-Grows-Brooklyn-Modern-Classics/dp/0061120073/ref=sr_1_1?s=books&ie=UTF8&qid=1434401136&sr=1-1&keywords=a+tree+grows+in+brooklyn)
+- [A Tree Grows in Brooklyn on Goodreads](https://www.goodreads.com/book/show/14891.A_Tree_Grows_in_Brooklyn?from_search=true&search_version=service_impr)
+- [Sharp Objects by Gillian Flynn](http://www.amazon.com/Sharp-Objects-Gillian-Flynn/dp/0307341550/ref=sr_1_1?s=books&ie=UTF8&qid=1434401156&sr=1-1&keywords=Sharp+Objects)
+- [Sharp Objects on Goodreads](https://www.goodreads.com/book/show/66559.Sharp_Objects?from_search=true&search_version=service_impr)
+- [Eragon by Christopher Paolini](http://www.amazon.com/Eragon-Inheritance-Book-Christopher-Paolini/dp/0375826696/ref=sr_1_1?s=books&ie=UTF8&qid=1434401182&sr=1-1&keywords=Eragon)
+- [Eragon on Goodreads](https://www.goodreads.com/book/show/113436.Eragon?ac=1)
+- [Beautiful Creatures by Kami Garcia and Margaret Stohl](http://www.amazon.com/Beautiful-Creatures-Kami-Garcia/dp/0316231657/ref=sr_1_1?s=books&ie=UTF8&qid=1434401244&sr=1-1&keywords=Beautiful+Creatures)
+- [Beautiful Creatures on Goodreads]()https://www.goodreads.com/book/show/6304335-beautiful-creatures?from_search=true&search_version=service_impr
+- [Ready Player One by Ernest Cline](http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307913147/ref=sr_1_1_twi_5_aud?s=books&ie=UTF8&qid=1434402210&sr=1-1&keywords=Ready+Player+One)
+- [Ready Player One on Goodreads](https://www.goodreads.com/book/show/9969571-ready-player-one?from_search=true&search_version=service_impr)
+- [The Rosie Project by Graeme Simsion](http://www.amazon.com/Rosie-Project-Novel-Graeme-Simsion/dp/1476729093/ref=sr_1_1?s=books&ie=UTF8&qid=1434401406&sr=1-1&keywords=The+Rosie+Project)
+- [The Rosie Project on Goodreads](https://www.goodreads.com/book/show/16181775-the-rosie-project?from_search=true&search_version=service_impr)
+- [Gone Girl by Gillian Flynn](http://www.amazon.com/Gone-Girl-Gillian-Flynn/dp/0307588378/ref=sr_1_1?s=books&ie=UTF8&qid=1434401463&sr=1-1&keywords=Gone+Girl)
+- [Gone Girl on Goodreads](https://www.goodreads.com/book/show/21480930-gone-girl?from_search=true&search_version=service_impr)
