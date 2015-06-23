@@ -2,7 +2,7 @@
 number: "72"
 title: "It's Total Baader-Danceoff In Here"
 pubDate: "2015-06-23"
-description: "Conference burn out and fresh installs of OSX can't stop Flipping Tables. Lyons' PebbleTime finally arrives. IKEA charging furniture is on sale now. And in the war or web v. native maybe we all win."
+description: "Conference burnout and fresh installs of OS X can't stop Flipping Tables! Lyons' Pebble Time finally arrives, IKEA charging furniture is on sale now, and in the war of web v. native maybe we all win."
 enclosure_link: "http://audio.simplecast.fm/13280.mp3"
 enclosure_length: "55994812"
 duration: "01:16:42"
