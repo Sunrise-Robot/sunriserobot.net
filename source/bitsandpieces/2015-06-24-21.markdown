@@ -2,11 +2,10 @@
 number: "21"
 title: "No One can Sell Dance Music"
 pubDate: "2015-06-24"
-description: "TEXT"
+description: "Mariana Trench tells us how to write pop songs, Gene Simmons blames music fans for ruining the universe and we find out which genres sell the best."
 enclosure_link: "http://audio.simplecast.fm/13285.mp3"
 enclosure_length: "22290332"
 duration: "00:39:15"
-published: "false"
 ---
 - [UK: New ruling on private copying of CDs](http://www.theguardian.com/business/2015/jun/19/music-groups-win-court-battle-private-copying-cds)
 - [Gene Simmons on the state of the music industry](http://www.blabbermouth.net/news/gene-simmons-fans-killed-the-music-industry-infrastructure-that-is-needed-to-support-new-artists/)
