@@ -3,9 +3,9 @@ number: "72"
 title: "It's Total Baader-Danceoff In Here"
 pubDate: "2015-06-23"
 description: "Conference burn out and fresh installs of OSX can't stop Flipping Tables. Lyons' PebbleTime finally arrives. IKEA charging furniture is on sale now. And in the war or web v. native maybe we all win."
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
+enclosure_link: "http://audio.simplecast.fm/13280.mp3"
+enclosure_length: "55994812"
+duration: "01:16:42"
 ---
 - [Wireless Charging, IKEA](http://www.ikea.com/us/en/catalog/categories/departments/wireless_charging/)
 - [NORDMÄRKE, Single pad for wireless charging, birch](http://www.ikea.com/us/en/catalog/products/80289790/)
