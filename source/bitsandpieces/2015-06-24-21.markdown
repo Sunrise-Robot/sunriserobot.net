@@ -1,0 +1,22 @@
+---
+number: "21"
+title: "No One can Sell Dance Music"
+pubDate: "2015-06-24"
+description: "TEXT"
+enclosure_link: "http://audio.simplecast.fm/13285.mp3"
+enclosure_length: "22290332"
+duration: "00:39:15"
+published: "false"
+---
+- [UK: New ruling on private copying of CDs](http://www.theguardian.com/business/2015/jun/19/music-groups-win-court-battle-private-copying-cds)
+- [Gene Simmons on the state of the music industry](http://www.blabbermouth.net/news/gene-simmons-fans-killed-the-music-industry-infrastructure-that-is-needed-to-support-new-artists/)
+- [How to earn music as an indie musician](https://www.dittomusic.com/how-to-earn-the-most-money-as-a-musician-large.png)
+- [Taylor Swift criticizes Apple Music](http://www.macrumors.com/2015/06/21/taylor-swift-apple-music/)
+- [Looks like Apple Music will have to launch without some big artists](http://www.forbes.com/sites/hughmcintyre/2015/06/20/would-apple-music-really-launch-without-some-of-the-biggest-names-in-music/print/)
+- [CloudPlayer](http://techpp.com/2015/06/20/cloudplayer-music-streaming/)
+- [Mariana Trench - POP 101](https://www.youtube.com/watch?v=yBDNvlvR8vA)
+- [How to write an Alt-J song](https://www.youtube.com/watch?v=rlBskd3IaNw)
+- [Future Islands - A Song For Our Grandfathers](https://www.youtube.com/watch?v=la6Ohm3dobk)
+- [Björn Olsson - Melodi i H-moll](http://www.last.fm/music/Bj%C3%B6rn+Olsson/_/Melodi+i+H-moll)
+- [Rob Cantor - Old Bike](http://robcantormusic.bandcamp.com/track/old-bike)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
