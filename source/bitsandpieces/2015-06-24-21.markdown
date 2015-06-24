@@ -1,6 +1,6 @@
 ---
 number: "21"
-title: "No One can Sell Dance Music"
+title: "No One Can Sell Dance Music"
 pubDate: "2015-06-24"
 description: "Mariana Trench tells us how to write pop songs, Gene Simmons blames music fans for ruining the universe, and we find out which musical genres sell the best."
 enclosure_link: "http://audio.simplecast.fm/13285.mp3"
