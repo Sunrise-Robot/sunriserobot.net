@@ -2,11 +2,10 @@
 number: "26"
 title: "I Want So Much To Believe: An Interview With Adam McCabe"
 pubDate: "2015-06-25"
-description: "DESCRIPTION GOES HERE"
+description: "Adam McCabe joins to discuss his work as an actor, writer, comedian and improv teacher. Learn about his humble Bakersfield days on radio and TV and how he joined the Upright Citizens Brigade in Los Angeles. Of note, Adam also starred in Pseudobook's mystery comedy film Detective Detective Detective."
 enclosure_link: "http://audio.simplecast.fm/13271.mp3"
 enclosure_length: "35727521"
 duration: "00:48:20"
-published: "false"
 ---
 - [Cleve Dixon: Terrible Detective](http://www.funnyordie.com/funnyordie/playlists/340172)
 - [Pitiful Creatures](http://wearepitifulcreatures.com)
