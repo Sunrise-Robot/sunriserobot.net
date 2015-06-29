@@ -1,0 +1,18 @@
+---
+number: "12"
+title: "Disneyland, Elfego Baca and Mary Poppins: Disney's Impact in the 1950s and 60s"
+pubDate: "2015-06-29"
+description: "Disney played a prominent role in establishing animation as a mainstream medium for children and adults, but lesser examined might be their impact on American culture through television, live action film, and Walt Disney’s obsession with creating a total experience such as Disneyland."
+enclosure_link: "http://audio.simplecast.fm/13538.mp3"
+enclosure_length: "37614500"
+duration: "00:51:18"
+---
+- [Fantasia](https://en.wikipedia.org/wiki/Fantasia_%281940_film%29)
+- [Mickey Mouse Club](https://en.wikipedia.org/wiki/The_Mickey_Mouse_Club)
+- [Davy Crockett](https://en.wikipedia.org/wiki/Davy_Crockett_%28miniseries%29)
+- [Elfego Baca](https://en.wikipedia.org/wiki/Elfego_Baca#Walt_Disney_television_series)
+- [Johnny Tremain](https://en.wikipedia.org/wiki/Johnny_Tremain_%28film%29)
+- [Pollyanna](https://en.wikipedia.org/wiki/Pollyanna_%281960_film%29)
+- [Mary Poppins](https://en.wikipedia.org/wiki/Mary_Poppins_%28film%29)
+- [Disneyland](https://en.wikipedia.org/wiki/Disneyland)
+- [Ant Man](https://en.wikipedia.org/wiki/Ant-Man_%28film%29)
