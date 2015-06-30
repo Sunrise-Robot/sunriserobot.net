@@ -1,12 +1,11 @@
 ---
 number: "73"
-title: ""
+title: "That's Not What It's Called, I Don't Care"
 pubDate: "2015-06-30"
 description: "The Pebble Time gets taken to task. Google cannot compete with Apple's rollouts geographically. The Batman Arkham series earns high praise. And ad blocking is coming to iOS in a big way but will it matter?"
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
-published: false
+enclosure_link: "http://audio.simplecast.fm/13564.mp3"
+enclosure_length: "55955329"
+duration: "01:16:38"
 ---
 - [Batman: Arkham Knight review on Polygon](http://www.polygon.com/2015/6/19/8811383/batman-arkham-knight-review-xbox-one-PC-PS4)
 - [Mario in Unreal Engine 4](https://youtu.be/VUKcSiAPJoQ)
