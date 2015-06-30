@@ -1,0 +1,18 @@
+---
+number: "73"
+title: ""
+pubDate: "2015-06-30"
+description: "The Pebble Time gets taken to task. Google cannot compete with Apple's rollouts geographically. The Batman Arkham series earns high praise. And ad blocking is coming to iOS in a big way but will it matter?"
+enclosure_link: ""
+enclosure_length: ""
+duration: ""
+published: false
+---
+- [Batman: Arkham Knight review on Polygon](http://www.polygon.com/2015/6/19/8811383/batman-arkham-knight-review-xbox-one-PC-PS4)
+- [Mario in Unreal Engine 4](https://youtu.be/VUKcSiAPJoQ)
+- [Google Play Music free, ad-supported radio](http://officialandroid.blogspot.com/2015/06/play-music-ad-supported.html)
+- [All-New Kindle Paperwhite (2015)](http://amzn.com/B00OQVZDJM)
+- [Amazon Kindle Paperwhite (2015) review](http://www.theverge.com/2015/6/23/8830663/amazon-kindle-paperwhite-review-2015)
+- [Amazon Echo](http://amzn.com/B00X4WHP5E)
+- [Amazon Echo review from a loser writer](http://www.amazon.com/review/RJVDJIP1OE8/ref=cm_cr_dp_title?ie=UTF8&ASIN=B00X4WHP5E&channel=detail-glance&nodeID=370783011&store=amazon-tablets)
+- [Opinion: Why content-blocking on iOS means advertisers, ad networks, publishers & readers all need to up their games](http://9to5mac.com/2015/06/26/ios-adblocker-ios-9-content-blocking/)
