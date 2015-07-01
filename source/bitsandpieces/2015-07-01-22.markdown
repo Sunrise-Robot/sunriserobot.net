@@ -1,0 +1,30 @@
+---
+number: "22"
+title: "Who Wants To Put Flanger On Real Life?"
+pubDate: "2015-07-01"
+description: "Taylor Swift joins Apple Music, Tidal loses its CEO, Sony targets smug jerks with their advertising, and a startup proposes to let you EQ real life."
+enclosure_link: "http://audio.simplecast.fm/13622.mp3"
+enclosure_length: "29253594"
+duration: "00:50:24"
+---
+- [Taylor Swift to Stream Top Selling Album 1989 on Apple Music](http://www.macrumors.com/2015/06/25/taylor-swift-apple-music-1989/)
+- [Peter Tonstad leaves Tidal](http://uk.businessinsider.com/jay-z-music-streaming-service-tidal-peter-tonstad-ceo-let-go-2015-6?r=US)
+- [Pharrell’s new single to be Apple Music exclusive](http://www.macrumors.com/2015/06/24/pharrell-freedom-apple-music-exclusive/)
+- [Latency in Digital Audio Workstations](https://www.presonus.com/community/Learn/The-Truth-About-Digital-Audio-Latency)
+- [HERE Headphones](https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the)
+- [Binaural Recordings (Listen with headphones)](https://www.youtube.com/watch?v=_si3xtFWEPM)
+- [Sony’s smug ad](https://twitter.com/StephenMerchant/status/614870825343299585)
+- [The Verge’s review of Tidal](http://www.theverge.com/2015/6/23/8830543/tidal-lossless-streaming-is-awesome)
+- [The Astray live, shot with a camera behind them on stage](https://www.youtube.com/watch?v=9e97TyG8On0)
+- [Bad Dudes Title Screen](https://i.ytimg.com/vi/gPYJsxeQOMc/maxresdefault.jpg)
+- [Kanye get’s interrupted](https://www.youtube.com/watch?v=F4knBSt49TM)
+- [Kanye’s rendition of Bohemian Rhapsody](https://www.youtube.com/watch?v=KNkPn0JrTFQ)
+- [Misspelling ‘Kayne’ trending on Twitter](https://imgur.com/JypBiKs)
+- [Axis of Awesome - Four Chords](https://www.youtube.com/watch?v=5pidokakU4I)
+- [Hooktheory Theorytab](http://www.hooktheory.com/theorytab/about)
+- [‘This reminds me of BLANK’ blog post](http://myth-keeper.deviantart.com/journal/Wow-This-reminds-me-of-comments-534633552 )
+- [My Brightest Diamond - Dragonfly](https://www.youtube.com/watch?v=LN5weaNAIpU )
+- [Girlfriends - Chex Urself B4 U Rex Urself (Live)](https://youtu.be/d8C96ZvxVp8?t=88)
+- [Girlfriends - Chex Urself B4 U Rex Urself](https://girlfriends.bandcamp.com/track/chex-urself-b4-u-rex-urself)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
+- [Bits & Pieces playlist on Apple Music](https://itunes.apple.com/us/playlist/bits-pieces/idpl.40b6f6b3339649b2976bad2d4ef23ff9)
