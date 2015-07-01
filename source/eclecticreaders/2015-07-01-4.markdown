@@ -9,13 +9,11 @@ duration: "01:07:26"
 ---
 What did you think of Ready Player One?  Tell us about it on Goodreads!
 
-- [Ready Player One on Goodreads](https://www.goodreads.com/book/show/9969571-ready-player-one)
-- [Ready Player One on Amazon](http://www.amazon.com/gp/product/030788743X)
-- [The Silver Metal Lover on Goodreads](https://www.goodreads.com/book/show/567708.The_Silver_Metal_Lover?from_search=true&search_version=service)
-- [The Silver Metal Lover on Amazon](http://www.amazon.com/gp/product/0553581279)
-- [Biting The Sun on Goodreads](https://www.goodreads.com/book/show/373009.Biting_the_Sun)
-- [Biting the Sun on Amazon](http://www.amazon.com/gp/product/0553581309)
-- [Among Others on Goodreads](https://www.goodreads.com/book/show/8706185-among-others)
-- [Among Others on Amazon](http://www.amazon.com/gp/product/076532153X)
-- [Kushiel’s Dart on Goodreads](https://www.goodreads.com/book/show/153008.Kushiel_s_Dart)
-- [Kushiel’s Dart on Amazon](http://www.amazon.com/gp/product/0330493744)
+- Ready Player One on [Goodreads](https://www.goodreads.com/book/show/9969571-ready-player-one) and [Amazon](http://www.amazon.com/gp/product/030788743X)
+- The Silver Metal Lover on [Goodreads](https://www.goodreads.com/book/show/567708.The_Silver_Metal_Lover?from_search=true&search_version=service) and [Amazon](http://www.amazon.com/gp/product/0553581279)
+- Biting The Sun on [Goodreads](https://www.goodreads.com/book/show/373009.Biting_the_Sun) and [Amazon](http://www.amazon.com/gp/product/0553581309)
+- Among Others on [Goodreads](https://www.goodreads.com/book/show/8706185-among-others) and [Amazon](http://www.amazon.com/gp/product/076532153X)
+
+## Next episode's book
+
+- Kushiel’s Dart on [Goodreads](https://www.goodreads.com/book/show/153008.Kushiel_s_Dart) and [Amazon](http://www.amazon.com/gp/product/0330493744)

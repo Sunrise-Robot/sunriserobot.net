@@ -7,35 +7,24 @@ enclosure_link: "http://audio.simplecast.fm/13045.mp3"
 enclosure_length: "47467487"
 duration: "01:04:40"
 ---
-- [Buy Wool by Hugh Howey on Amazon](http://www.amazon.com/Wool-Hugh-Howey/dp/1476733953/ref=sr_1_1?ie=UTF8&qid=1434917183&sr=8-1&keywords=wool)
-- [Wool by Hugh Howey on Goodreads](https://www.goodreads.com/book/show/13453029-wool-omnibus?from_search=true&search_version=service_impr)
+- Wool on [Goodreads](https://www.goodreads.com/book/show/13453029-wool-omnibus?from_search=true&search_version=service_impr) and [Amazon](http://www.amazon.com/Wool-Hugh-Howey/dp/1476733953/ref=sr_1_1?ie=UTF8&qid=1434917183&sr=8-1&keywords=wool)
 
-- [Buy Big Little Lies by Liane Moriarty on Amazon](http://www.amazon.com/Big-Little-Lies-Liane-Moriarty-ebook/dp/B00HDMMISA/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1434937270)
-- [Big Little Lies by Liane Moriarty on Goodreads](https://www.goodreads.com/book/show/19486412-big-little-lies?from_search=true&search_version=service_impr)
+- Big Little Lies on [Goodreads](https://www.goodreads.com/book/show/19486412-big-little-lies?from_search=true&search_version=service_impr) and [Amazon](http://www.amazon.com/Big-Little-Lies-Liane-Moriarty-ebook/dp/B00HDMMISA/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1434937270)
 
-- [Buy Vicious by V. E. Schwab on Amazon](http://www.amazon.com/Vicious-V-E-Schwab-ebook/dp/B00CQY7WBI/ref=sr_1_1_twi_1_kin?s=books&ie=UTF8&qid=1434937353&sr=1-1&keywords=v.+e+schwab)
-- [Vicious by V. E. Schwab on Goodreads](https://www.goodreads.com/book/show/18180495-vicious?from_search=true&search_version=service_impr)
+- Vicious on [Goodreads](https://www.goodreads.com/book/show/18180495-vicious?from_search=true&search_version=service_impr) and [Amazon](http://www.amazon.com/Vicious-V-E-Schwab-ebook/dp/B00CQY7WBI/ref=sr_1_1_twi_1_kin?s=books&ie=UTF8&qid=1434937353&sr=1-1&keywords=v.+e+schwab)
 
-- [Buy Unearthly by Cynthia Hand on Amazon](http://www.amazon.com/Unearthly-Book-1-Trilogy-ebook/dp/B003VIWNKS/ref=sr_1_1?s=books&ie=UTF8&qid=1434937531&sr=1-1&keywords=unearthly+cynthia+hand)
-- [Unearthly by Cynthia Hand on Goodreads](https://www.goodreads.com/book/show/7488244-unearthly?from_search=true&search_version=service_impr)
+- Unearthly on [Goodreads](https://www.goodreads.com/book/show/7488244-unearthly?from_search=true&search_version=service_impr) and [Amazon](http://www.amazon.com/Unearthly-Book-1-Trilogy-ebook/dp/B003VIWNKS/ref=sr_1_1?s=books&ie=UTF8&qid=1434937531&sr=1-1&keywords=unearthly+cynthia+hand)
 
-- [Buy In Cold Blood by Truman Capote on Amazon](http://www.amazon.com/Cold-Blood-Vintage-International-ebook/dp/B000FC1IRM/ref=sr_1_1?s=books&ie=UTF8&qid=1434937639&sr=1-1&keywords=in+cold+blood+by+truman+capote&refinements=p_n_feature_browse-bin%3A618073011)
-- [In Cold Blood by Truman Capote on Goodreads](https://www.goodreads.com/book/show/168642.In_Cold_Blood?from_search=true&search_version=service_impr)
+- In Cold Blood on [Goodreads](https://www.goodreads.com/book/show/168642.In_Cold_Blood?from_search=true&search_version=service_impr) and [Amazon](http://www.amazon.com/Cold-Blood-Vintage-International-ebook/dp/B000FC1IRM/ref=sr_1_1?s=books&ie=UTF8&qid=1434937639&sr=1-1&keywords=in+cold+blood+by+truman+capote&refinements=p_n_feature_browse-bin%3A618073011)
 
-- [Buy City of Bones by Cassandra Clare on Amazon](http://www.amazon.com/City-Bones-Mortal-Instruments-Book-ebook/dp/B0013TXA5Y/ref=sr_1_1?s=books&ie=UTF8&qid=1434937901&sr=1-1&keywords=city+of+bones)
-- [City of Bones by Cassandra Clare on Goodreads](https://www.goodreads.com/book/show/256683.City_of_Bones?from_search=true&search_version=service_impr)
+- City of Bones on [Goodreads](https://www.goodreads.com/book/show/256683.City_of_Bones?from_search=true&search_version=service_impr) and [Amazon](http://www.amazon.com/City-Bones-Mortal-Instruments-Book-ebook/dp/B0013TXA5Y/ref=sr_1_1?s=books&ie=UTF8&qid=1434937901&sr=1-1&keywords=city+of+bones)
 
 - [Shadowhunters cast](http://www.imdb.com/title/tt4145054/)
 
-- [Buy Shift by Hugh Howey on Amazon](http://www.amazon.com/Shift-Omnibus-1-3-Silo-Book-ebook/dp/B00B6Z6HI2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1434978938)
-- [Shift by Hugh Howey on Goodreads](https://www.goodreads.com/book/show/17306293-shift?from_search=true&search_version=service_impr)
+- Shift on [Goodreads](https://www.goodreads.com/book/show/17306293-shift?from_search=true&search_version=service_impr) and [Amazon](http://www.amazon.com/Shift-Omnibus-1-3-Silo-Book-ebook/dp/B00B6Z6HI2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1434978938)
 
-- [Buy Dust by Hugh Howey on Amazon](http://www.amazon.com/gp/product/B00CYNGPTG/ref=series_rw_dp_sw)
-- [Dust by Hugh Howey on Goodreads](https://www.goodreads.com/book/show/17855756-dust)
+- Dust on [Goodreads](https://www.goodreads.com/book/show/17855756-dust) and [Amazon](http://www.amazon.com/gp/product/B00CYNGPTG/ref=series_rw_dp_sw)
 
-Next Month’s book:
+## Next episode's book
 
-- [Buy Ready Player One by Ernest Cline on Amazon](http://www.amazon.com/Ready-Player-One-Ernest-Cline-ebook/dp/B004J4WKUQ/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1434980552&sr=1-1&keywords=ready+player+one)
-- [Ready Player One by Ernest Cline on Goodreads](https://www.goodreads.com/book/show/9969571-ready-player-one?from_search=true&search_version=service_impr)
-- [Buy Kushiel’s Dart by Jacqueline Carey on Amazon](http://www.amazon.com/Kushiels-Dart-Legacy-Book-ebook/dp/B0055DLCAY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1434986913&sr=1-1&keywords=kushiel%27s+dart)
-- [Kushiel’s Dart by Jacqueline Carey on Gooreads](https://www.goodreads.com/book/show/153008.Kushiel_s_Dart?from_search=true&search_version=service_impr)
+- Ready Player One on [Goodreads](https://www.goodreads.com/book/show/9969571-ready-player-one?from_search=true&search_version=service_impr) and [Amazon](http://www.amazon.com/Ready-Player-One-Ernest-Cline-ebook/dp/B004J4WKUQ/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1434980552&sr=1-1&keywords=ready+player+one)
