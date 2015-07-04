@@ -1,10 +1,27 @@
 ---
 number: "1"
-title: "Gilead"
+title: "Gilead: We’ll Try to Make This a Positive Experience"
 pubDate: "2015-06-13"
-description: "In the launch episode of the Eclectic Readers Book Club the group discusses Gilead."
+description: "We introduce ourselves with books. We discuss Book Bingo and all its glorious nerdiness. And we discuss a legacy written in a long letter to his son."
 enclosure_link: "http://audio.simplecast.fm/13041.mp3"
 enclosure_length: "50010688"
 duration: "01:08:12"
 ---
 - Gilead on [Goodreads](http://www.goodreads.com/book/show/68210.Gilead) and [Amazon](http://amzn.com/B000O76NMS)
+- Anne of Green Gables series by L.M. Montgomery on [Amazon](http://amzn.com/B005XBKB78) and [GoodReads](https://www.goodreads.com/book/show/3579.The_Complete_Anne_of_Green_Gables_Boxed_Set?from_search=true&search_version=service_impr)
+- Charlotte’s Web by E.B. White on [Amazon](http://www.amazon.com/Charlottes-Web-Trophy-Newbery-White-ebook/dp/B00T3DNKE8/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1435430042) and [GoodReads](https://www.goodreads.com/book/show/24178.Charlotte_s_Web?from_search=true&search_version=service_impr)
+- Bonk by Mary Roach on [Amazon](http://www.amazon.com/Bonk-Curious-Coupling-Science-Sex-ebook/dp/B003M5IGE2/ref=sr_1_1?s=books&ie=UTF8&qid=1435571703&sr=1-1&keywords=bonk+mary+roach) and [GoodReads](https://www.goodreads.com/book/show/2082136.Bonk?from_search=true&search_version=service_impr)
+- [Book Bingo board](http://www.retreatbyrandomhouse.ca/2014/01/reading-bingo-challenge-2014/)
+- Call the Midwife by Jennifer Worth on [Amazon](http://www.amazon.com/Call-Midwife-Memoir-Birth-Trilogy-ebook/dp/B008MFVH0C/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-2&qid=1435430176) and [GoodReads](https://www.goodreads.com/book/show/25431511-call-the-midwife?from_search=true&search_version=service_impr)
+- Pretty Little Liars by Sara Shepard on [GoodReads](https://www.goodreads.com/book/show/162085.Pretty_Little_Liars?from_search=true&search_version=service_impr)
+- Vampire Diaries by L.J Smith on [GoodReads](https://www.goodreads.com/book/show/395922.The_Awakening?from_search=true&search_version=service_impr)
+- The Magician’s Land by Lev Grossman on [Amazon](http://www.amazon.com/Magicians-Land-Novel-Book-ebook/dp/B00G3L19CI/ref=sr_1_1?s=books&ie=UTF8&qid=1435572660&sr=1-1&keywords=magician%27s+land) and [GoodReads](https://www.goodreads.com/book/show/19103097-the-magician-s-land?from_search=true&search_version=service_impr)
+- What We Talk About When We Talk About Anne Frank by Nathan Englander on [Amazon](http://www.amazon.com/What-Talk-About-When-Frank-ebook/dp/B005KB0U4K/ref=sr_1_1?s=books&ie=UTF8&qid=1435572846&sr=1-1&keywords=what+we+talk+about+when+we+talk+about+anne+frank) and [GoodReads](https://www.goodreads.com/book/show/12233866-what-we-talk-about-when-we-talk-about-anne-frank?from_search=true&search_version=service_impr)
+- The Diary of a Young Girl by Anne Frank on [Amazon](http://amzn.com/B0041OT9W6) and [GoodReads](https://www.goodreads.com/book/show/5507.The_Diary_of_Anne_Frank?from_search=true&search_version=service_impr)
+- T. S. Eliot Collected Poems by T. S. Eliot on [Amazon](http://www.amazon.com/Collected-Poems-1909-1962-T-Eliot-ebook/dp/B00JTJDAVO/ref=sr_1_1?s=books&ie=UTF8&qid=1435573510&sr=1-1&keywords=ts+eliot)
+- Evelina by Fanny Burney on [Amazon](http://www.amazon.com/Evelina-History-Young-Ladys-Entrance-ebook/dp/B008485NOI/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1435430225) and [GoodReads](https://www.goodreads.com/book/show/37638.Evelina?from_search=true&search_version=service_impr)
+- The House on Mango Street by Sandra Cisneros on [Amazon](http://www.amazon.com/House-Mango-Street-Sandra-Cisneros-ebook/dp/B00C8S9WJM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1435430301&sr=1-1&keywords=house+on+mango+street) and [GoodReads](https://www.goodreads.com/book/show/139253.The_House_on_Mango_Street?from_search=true&search_version=service_impr)
+- [Eclectic Readers on GoodReads](https://www.goodreads.com/group/show/68328-eclectic-readers)
+
+## Next Month’s Book:
+- The Miniaturist by Jessie Burton on [Amazon](http://www.amazon.com/Miniaturist-Novel-Jessie-Burton-ebook/dp/B00H1UK3UO/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1435430632&sr=1-1&keywords=miniaturist) and [GoodReads](https://www.goodreads.com/book/show/18498569-the-miniaturist?from_search=true&search_version=service_impr)
