@@ -1,0 +1,12 @@
+---
+number: "12"
+title: "Elite British Beefcake"
+pubDate: "2015-07-06"
+description: "Polly and Shelby celebrate the Supreme Court ruling on gay marriage and Polly stresses about her own wedding. They have a quick sidebar to talk about Teen Mom before discussing the new Lifetime series, UnREAL as well as the big drama on The Bachelorette. Finally, they chat about A Deadly Adoption, the newest Lifetime original movie starring Will Ferrell and Kristen Wiig."
+enclosure_link: "http://audio.simplecast.fm/13843.mp3"
+enclosure_length: "36530354"
+duration: "00:48:51"
+---
+- [A Brief History Of Gay Rights At The Supreme Court](http://fivethirtyeight.com/datalab/a-brief-history-of-gay-rights-at-the-supreme-court/)
+- [UnReal's Constance Zimmer: Prepare for the Season to Get 'Dirtier & Darker'](http://tvline.com/2015/06/26/unreal-season-1-spoilers-most-shocking-moment/)
+-[You’ll Never Guess Which Bachelor Star Reached Out To Lifetime’s UnREAL Creator](http://www.eonline.com/news/669186/you-ll-never-guess-which-bachelor-star-reached-out-to-lifetime-s-unreal-s-creator)
