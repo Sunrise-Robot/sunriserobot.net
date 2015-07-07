@@ -1,0 +1,17 @@
+---
+number: "74"
+title: "Hold L2 To Turn Into A Tank"
+pubDate: "2015-07-07"
+description: "The Batman Arkham series is still worth getting giddy over. Thync is a wearable for managing your mood. Chicago plans to tax streaming services. And you make grandma sad, you monster."
+enclosure_link: "http://audio.simplecast.fm/13878.mp3"
+enclosure_length: "56180059"
+duration: "01:16:57"
+---
+- [Batman has AR missions to do](https://40.media.tumblr.com/bb609dfbbbf3b099c98d2b2aa923e9e6/tumblr_nqnljsedKW1saz8rao1_500.png)
+- [Acorns - Invest Spare Change into Stocks](https://itunes.apple.com/app/id883324671)
+- [Thync - How Good Feels](http://www.thync.com/)
+- [Thync's mood-changing wearable made me happy and frustrated](http://www.engadget.com/2015/01/07/thync-mood-changing-wearable/)
+- [Chicago Levies "Cloud Tax" on Spotify, Netflix, Other Streaming Services](http://pitchfork.com/news/60238-chicago-levies-cloud-tax-on-spotify-netflix-other-streaming-services/)
+- [Get ready to pay more for Netflix: Chicago sneaks 'cloud tax' onto books](http://chicago.suntimes.com/news/7/71/736929/cloud-tax-amusement-streaming-services)
+- [Microsoft might dump Windows Phone in favour of Android](http://www.theinquirer.net/inquirer/news/2415589/microsoft-might-dump-windows-phone-in-favour-of-android)
+- [Why Grandma Is So Sad](http://www.theawl.com/2015/07/why-grandma-is-so-sad)
