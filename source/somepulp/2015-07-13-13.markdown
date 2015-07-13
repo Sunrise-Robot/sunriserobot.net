@@ -1,0 +1,15 @@
+---
+number: "13"
+title: "JFK and The Day Camelot Died"
+pubDate: "2015-07-13"
+description: "Bruce reflects on his experiences of the day Kennedy died, and what occurred in the heart of the nation and the news media as remembered through the eyes of a young boy growing up in Akron, Ohio. Justin Edwards co-hosts this week and they get into what the assassination meant for America, and how our “Camelot” was never the same."
+enclosure_link: "http://audio.simplecast.fm/14066.mp3"
+enclosure_length: "31947187"
+duration: "00:43:27"
+---
+- [The Zapruder Film](	https://www.youtube.com/watch?v=iU83R7rpXQY)
+- [Oliver Stone’s JFK trailer](https://youtu.be/LwfI93JFyUY)
+- [The Warren Commision](http://www.archives.gov/research/jfk/warren-commission-report/)
+- [The Lone Gunmen intro](https://www.youtube.com/watch?v=IpN_itO7yyY)
+- [The X-Files’ version of the JFK Assassination](http://www.criticalcommons.org/Members/ironman28/clips/XfilesJFKshooting.mov/view)
+- [Jackie Kennedy & JFK’s Camelot](http://www.thedailybeast.com/articles/2013/11/12/how-jackie-kennedy-invented-the-camelot-legend-after-jfk-s-death.html)
