@@ -1,0 +1,22 @@
+---
+number: "75"
+title: "High Hanging Fruit"
+pubDate: "2015-07-14"
+description: "Google Photos handles sharing in a very Google-y way. Watching people code is a new idea but not really. Self-driving cars are going to change all the things. And a short remembrance of beloved Nintendo President Satoru Iwata."
+enclosure_link: "http://audio.simplecast.fm/14101.mp3"
+enclosure_length: "62165425"
+duration: "01:25:16"
+---
+- [Sony Leaving The E-Book Business Behind, Will Transition Accounts And Purchases To Kobo](http://techcrunch.com/2014/02/06/sony-closing-reader-store/)
+- [Spotify is now available on Sony's PS4 and PS3](http://www.theverge.com/2015/3/30/8303279/spotify-sony-ps4-ps3-launch)
+- [Nintendo President Satoru Iwata Dies At 55](http://kotaku.com/nintendos-president-has-passed-away-1717386412)
+- [Satoru Iwata IMDB](http://www.imdb.com/name/nm0412631/)
+- [126 year old Nintendo has only had four presidents](http://nintendo.wikia.com/wiki/List_of_Nintendo_people)
+- [Earthound anti-piracy method](https://youtu.be/BmyoV1bkXNI)
+- [Lyons trolled by @hulu_support](https://twitter.com/lyonsinbeta/status/616304571825061888)
+- [Google Photos and the unguessable URL](http://www.theverge.com/2015/6/23/8830977/google-photos-security-public-url-privacy-protected)
+- [Grey Boxes Everywhere](http://memedad.com/memes/690758.jpg)
+- [Livecoding.tv - watch people code products, live](http://livecoding.tv)
+- [Pyxel Edit](http://pyxeledit.com/)
+- [Revised and much faster, run your own high-end cloud gaming service on EC2!](http://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html)
+- [Self-Driving Trucks Are Going to Hit Us Like a Human-Driven Truck](https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961)
