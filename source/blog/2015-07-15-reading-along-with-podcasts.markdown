@@ -3,9 +3,10 @@ title: "Reading Along with Your Podcasts"
 pubDate: "2015-03-13"
 published: false
 ---
-<img class="pull-right img-responsive" src="/images/eclecticreaders/eclecticreaders_album.jpg">
+<img class="pull-right img-responsive" src="/images/blog/eclecticreaders_small.jpg">
 
-Like books? Of course you do. Like podcasts? _Of course you do._
+Like books? Of course you do.<br/>
+Like podcasts? _Of course you do._
 
 You might have noticed a new show (our first new show since we launched!) dropped on July 1st called [Eclectic Readers Book Club](/eclecticreaders). If you're clever and [subscribed](pcast://sunriserobot.net/eclecticreaders/feed.xml) or [follow me on twitter](https://twitter.com/sunriserobot) then you also know [the fifth episode was released today](/eclecticreaders/5)! You may not have heard of a book club podcast before so I'm here to share with you why it's awesome.
 
