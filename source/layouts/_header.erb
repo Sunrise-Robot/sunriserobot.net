@@ -15,7 +15,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Podcasts <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <% @shows.each do |show| %>
-                <li><a href="<%= show["prefix"] %>"><%= show["title"] %></a></li>
+                <li><a href="/<%= show["prefix"] %>"><%= show["title"] %></a></li>
                 <% end %>
               </ul>
             </li>
