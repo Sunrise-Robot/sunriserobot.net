@@ -28,11 +28,11 @@
             <% blog.articles.each do |episode| %>
             <li>
               <pre><code>
-**<%= @show["title"] %>** [#<%= episode.data.number %> - <%= episode.title %>](<%= "//sunriserobot.net#{episode.url}?utm_source=reddit&utm_medium=dailypodcast&utm_campaign=feed" %>)
+**<%= @show["title"] %>** [#<%= episode.data.number %> - <%= episode.title %>](<%= "http://sunriserobot.net#{episode.url}?utm_source=reddit&utm_medium=dailypodcast&utm_campaign=feed" %>)
 
 <%= episode.data.description %>
 
-[website](<%= "//sunriserobot.net/#{@show["prefix"]}" %>) | [RSS](<%= "//sunriserobot.net/#{@show["prefix"]}/feed.xml" %>) | [iTunes](<%= @show["itunes"] %>) | [twitter](//twitter.com/sunriserobot)
+[website](<%= "http://sunriserobot.net/#{@show["prefix"]}" %>) | [RSS](<%= "http://sunriserobot.net/#{@show["prefix"]}/feed.xml" %>) | [iTunes](<%= @show["itunes"] %>) | [twitter](http://twitter.com/sunriserobot)
                 </code></pre>
               </li>
               <% end %>
