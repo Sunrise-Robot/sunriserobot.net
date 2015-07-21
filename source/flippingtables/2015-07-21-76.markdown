@@ -1,0 +1,23 @@
+---
+number: "76"
+title: "It's A Prime Day Miracle!"
+pubDate: "2015-07-21"
+description: "Flic is the wireless smart button you didn't know you needed. Customers complain about Amazon's Prime Day. beme want to bring authenticity to social media. And Mike and Lyons are Getting Things Done."
+enclosure_link: "http://audio.simplecast.fm/14305.mp3"
+enclosure_length: "60728759"
+duration: "01:24:20"
+---
+- [IFTTT recipe: $5 to the travel account!](https://ifttt.com/recipes/305855-5-to-the-travel-account)
+- [Flic: The Wireless Smart Button](https://flic.io/)
+- [Firefox Now Blocks Flash By Default (Update)](http://gizmodo.com/firefox-now-blocks-flash-by-default-1717664482)
+- [echo-chamber.js on GitHub](https://github.com/tessalt/echo-chamber-js)
+- [Google Intros Nearby APIs for Android, Bluetooth Low Energy Beacons](http://www.droid-life.com/2015/07/14/google-intros-nearby-apis-for-android-bluetooth-low-energy-beacons/)
+- [Angry Amazon customers vent over sale fail](http://money.cnn.com/2015/07/15/news/amazon-walmart-prime-day-customers/)
+- [Meet Beme](https://www.youtube.com/watch?v=mixsze6uJPg)
+- [beme: Share video. Honestly.](https://itunes.apple.com/us/app/beme-share-video.-honestly./id1005178547?ls=1&mt=8)
+- [Just Put The Phone Under/In/On/Between Your Boobs](https://medium.com/@caseyjohnston/just-put-the-phone-under-in-on-between-your-boobs-40e690682783)
+- [HBO Now on Google Play](https://play.google.com/store/apps/details?id=com.hbo.hbonow)
+- [HBO Now on Android (Sucks)](http://lyonsinbeta.com/2015/07/hbo-now-on-android/)
+- [Todoist](https://todoist.com)
+- [Getting Things Done](http://gettingthingsdone.com/)
+- [Lego Calendar by Vitamins Design syncs with Google Calendar](http://www.creativeapplications.net/objects/lego-calendar-by-vitamins-design-syncs-with-google-calendar/)
