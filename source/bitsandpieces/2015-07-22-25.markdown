@@ -7,7 +7,7 @@ enclosure_link: "http://audio.simplecast.fm/14434.mp3"
 enclosure_length: "32809919"
 duration: "00:57:24"
 ---
-- [Matt on the Pseudo Show #5 - Green Check Marks](http://sunriserobot.net/bitsandpieces/5/)
+- [Matt on the Pseudo Show #5 - Green Check Marks](http://sunriserobot.net/pseudoshow/5/)
 - [Neil Young pulls all his music from streaming services](https://www.facebook.com/NeilYoung/photos/a.10155641820845317.1073741825.21931600316/10155765937670317/?type=1 )
 - [Optical Audio Cables](https://www.kickstarter.com/projects/1536327222/lightleadtm-world-1st-analogue-optical-audio-cable/description )
 - [Jurassic Park theme at 1000x slower](http://m.hitfix.com/the-dartboard/the-jurassic-park-theme-at-1000x-slower-speed-is-absolutely-gorgeous )
