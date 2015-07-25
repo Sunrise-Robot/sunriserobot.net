@@ -1,0 +1,21 @@
+---
+number: "14"
+title: "TEXT"
+pubDate: "2015-07-27"
+description: "TEXT"
+enclosure_link: "TEXT"
+enclosure_length: "TEXT"
+duration: "TEXT"
+published: "false"
+---
+- [Alice and Jerry](https://en.wikipedia.org/wiki/Alice_and_Jerry)
+- [CSNY song about Kent State](https://youtu.be/fW3R9c0eaUg)
+- [Comedian Red Skelton’s The Pledge of Allegiance](https://youtu.be/TZBTyTWOZCM)
+- [Captain Kangaroo](https://youtu.be/__0nVHr4bjk)
+- [The Mickey Mouse Club](https://youtu.be/hemEGjrzcnE)
+- [Captain Penny, Mr Jingaling, Romper Room](https://youtu.be/LO2TxpfR2u0)
+- [Barnaby](https://youtu.be/c8lZcK9s-J0)
+- [Typical of Educational films for children’s assemblies: “A Small Town”](https://youtu.be/Jqe4W08124M)
+- [Dobie Gillis](https://youtu.be/VHq9XzRCqfE)
+- [My Three Sons](https://youtu.be/tu1wx-6vG8k)
+- [Mr. Novak](https://youtu.be/0_iECRckcl8)
