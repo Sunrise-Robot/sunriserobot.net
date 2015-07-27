@@ -1,12 +1,11 @@
 ---
 number: "14"
-title: "TEXT"
+title: "School’s Out: 4 Ever? Hey, What About Chess Club? Schooling from the ‘60s to the ‘10s"
 pubDate: "2015-07-27"
-description: "TEXT"
-enclosure_link: "TEXT"
-enclosure_length: "TEXT"
-duration: "TEXT"
-published: "false"
+description: "What is schooling in a democratic society? Focus on the schooling this Akron boy received in the 1960s, from grade school to junior and senior high and the differences and similarities between now and then--through the eyes of a boy, dad, now a grandpa."
+enclosure_link: "http://audio.simplecast.fm/14685.mp3"
+enclosure_length: "58269639"
+duration: "01:20:00"
 ---
 - [Alice and Jerry](https://en.wikipedia.org/wiki/Alice_and_Jerry)
 - [CSNY song about Kent State](https://youtu.be/fW3R9c0eaUg)
