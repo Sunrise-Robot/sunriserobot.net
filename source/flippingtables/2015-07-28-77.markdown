@@ -7,7 +7,7 @@ enclosure_link: "http://audio.simplecast.fm/14700.mp3"
 enclosure_length: "62504877"
 duration: "01:26:48"
 ---
-- [Flipping Tables on tuneIn](http://tunein.com/radio/Flipping-Tables-p766783/)
+- [Flipping Tables on tunein](http://tunein.com/radio/Flipping-Tables-p766783/)
 - [The Pseudo Show on tunein](http://tunein.com/radio/The-Pseudo-Show-p766784/)
 - [Likely Story on tunein](http://tunein.com/radio/Likely-Story-p766786/)
 - [Some Pulp on tunein](http://tunein.com/radio/Some-Pulp-p766787/)
