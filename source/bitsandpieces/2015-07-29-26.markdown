@@ -1,0 +1,22 @@
+---
+number: "26"
+title: "None of this Plebeian Copper"
+pubDate: "2015-07-29"
+description: "A $340 ethernet audio cable is our latest example of snake oil, Pandora isn't scared of Apple Music, and we launch a brand new segment called FXplain where we discuss the how and why of audio effects. This week's FXplain: Chorus, Flanger and Phaser. Finall, as always, stick around for our Picks of the Week."
+enclosure_link: "http://audio.simplecast.fm/14733.mp3"
+enclosure_length: "27830675"
+duration: "00:48:27"
+---
+- [340 Dollars Ethernet Cables](http://arstechnica.com/gadgets/2015/07/gallery-we-tear-apart-a-340-audiophile-ethernet-cable-and-look-inside/)
+- [Motherboard with integrated Vacuum Tube audio stage](https://i.imgur.com/PodMO.jpg)
+- [Pandora CEO: “Apple Music has had ‘no impact’ on our business”](https://bgr.com/2015/07/24/pandora-apple-music-threat/)
+- [Battles Documentary “The Art of Repetition”](https://www.youtube.com/watch?v=jS5ltxihivA&feature=youtu.be)
+- [Nirvana - Come As You Are](https://youtu.be/wEnwU5UGVYs)
+- [The Police - Message In A Bottle](https://youtu.be/Xhwq0iPLSSc)
+- [Tears for Fears - Head Over Heels](https://www.youtube.com/watch?v=ZZyGDiUnta4)
+- [Tame Impala - Solitude Is Bliss](https://youtu.be/vxvf7gR4-2M)
+- [Young Galaxy - Sleepwalk With Me](https://vimeo.com/76357912)
+- [Vine - Hazy](https://vine.bandcamp.com/track/hazy)
+- [Vinesauce does Mario 64 Corruptions](https://www.youtube.com/watch?v=OvNDcVRlyYk)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
+- [Bits & Pieces playlist on Apple Music](https://itunes.apple.com/us/playlist/bits-pieces/idpl.40b6f6b3339649b2976bad2d4ef23ff9)
