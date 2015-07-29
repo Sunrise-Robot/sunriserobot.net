@@ -4,7 +4,7 @@ title: "What If We Made Life Worse?"
 pubDate: "2015-07-28"
 description: "Flipping Tables is now available on the Amazon Echo so go command your robot slave to play the show! Steve Jobs gets yet another movie about his life. Google+ is no longer required to use Youtube. And video game tournaments like the DOTA International could win some lucky player millions of dollars!"
 enclosure_link: "http://audio.simplecast.fm/14700.mp3"
-enclosure_length: "62504877"
+enclosure_length: "63271050"
 duration: "01:26:48"
 ---
 - [Flipping Tables on tunein](http://tunein.com/radio/Flipping-Tables-p766783/)
