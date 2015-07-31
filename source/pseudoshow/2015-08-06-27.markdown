@@ -1,0 +1,13 @@
+---
+number: "27"
+title: "Mid-2015 Movies, TV, and Games Review"
+pubDate: "2015-08-06"
+description: "Justin and Michael take stock of the best and worst of 2015's movies, tv shows and games, as well as a look at what they're most excited about for the rest of the year. Hear their takes on True Detective S2, Game of Thrones S5, Better Call Saul, Fargo, Inside Out, Mad Max, Batman: Arkham Knight, and most importantly, why they were not that into Jurassic World."
+enclosure_link: "http://audio.simplecast.fm/14765.mp3"
+enclosure_length: "62060164"
+duration: "01:24:54"
+---
+- [Steve Jobs - The Man in the Machine trailer](https://youtu.be/SrlPyKxdMX4)
+- [Film Crit Hulk’s Smash of Jurassic World](http://birthmoviesdeath.com/2015/07/06/quick-takes-hulk-smash-jurassic-world)
+- [Radiohead’s “Karma Police” video](https://youtu.be/IBH97ma9YiI)
+- [Seinfeld/Silicon Valley Showrunner Alec Berg on John August’s podcast](http://johnaugust.com/2015/the-one-with-alec-berg)
