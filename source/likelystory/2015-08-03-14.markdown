@@ -1,0 +1,14 @@
+---
+number: "14"
+title: "I'm the World's Biggest Joke"
+pubDate: "2015-08-03"
+description: "Polly and Shelby rejoice that the Bachelorette is finally over! Upon completing the Lifetime Movie Challenge, the real outcome is a new addiction to Lifetime movies. Also: Shelby realizes that Mr. Robot is an amazing show and Polly is happy about some of the latest NFL news."
+enclosure_link: "http://audio.simplecast.fm/14818.mp3"
+enclosure_length: "33957096"
+duration: "00:45:16"
+---
+- [Suspension upheld, Tom Brady & NFL get ready for court battle - USA News](http://www.usatoday.com/story/sports/nfl/patriots/2015/07/28/tom-brady-deflategate-suspension-upheld-ruling-roger-goodell-new-england/30082201/)
+- [Chris Harrison Slams Unreal Calls Lifetime Series Really Terrible](http://www.ibtimes.com/bachelorette-host-chris-harrison-slams-unreal-calls-lifetime-series-really-terrible-2029499)
+- [Perfect High Suffers Fatal Dose of Seriousness](http://www.avclub.com/tvclub/perfect-high-suffers-fatal-overdose-seriousness-221277)
+- [Constance Zimmer on Marvel’s Agents of SHIELD](http://www.ew.com/article/2015/07/30/agents-shield-constance-zimmer-season-3)
+- [Tim Tebow will make the team, and play a lot](http://www.foxsports.com/nfl/story/eagles-brandon-graham-tim-tebow-will-make-the-team-and-play-a-lot-073015?adbsc=social_20150730_50007346&adbid=10154119315484552&adbpl=fb&adbpr=112638779551)
