@@ -1,0 +1,10 @@
+---
+number: "78"
+title: "TEXT"
+pubDate: "2015-08-04"
+description: "TEXT"
+enclosure_link: "URL"
+enclosure_length: "TEXT"
+duration: "TEXT"
+published: "false"
+---
