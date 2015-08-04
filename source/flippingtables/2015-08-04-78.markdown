@@ -1,10 +1,17 @@
 ---
 number: "78"
-title: "TEXT"
+title: "Full-Time Face Puncher"
 pubDate: "2015-08-04"
-description: "TEXT"
-enclosure_link: "URL"
-enclosure_length: "TEXT"
-duration: "TEXT"
-published: "false"
+description: "Is Uber lying or just providing an 'experience'? Also, Microsoft turns Solitaire into a freemium experience, ISPs make a stupid claim about the internet, Final Fantasy 7 remake rumors, and a discussion of interesting problem solving in game design. Train hats, anyone?"
+enclosure_link: "http://audio.simplecast.fm/14854.mp3"
+enclosure_length: "46528326"
+duration: "01:03:33"
 ---
+- [Uber's Phantom Cabs](http://motherboard.vice.com/read/ubers-phantom-cabs)
+- [Windows Solitaire is now a freemium...](https://www.reddit.com/r/gaming/comments/3f0jst/windows_solitaire_is_now_a_freemium/)
+- [Microsoft wants $1.49 a month to remove the ads it shows inside Solitaire on Windows 10](http://www.businessinsider.com/solitaire-windows-10-pay-to-remove-ads-2015-7)
+- [Free Solitaire Online](http://www.solitr.com/)
+- [ISPs: Net neutrality rules are illegal because Internet access uses computers](http://arstechnica.com/tech-policy/2015/07/isps-net-neutrality-rules-are-illegal-because-internet-access-uses-computers/)
+- [Final Fantasy 7 Remake's Combat Will Feature 'dramatic Changes,' Draw Inspiration from Advent Children](http://www.ign.com/articles/2015/07/30/final-fantasy-7-remakes-combat-will-feature-dramatic-changes-draw-inspiration-from-advent-children)
+- [This was how the train in broken steel was animated. This npc basically just ran really fast.](https://www.reddit.com/r/Fallout/comments/3e0svq/this_was_how_the_train_in_broken_steel_was/)
+- [Cannot Unsee:The clouds and the bushes in Super Mario Bros. ](http://www.cannotunsee.net/post/444799979/supermario)
