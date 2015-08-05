@@ -1,0 +1,21 @@
+---
+number: "27"
+title: "There’s Stuff From One Direction In My Grocery Store"
+pubDate: "2015-08-05"
+description: "David Byrne wants to open up the black box of record label contracts, One Direction strikes oil with their new single on Spotify, and for FXplain we do a deep dive into Dynamic Range Compression, how it works and when to use it!"
+enclosure_link: "URL"
+enclosure_length: "TEXT"
+duration: "TEXT"
+published: "false"
+---
+- ["This Is An All-Inclusive Space," Says All-White, All-Male Audience](http://thehardtimes.net/2015/07/27/this-is-an-all-inclusive-space-says-all-white-all-male-audience/)
+- [Open the Music Industry’s Black Box](http://mobile.nytimes.com/2015/08/02/opinion/sunday/open-the-music-industrys-black-box.html?smid=tw-nytimes&_r=5&referrer=)
+- [One Direction making the big bucks on Spotify with their latest single](http://www.musicbusinessworldwide.com/one-directions-new-song-is-making-21k-a-day-on-spotify-and-youll-struggle-to-find-it-on-youtube/)
+- [Kickstarter Project: NES Synthesizer](https://www.kickstarter.com/projects/599725696/arcano-midi-nes-chiptune-synthesizer?ref=category_featured)
+- [Listening to music makes you more effective at work](http://metro.co.uk/2015/08/03/listening-to-music-makes-you-more-effective-at-work-says-science-5324814/)
+- [How the compressor looks in Ableton Live](https://imgur.com/a/4zBmJ)
+- [Understanding Audio Compression](http://www.barryrudolph.com/mix/comp.html)
+- [The Cooper Temple Clause - Talking To A Brick Wall](https://www.youtube.com/watch?v=0uZomZ3Aen0)
+- [Cate Le Bon - I Can’t Help You ](https://www.youtube.com/watch?v=5fFCyHHP2-U)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
+- [Bits & Pieces playlist on Apple Music](https://itunes.apple.com/us/playlist/bits-pieces/idpl.40b6f6b3339649b2976bad2d4ef23ff9)
