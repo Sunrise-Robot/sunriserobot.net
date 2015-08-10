@@ -8,7 +8,7 @@ enclosure_length: "47901014"
 duration: "01:05:36"
 ---
 - [Processing Words](http://www.amazon.com/Processing-Words-Writing-Revising-Microcomputer/dp/0137236360/ref=sr_1_2?ie=UTF8&qid=1438833200&sr=8-2&keywords=processing+words+bruce+edwards)
-- [Automata](https://en.wikipedia.org/wiki/Automata_(film) 
+- [Automata](https://en.wikipedia.org/wiki/Automata_(film))
 - [IBM Mainframe from the 70s](https://i.imgur.com/VNxCqOw.jpg)
 - [Mac computer lab in the 80s](https://c1.staticflickr.com/5/4124/4998930391_b1e7bf6721_b.jpg)
 - [Gateway Solo 2200 laptop - which we took to use in Kenya in 1999](https://i.imgur.com/GtC7bRH.jpg)
