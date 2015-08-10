@@ -2,15 +2,14 @@
 number: "15"
 title: "Imagine There's No Internet: The Rise of Personal Computers in the Life of an Academic"
 pubDate: "2015-08-10"
-description: "Computers in the 50s and 60s were glorified calculators, existing as giant mainframes in large rooms, before the personal computer revolutions of the 70s and 80s. See how these dramatic changes affected the lives of normal citizens through the lens of an english professor at a university who brought computers to the classroom in the early 80s and sent his first email in 1983."
-enclosure_link: "URLGOESHERE"
+description: "Computers in the 50s and 60s were glorified calculators, existing as giant mainframes in large rooms, before the personal computer revolutions of the 70s and 80s. See how these dramatic changes affected the lives of normal citizens through the lens of an english professor at a university who brought computers to the classroom in the early 80s and sent his first email in 1983, travelled to Africa with a laptop in the 90s, and still plays with the latest gadgets to this day."
+enclosure_link: "http://audio.simplecast.fm/15214.mp3"
 enclosure_length: "47901014"
 duration: "01:05:36"
-published: "false"
 ---
 - [Processing Words](http://www.amazon.com/Processing-Words-Writing-Revising-Microcomputer/dp/0137236360/ref=sr_1_2?ie=UTF8&qid=1438833200&sr=8-2&keywords=processing+words+bruce+edwards)
 - [Automata](https://en.wikipedia.org/wiki/Automata_(film) 
 - [IBM Mainframe from the 70s](https://i.imgur.com/VNxCqOw.jpg)
 - [Mac computer lab in the 80s](https://c1.staticflickr.com/5/4124/4998930391_b1e7bf6721_b.jpg)
-- [Gateway Solo 220 laptop - which we took to use in Kenya in 1999](https://i.imgur.com/GtC7bRH.jpg)
+- [Gateway Solo 2200 laptop - which we took to use in Kenya in 1999](https://i.imgur.com/GtC7bRH.jpg)
 - [Mike's Apple Watch](http://postimg.org/image/979c31xrf/)
