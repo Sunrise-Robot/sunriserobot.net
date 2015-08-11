@@ -4,8 +4,8 @@ title: "The High-Five Is Crucial"
 pubDate: "2015-08-11"
 description: "Mike gets Windows 10 installed after a convoluted process, Tesla shows off a creepy solid metal snake electric car charger, Lexus shows off a working hoverboard with serious limitations, and TripMode helps you conserve data on your mac when you're tethered to your phone. Also: will Google's latest attempt to improve the pace of Android updates work this time?"
 enclosure_link: "http://audio.simplecast.fm/15233.mp3"
-enclosure_length: "45690740"
-duration: "01:02:23"
+enclosure_length: "43479527"
+duration: "00:59:19"
 ---
 - [This Big White Button Mutes Your Life So You Can Get Work Done](http://www.fastcodesign.com/3049129/this-big-white-button-mutes-your-life-so-you-can-get-work-done)
 - [Saent - Be less distracted](https://www.indiegogo.com/projects/saent-be-less-distracted#/story)
