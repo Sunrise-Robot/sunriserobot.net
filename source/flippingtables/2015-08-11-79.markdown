@@ -1,0 +1,17 @@
+---
+number: "79"
+title: "The High-Five Is Crucial"
+pubDate: "2015-08-11"
+description: "Mike gets Windows 10 installed after a convoluted process, Tesla shows off a creepy solid metal snake electric car charger, Lexus shows off a working hoverboard with serious limitations, and TripMode helps you conserve data on your mac when you're tethered to your phone. Also: will Google's latest attempt to improve the pace of Android updates work this time?"
+enclosure_link: "http://audio.simplecast.fm/15233.mp3"
+enclosure_length: "45690740"
+duration: "01:02:23"
+---
+- [This Big White Button Mutes Your Life So You Can Get Work Done](http://www.fastcodesign.com/3049129/this-big-white-button-mutes-your-life-so-you-can-get-work-done)
+- [Saent - Be less distracted](https://www.indiegogo.com/projects/saent-be-less-distracted#/story)
+- [Watch Tesla's creepy 'solid metal snake' plug itself into a Model S](http://www.theverge.com/2015/8/6/9109027/tesla-model-s-snake-charger-elon-musk)
+- [The Lexus Hoverboard Is Real And I Rode It](http://jalopnik.com/the-lexus-hoverboard-is-real-and-i-rode-it-1721876528)
+- [TripMode: Your Mac’s mobile data savior](https://www.tripmode.ch/)
+- [Your iPhone will finally stop getting stuck on weak Wi-Fi in iOS 9](http://www.theverge.com/2015/8/6/9112843/ios-9-wi-fi-assist-apple-iphone)
+- [Google Announces New Update Policy For Nexus Devices Including Monthly Security Patches For 3 Years And Major OTAs For 2 Years From Release](http://www.androidpolice.com/2015/08/05/google-announces-new-update-policy-for-nexus-devices-including-monthly-security-patches-for-3-years-and-major-otas-for-2-years-from-release/)
+- [Google And Samsung Will Now Release Monthly OTA Android Security Updates](http://techcrunch.com/2015/08/05/google-and-samsung-will-now-release-monthly-ota-android-security-updates/)
