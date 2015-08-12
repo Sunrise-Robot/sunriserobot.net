@@ -1,0 +1,22 @@
+---
+number: "28"
+title: "I'm Going to Kill You in the Morning"
+pubDate: "2015-08-12"
+description: "Prince's next album will be exclusively on Tidal, Beach House unveils a setlist creator for fans and for FXPlain, Matt talks about how Delay works. As always, stick around for our Picks of the Week each episode."
+enclosure_link: "http://audio.simplecast.fm/15285.mp3"
+enclosure_length: "24969724"
+duration: "00:45:05"
+---
+- [Prince will release his next album exclusively on Tidal](http://www.theverge.com/2015/8/7/9116801/prince-album-hitnrun-release-date-tidal-exlusive)
+- [Spotify Preparing to Offer Premium-Only Content, Sources Say](http://www.digitalmusicnews.com/2015/08/08/spotify-preparing-to-offer-premium-only-content-sources-say/)
+- [Beach House setlist creator](https://www.facebook.com/beachhouse/posts/10153412072132741)
+- [Mike's Tokyo Witch "music video"](https://www.youtube.com/watch?v=d3MiSOcbts8)
+- [Dr. Dre, Pavement, and the Faded Myth of ‘Lost’ Albums](http://grantland.com/hollywood-prospectus/dr-dre-pavement-and-the-faded-myth-of-lost-albums/)
+- [Hailee Steinfeld's Empowering First Solo Single Is Here](http://www.huffingtonpost.com/entry/hailee-steinfelds-empowering-first-solo-single_55c660e0e4b0f1cbf1e538b2)
+- [The Is My Jam is shutting down](http://thisismyjam.tumblr.com/post/126260430022/jam-preserves)
+- [PTTRNS - Higher Grounds](https://pttrns.bandcamp.com/track/higher-grounds)
+- [Red Hot Chili Peppers - Give It Away](https://www.youtube.com/watch?v=Mr_uHJPUlO8)
+- [Echolox - Create (Abridged)](https://echolox.bandcamp.com/track/create-abridged)
+- [Julius Gale - Jacob's Staff](https://www.youtube.com/watch?v=H2dqoBOYOsY)
+- [Aqueduct - As You Wish](https://www.youtube.com/watch?v=CtBYLFcQzJs)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
