@@ -2,8 +2,8 @@
 number: "29"
 title: "My Voice Is Being Tracked By A Laser"
 pubDate: "2015-08-19"
-description: "Will He Is (Will.I.Am) participates in a ridiculous Lexus ad involving night driving, lasers and musical roads. Spotify actually does a good job recommending new songs, and a slew of novelty metal bands fatigue us. Our song picks of the week are sure to delight, though!"
-enclosure_link: "TEXT"
+description: "Will.He.Is (will.i.am) participates in a ridiculous Lexus ad involving night driving, lasers and musical roads, Spotify actually does a good job recommending new songs, and a slew of novelty metal bands fatigue us. Our song picks of the week are sure to delight you, though!"
+enclosure_link: "http://audio.simplecast.fm/15427.mp3"
 enclosure_length: "23364821"
 duration: "00:42:12"
 ---
