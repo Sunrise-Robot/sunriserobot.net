@@ -1,0 +1,19 @@
+---
+number: "80"
+title: "Diversify Your Apocalypse Investment"
+pubDate: "2015-08-18"
+description: "Matt of Bits & Pieces fame joins Mike and Lyons to report on GamesCom, the Oculus Rift, and the HTC Vive. Mike shares his delayed reactions to Fallout 4. Jibo is a robot 'part of the family' that sounds like a Portal turret. And Google becomes Alphabet then buys itself."
+enclosure_link: "http://audio.simplecast.fm/15483.mp3"
+enclosure_length: "59307874"
+duration: "01:21:18"
+---
+- [Matt's GamesCom report from last year's Flipping Tables #28: Things I Had For Cosplay Reasons](http://sunriserobot.net/flippingtables/28/)
+- [Matt using the Oculus Rift](https://twitter.com/Echolox/status/629943016472621056/photo/1)
+- [Dues Ex figure from GamesCom2015](https://twitter.com/Echolox/status/631734286199181312)
+- [VR tricking you in a small space](https://vimeo.com/128641906)
+- [Digit automated savings plan adds cash rewards for hanging on to your money](http://www.theverge.com/2015/8/13/9148241/digit-plus-rewards-automated-savings)
+- [Fallout 4 E3 presentation](https://www.youtube.com/watch?v=D5esyZPt5Jo)
+- [jibo](https://www.jibo.com/)
+- [Alphabet](http://abc.xyz)
+- [Om Malik's tweets on Alphabet](https://storify.com/abraham/om-malik-on-alphabet)
+- [Bing](http://abc.wtf)
