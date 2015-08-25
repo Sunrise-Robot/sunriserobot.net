@@ -1,0 +1,21 @@
+---
+number: "81"
+title: "I Live At 123 Fake Street"
+pubDate: "2015-08-25"
+description: "The Washington Post gives away the TSA's master keys. Google releases the OnHub wireless router. Windows 10 is a disaster for gaming but actually it's probably fine. And Mario Maker is already delightful and terrible to behold."
+enclosure_link: "http://audio.simplecast.fm/16034.mp3"
+enclosure_length: "53805838"
+duration: "01:13:39"
+---
+- [Apple Magic Mouse](http://www.apple.com/shop/product/MB829/apple-magic-mouse?fnode=4c)
+- [Inside Industrial Light & Magic's secret Star Wars VR lab](http://www.theverge.com/2015/8/13/9131805/ilm-ilmxlab-interview-virtual-reality-star-wars-movies)
+- ["How government encryption backdoors work, in one image." Jonathan Zdziarski on twitter](https://twitter.com/JZdziarski/status/634755863459328001/photo/1)
+- [Jeb Bush wants “a new arrangement with Silicon Valley” to ease crypto](http://arstechnica.com/tech-policy/2015/08/jeb-bush-crypto-makes-it-harder-for-the-american-government-to-do-its-job/)
+- [OnHub by Google](https://on.google.com/hub/)
+- [Windows 10 Won’t Run Games Using SafeDisc Or Securom DRM](http://www.rockpapershotgun.com/2015/08/17/windows-10-safedisc-securom-drm/)
+- [Windows 10 can disable your pirated games](http://www.destructoid.com/windows-10-can-disable-your-pirated-games-306408.phtml)
+- [Windows 10 Can Find and Disable Pirated Games](http://www.gamespot.com/articles/windows-10-can-find-and-disable-pirated-games/1100-6429805/)
+- [How Nintendo's Mario Maker Teaches You To Design Crazy Levels (That Are Actually Good)](https://www.fastcodesign.com/3049802/how-nintendos-mario-maker-teaches-you-to-design-crazy-levels-that-are-actually-good)
+- [Super Mario Maker Gameplay Preview - Introducing Metroid U](https://youtu.be/EGZ-mD53X1w)
+- [Super Mario Maker: Custom Sound Effects Gameplay](https://youtu.be/GSSxQGTEkro)
+- [Nintendo Files Patent for Console with No Optical Drive](http://www.ign.com/articles/2015/08/21/nintendo-files-patent-for-console-with-no-optical-drive)
