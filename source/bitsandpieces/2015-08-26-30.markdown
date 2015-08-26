@@ -1,0 +1,17 @@
+---
+number: "30"
+title: "The More Hyphens You Introduce The More Niche It Is"
+pubDate: "2015-08-26"
+description: "We listen to a piano speak, check out Kim Dotcom's new music streaming service Baboom, and try our luck at keeping perfect time. Also: CHVRCHES tells us they'd sell more records if they presented themselves as a solo project. POTWs: Adebisi Shank and The Districts!"
+enclosure_link: "http://audio.simplecast.fm/16072.mp3"
+enclosure_length: "21892020"
+duration: "00:38:49"
+---
+- [The Speaking Piano](https://www.youtube.com/watch?v=muCPjK4nGY4)
+- [Baboom](https://baboom.com/)
+- [Can You Keep Perfect Time?](http://www.thelooploft.com/blogs/ryans-corner/38917697-can-you-keep-perfect-time-take-this-test-and-find-out)
+- [CHVRCHES on presenting yourself as a band vs. solo act](http://www.nme.com/news/chvrches/87750)
+- [Is Tinder Killing Live Music?](http://www.musicbusinessworldwide.com/is-tinder-killing-live-music/)
+- [Adebisi Shank - International Dreambeat](https://www.youtube.com/watch?v=3tt8PIg5yBE)
+- [The Districts - 4th and Roebling](https://www.youtube.com/watch?v=gLZ-i2hu6GA)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
