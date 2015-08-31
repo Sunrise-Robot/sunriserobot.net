@@ -1,0 +1,13 @@
+---
+number: "16"
+title: "Your Joking Isn't Funny Anymore"
+pubDate: "2015-08-31"
+description: "Polly is only days away from her wedding! As a distraction, the ladies of Likely Story talk about cats, road rage and how terrible the Zoo tv show is. A special guest joins to discuss Wet Hot American Summer First Days at Camp. Also: Project Runway updates and places to visit in Denver."
+enclosure_link: "http://audio.simplecast.fm/16219.mp3"
+enclosure_length: "42485664"
+duration: "00:57:07"
+---
+- [Zoo "Murmuration" Review, thanks to TV Dot Com](http://www.tv.com/shows/zoo/community/post/zoo-season-1-episode-9-murmuration-review-144052624405/)
+- [Ben H. Announced as next Bachelor!](http://abc.go.com/shows/the-bachelor/news/updates/ben-higgins-is-the-next-bachelor-season-20-082415)
+- [Mr. Robot Finale Pulled ](http://www.cnn.com/2015/08/26/entertainment/mr-robot-finale-pulled-virginia-feat-irpt/)
+- [Holding Music during this episode: bensound.com](http://www.bensound.com/)
