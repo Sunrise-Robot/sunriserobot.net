@@ -1,0 +1,25 @@
+---
+number: "82"
+title: "Put An Offer On The Cat"
+pubDate: "2015-09-01"
+description: "YouTube Gaming is officially launched. Mario Maker levels recieve DMCA takedowns from Playboy. Physical-to-digital notebooks are still going on. And Mike drives the Metal Gear Solid V hype train."
+enclosure_link: "http://audio.simplecast.fm/16255.mp3"
+enclosure_length: "51566722"
+duration: "01:10:33"
+---
+- [YouTube Gaming](https://gaming.youtube.com/)
+- [YouTube Gaming Android app](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.gaming)
+- [Super Mario Maker Exposes More YouTube Copyright Stupidity](http://kotaku.com/super-mario-maker-exposes-more-youtube-copyright-stupid-1727321308)
+- [Smart Notebook, Creative Cloud Connected](https://store.moleskine.com/usa/notebooks/special-notebooks/smart-notebook-creative-cloud-connected/p666)
+- [Mod Notebook](http://modnotebooks.com/)
+- [Eat, Prey, Love](http://amzn.com/B003VIWMO0)
+- [Make your ultimate chiptune jam with this neat Web app](http://thenextweb.com/shareables/2015/08/21/8-bit-symphonies/)
+- [Pulseboy](http://www.pulseboy.com/)
+- [PAC-MAN 256 on Google Play](https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256&hl=en)
+- [PAC-MAN 256 on the iOS App Store](https://itunes.apple.com/us/app/pac-man-256-endless-arcade/id1002340615?mt=8)
+- [Pac-In-Time](https://en.wikipedia.org/wiki/Pac-In-Time)
+- [Let's Play - Pac-In-Time](https://www.youtube.com/watch?v=WSvCiL9oJJg)
+- [Pac-Man 2: The New Adventures](https://en.wikipedia.org/wiki/Pac-Man_2:_The_New_Adventures)
+- [Let's Play - Pac Man 2: The New Adventures](https://www.youtube.com/watch?v=uZ22NFedRPI)
+- [Weird MGSV Japanese Commercial](https://www.youtube.com/watch?v=lwRA9kSzYRQ)
+- [MGSV Phantom Pain review on Polygon](https://www.polygon.com/2015/8/27/9207599/metal-gear-solid-5-the-phantom-pain-review-ps4-xbox-one-PC)
