@@ -1,0 +1,22 @@
+---
+number: "83"
+title: "Prove Me Wrong, Samsung"
+pubDate: "2015-09-08"
+description: "The HowToGeek rains Comic Sans down on ad blockers. Android Wear software and hardware arrives with big updates. Apple Watch users really love their Apple Watches. And Google sets the design community abuzz with an updated logo."
+enclosure_link: "http://audio.simplecast.fm/16476.mp3"
+enclosure_length: "60113465"
+duration: "01:22:25"
+---
+- [Astropad](http://astropad.com)
+- [Bose QuietComfort 20 Acoustic Noise Canceling Headphones](http://amzn.com/B00X9KV0HU)
+- [EverBlock System](http://www.everblocksystems.com)
+- [HowToGeek might show Comic Sans if you block ads](https://twitter.com/howtogeek/status/638737649327603712)
+- [Google Will Soon Start Punishing Mobile Sites That Use Annoying App Install Ads](http://techcrunch.com/2015/09/01/death-to-app-install-interstitials/)
+- [Android Wear now works with iPhones](http://googleblog.blogspot.com/2015/08/android-wear-now-works-with-iphones.html)
+- [Android Wear Now Compatible With iPhone, iOS App Launches Today](http://www.macrumors.com/2015/08/31/android-wear-iphone-now-compatible/)
+- [Yes, the Moto 360 does work with the iPhone](http://www.theverge.com/2015/8/31/9231701/moto-360-does-work-with-the-iphone)
+- [How Google Stealthily Prepared Users For A New Smartwatch UI](http://www.fastcodesign.com/3050465/how-google-slowly-and-stealthily-prepared-users-for-a-new-watch-ui)
+- [Android Wear: New watch styles and sizes](http://officialandroid.blogspot.com/2015/09/android-wear-new-watch-styles-and-sizes.html)
+- [iMore survey shows ultra-high levels of Apple Watch usage](http://www.imore.com/apple-watch-usage-survey-study-2015-q2)
+- [Evolving the Google Identity](https://design.google.com/articles/evolving-the-google-identity/)
+- [Marc Mueller tweet about designers being better than this](https://twitter.com/muellermm/status/640249194658181120)
