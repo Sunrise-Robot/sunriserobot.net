@@ -1,0 +1,19 @@
+---
+number: "32"
+title: "A Million Footpedals"
+pubDate: "2015-09-09"
+description: "We dive into the details of stereo sound, panning, pan's law and phase cancellation! Also, a thorough enjoyment of Vangelis' amazing music situation, and as always check out our song Picks of the Week."
+enclosure_link: "http://audio.simplecast.fm/17035.mp3"
+enclosure_length: "31385205"
+duration: "00:55:11"
+---
+- [Roadie Tuner](https://www.youtube.com/watch?v=ZeHbKAhHe_o&feature=youtu.be)
+- [Robot Guitar](https://www.youtube.com/watch?v=1dC4718iXMs)
+- [New music notation system could render modern instruments 'useless', researcher claims](http://www.independent.co.uk/news/science/new-music-notation-system-could-render-modern-instruments-useless-researcher-claims-10485044.html)
+- [Vangelis' custom MIDI Situation](https://www.youtube.com/watch?v=4zzkalHmY10)
+- [The Marshall London](https://www.marshallheadphones.com/mh_uk_en/london-phone)
+- [Pan Law](https://en.wikipedia.org/wiki/Pan_law)
+- [Stereo Spreader EQ](https://i.imgur.com/SktTieW.png)
+- [Mouse on Mars - Twift Shoeblade](https://www.youtube.com/watch?v=_R-nwwMfSeU)
+- [Roger Sellers - Spectrolite](https://rogersellers.bandcamp.com/track/spectrolite)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
