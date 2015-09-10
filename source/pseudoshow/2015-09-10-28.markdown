@@ -1,0 +1,11 @@
+---
+number: "28"
+title: "I’d Rather Sweat In A Storage Unit: A Conversation with Daisy Face"
+pubDate: "2015-09-10"
+description: "Phoenix-based shoegazers Daisy Face join the show to discuss the blistering heat, gorgeous earth tones and thriving music communities of Arizona. Hear why they named songs Breakfast and Lunch, find out what sk'punk and BBQ brain are and also that Shane played in a lot of great metal bands."
+enclosure_link: "http://audio.simplecast.fm/17072.mp3"
+enclosure_length: "26772017"
+duration: "00:54:32"
+---
+- [Daisy Face on BandCamp](https://daisyface.bandcamp.com/) (buy their new EP!)
+- Follow Daisy Face on [Twitter](https://twitter.com/daisyfacemusic), [Instagram](https://instagram.com/daisyfacemusic/), [Facebook](https://www.facebook.com/daisyfacemusic/) and [Tumblr](https://www.tumblr.com/blog/uhdaisyface)
