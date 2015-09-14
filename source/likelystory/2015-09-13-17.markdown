@@ -3,10 +3,9 @@ number: "17"
 title: "I Have No Weapons Training Whatsoever"
 pubDate: "2015-09-13"
 description: "Polly and Shelby catch up before Polly gets married! The ladies discuss how much Fall television they are going to watch and review for your benefit. Then it's finally time for an in-depth discussion of the USA hit show Mr. Robot. Shelby is then joined by Carolyn to discuss Fear the Walking Dead. Also: Shelby and Carolyn decide who would survive a zombie apocalypse. "
-enclosure_link: "URL"
-enclosure_length: "TEXT"
-duration: "TEXT"
-published: "false"
+enclosure_link: "http://audio.simplecast.fm/17227.mp3"
+enclosure_length: "55356729"
+duration: "01:15:00"
 ---
 - [Rami Malek on the emotional season finale of Mr. Robot - Variety](http://variety.com/2015/tv/news/mr-robot-rami-malek-season-finale-1201583515/)
 - [Mr Robot Creator did everything in his power to telegraph big twist](http://www.hitfix.com/whats-alan-watching/mr-robots-creator-did-everything-in-my-power-to-telegraph-the-big-twist)
