@@ -1,0 +1,27 @@
+---
+number: "84"
+title: "Stop Blueing Yourself"
+pubDate: "2015-09-15"
+description: "3D printed keys are a real thing and now the TSA knows it. Apple released a bunch of stuff and we only talk about the interesting bits. And is flat design ruining life? Yes. Well, maybe."
+enclosure_link: "http://audio.simplecast.fm/17260.mp3"
+enclosure_length: "46143701"
+duration: "01:03:01"
+---
+- [Lockpickers 3-D Print Tsa Master Luggage Keys from Leaked Photos](http://www.wired.com/2015/09/lockpickers-3-d-print-tsa-luggage-keys-leaked-photos/)
+- [3D printer blueprints for TSA luggage-unlocking master keys leak online](http://www.theregister.co.uk/2015/09/10/tsa_master_key_blueprints_leaked)
+- [Amazon, Netflix, Google, Microsoft, Mozilla And Others Partner To Create Next-Gen Video Format](http://techcrunch.com/2015/09/01/amazon-netflix-google-microsoft-mozilla-and-others-partner-to-create-next-gen-video-format/#.bv9i1h:AUCW)
+- [WebM](https://en.wikipedia.org/wiki/WebM)
+- [Theora](https://en.wikipedia.org/wiki/Theora)
+- [Pokemon GO](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/)
+- [Absurd infinitum: Deliberately misunderstanding Steve Jobs](http://www.macworld.com/article/2983653/ipads/absurd-infinitum-deliberately-misunderstanding-steve-jobs.html)
+- [Apple Pencil | Hands On](https://www.youtube.com/watch?v=Ak7pXLA2tm0)
+- [iPad Pro](http://www.apple.com/ipad-pro/)
+- [Apple Pencil](http://www.apple.com/apple-pencil/)
+- [Pencil Stylus for iPad by FiftyThree](http://www.fiftythree.com/pencil)
+- [A comic predicted Apple's iPad Pro keyboard 3 years ago](http://www.engadget.com/2015/09/09/comic-predicted-ipad-pro-keyboard/)
+- [“Flat Design”? Destroying Apple’s Legacy… or Saving It](http://cheerfulsw.com/2015/destroying-apples-legacy/)
+- [Flat Design Is Going Too Far](http://blog.usabilla.com/flat-design-going-far/)
+- [Clear for iOS](http://realmacsoftware.com/clear/)
+- [Apple HIG](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/)
+- [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
+- [Guidelines for Universal Windows Platform (UWP) apps](https://msdn.microsoft.com/en-us/library/windows/apps/hh465424.aspx)
