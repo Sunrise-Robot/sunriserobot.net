@@ -14,7 +14,7 @@ duration: "01:03:01"
 - [Theora](https://en.wikipedia.org/wiki/Theora)
 - [Pokemon GO](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/)
 - [Absurd infinitum: Deliberately misunderstanding Steve Jobs](http://www.macworld.com/article/2983653/ipads/absurd-infinitum-deliberately-misunderstanding-steve-jobs.html)
-- [Apple Pencil | Hands On](https://www.youtube.com/watch?v=Ak7pXLA2tm0)
+- [Apple Pencil Hands On](https://www.youtube.com/watch?v=Ak7pXLA2tm0)
 - [iPad Pro](http://www.apple.com/ipad-pro/)
 - [Apple Pencil](http://www.apple.com/apple-pencil/)
 - [Pencil Stylus for iPad by FiftyThree](http://www.fiftythree.com/pencil)
