@@ -2,7 +2,7 @@
 number: "7"
 title: "The Magicians: Why You Shouldn’t Write Yourself into Your Novels"
 pubDate: "2015-09-15"
-description: "Publishers are tricksy with miscomparisions. Placing books in certain genres can also be misleading. Also, everyone agrees that Quentin sucks and Alice is amazing."
+description: "Publishers are tricksy with comparisons. Placing books in certain genres can also be misleading. Also, everyone agrees that Quentin sucks and Alice is amazing."
 enclosure_link: "http://audio.simplecast.fm/17274.mp3"
 enclosure_length: "55546987"
 duration: "01:15:53"
