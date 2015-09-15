@@ -3,9 +3,9 @@ number: "7"
 title: "The Magicians: Why You Shouldn’t Write Yourself into Your Novels"
 pubDate: "2015-09-15"
 description: ""
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
+enclosure_link: "http://audio.simplecast.fm/17274.mp3"
+enclosure_length: "55546987"
+duration: "01:15:53"
 published: false
 ---
 - What did you think of The Magicians? [Tell us about it on Goodreads!](https://www.goodreads.com/topic/show/17448060-episode-7-the-magicians?ref=ru_lihp_cm_tp_0_mclk-up2584138144#comment_id_140159788)
