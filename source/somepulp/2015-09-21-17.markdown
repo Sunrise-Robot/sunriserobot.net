@@ -1,0 +1,10 @@
+---
+number: "17"
+title: "California Dreaming"
+pubDate: "2015-09-21"
+description: "Many of us in the Midwest grow up with California dreams. So this podcast is about what this dreaming consists of, where it comes from, and how it is or is not achieved. Some people do make this dream come through. Some people make it to Denver or Alaska, but two of the four of us, Matt and Justin, made it all the way to San Diego and L. A., with some detours."
+enclosure_link: "http://audio.simplecast.fm/17475.mp3"
+enclosure_length: "29253405"
+duration: "00:39:42"
+---
+- [“Californiaaaaa” kid from The Wizard](https://www.youtube.com/watch?v=MSocSgw0x3E&feature=youtu.be)
