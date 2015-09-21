@@ -1,0 +1,23 @@
+---
+number: "85"
+title: "Food Comes Magically Out Of A Machine"
+pubDate: "2015-09-22"
+description: ""
+enclosure_link: "http://audio.simplecast.fm/17478.mp3"
+enclosure_length: "56134626"
+duration: "01:16:53"
+published: false
+---
+- [Material Design is Different, Not Better](https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1)
+- [Logitech MX Master Wireless Mouse](http://amzn.com/B00TZR3WRM)
+- [What 3D Touch could mean for accessibility](http://www.macworld.com/article/2983642/ios/what-3d-touch-could-mean-for-accessibility.html)
+- ["We Own You" - Confessions of an Anonymous Free to Play Producer](http://toucharcade.com/2015/09/16/we-own-you-confessions-of-a-free-to-play-producer/)
+- [Welcome to the Block Party](http://www.theawl.com/2015/09/welcome-to-the-block-party)
+- [Welcome to hell: Apple vs. Google vs. Facebook and the slow death of the web](http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web)
+- [Introducing Peace, my privacy-focused iOS 9 ad blocker](http://www.marco.org/2015/09/16/peace-content-blocker)
+- [Why Peace 1.0 blocks The Deck ads](http://www.marco.org/2015/09/17/why-peace-blocks-deck-ads)
+- [Just doesn’t feel good](http://www.marco.org/2015/09/18/just-doesnt-feel-good)
+- [Maybe the web should die](http://pauljmiller.com/posts/maybe-the-web-should-die.html)
+- [Ad blocking](http://sethgodin.typepad.com/seths_blog/2015/09/ad-blocking.html)
+- [Ad Blocking Irony](http://www.subtraction.com/2015/09/19/ad-blocking-irony/)
+- [Popping the Publishing Bubble](https://stratechery.com/2015/popping-the-publishing-bubble/)
