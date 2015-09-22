@@ -6,7 +6,6 @@ description: "Lyons shares his parting thoughts on the Apple Magic Mouse. The mo
 enclosure_link: "http://audio.simplecast.fm/17478.mp3"
 enclosure_length: "56134626"
 duration: "01:16:53"
-published: false
 ---
 - [Material Design is Different, Not Better](https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1)
 - [Logitech MX Master Wireless Mouse](http://amzn.com/B00TZR3WRM)
