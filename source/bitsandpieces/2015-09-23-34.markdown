@@ -1,0 +1,23 @@
+---
+number: "34"
+title: "TEXT"
+pubDate: "2015-09-23"
+description: "Headphones! What kinds are there? Which are the best? We discuss some of our favorites. Also, the Guitar-jo pickup will turn your electric guitar into a banjo. A new FXplain segment explains how synths work, and as always our Picks of the Week bring you great songs that are also posted to our Spotify playlist."
+enclosure_link: "http://audio.simplecast.fm/17563.mp3"
+enclosure_length: "28024059"
+duration: "00:49:19"
+---
+- [Facebook discussion of Bits & Pieces #33](https://www.facebook.com/michael.i.edwards/posts/1071922919506885)
+- [Batband](https://www.kickstarter.com/projects/ostrich-pillow/batband?ref=category)
+- [Man stares like crazy person using Batband](https://i.imgur.com/H5be7db.png)
+- [Neti Pod Gif](https://imgur.com/gallery/VkXZxPY)
+- [Sony MDR 7506 headphones](http://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E)
+- [AKG K271 MkII headphones](http://www.amazon.com/AKG-Pro-Audio-K271-MKII/dp/B0016MOC28/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1442762456&sr=1-1&keywords=akg+k271)
+- [Audio Technica ATX-M50x headphones](http://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1442762475&sr=1-1&keywords=audio+technica+m50)
+- [Audeze LCD-3 headphones](http://www.amazon.com/Audeze-Professional-Reference-Headphones-Wooden/dp/B007AH0UI8/ref=sr_1_8?s=musical-instruments&ie=UTF8&qid=1442762502&sr=8-8&keywords=audeze+lcd)
+- [August EP650](http://www.amazon.com/August-Bluetooth-Wireless-Stereo-Headphones/dp/B00F54Y6GU/ref=sr_1_1?ie=UTF8&qid=1442764376&sr=8-1&keywords=august+ep650)
+- [Guitar-Jo](https://www.kickstarter.com/projects/jlangberg/guitar-jo-simulate-a-banjo-with-your-electric-guit-0?ref=category)
+- [Bits & Pieces FXPlain on EQ](http://sunriserobot.net/bitsandpieces/29/)
+- [Delphic - Submission](https://www.youtube.com/watch?v=3wpGTMX8kWY)
+- [Magnetic Fields - I Don't Believe You](https://www.youtube.com/watch?v=z7yePNyz-nc)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
