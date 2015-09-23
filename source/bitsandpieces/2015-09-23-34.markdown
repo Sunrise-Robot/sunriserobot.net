@@ -1,6 +1,6 @@
 ---
 number: "34"
-title: "TEXT"
+title: "I Hate It For Different Reasons"
 pubDate: "2015-09-23"
 description: "Headphones! What kinds are there? Which are the best? We discuss some of our favorites. Also, the Guitar-jo pickup will turn your electric guitar into a banjo. A new FXplain segment explains how synths work, and as always our Picks of the Week bring you great songs that are also posted to our Spotify playlist."
 enclosure_link: "http://audio.simplecast.fm/17563.mp3"
