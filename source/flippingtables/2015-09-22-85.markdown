@@ -2,7 +2,7 @@
 number: "85"
 title: "Food Comes Magically Out Of A Machine"
 pubDate: "2015-09-22"
-description: "Lyons shares his parting thoughts on the Apple Magic Mouse. The morals, ethics, and technology of content blocking are all on the table as Mike and Lyons break down the right to privacy, the right to survive, and the implied contract. "
+description: "Lyons shares his parting thoughts on the Apple Magic Mouse. The morals, ethics, and technology of content blocking are all on the table as Mike and Lyons break down the right to privacy, the right to survive, and the implied contract."
 enclosure_link: "http://audio.simplecast.fm/17478.mp3"
 enclosure_length: "56134626"
 duration: "01:16:53"
