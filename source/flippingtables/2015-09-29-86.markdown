@@ -1,0 +1,23 @@
+---
+number: "86"
+title: "Not If You're In Pope City"
+pubDate: "2015-09-29"
+description: "BlackBerry (might be) dead for real. Pebble releases a round version. iOS9 fragments 3D touch gestures between devices. And the ad-block conversation from #85 is concluded... for now."
+enclosure_link: "http://audio.simplecast.fm/17818.mp3"
+enclosure_length: "66541891"
+duration: "00:54:49"
+---
+- [BlackBerry's Smartphone OS Is Dead](http://seekingalpha.com/article/3533876-blackberrys-smartphone-os-is-dead)
+- [A New Face for Pebble](https://blog.getpebble.com/2015/09/23/timeround/)
+- [Meet the Lightest & Thinnest Smartwatch: Pebble Time Round](https://youtu.be/6pdaohCvPSg)
+- [The best feature of 3D Touch? Trackpad text selection with the iPhone 6s keyboard](http://9to5mac.com/2015/09/23/best-iphone-6s-feature-3d-touch/)
+- [iOS 9’s trackpad mode comes back to the iPhone courtesy of 3D Touch](http://www.idownloadblog.com/2015/09/13/ios-9s-trackpad-mode-iphone-6s-3d-touch/)
+- [Capturing Baseball with an iPhone 6S](http://www.si.com/mlb/photos/2015/09/21/iphone-6s-plus-sneak-preview-photos-si)
+- [Forget long lines; this woman bought an iPhone via telepresence](http://www.computerworld.com/article/2986178/robotics/forget-long-lines-this-woman-bought-an-iphone-via-telepresence.html)
+- [Announcing the Ethical Ad-blocker](https://twitter.com/tinysubversions/status/646355542366027776)
+- [Ethical Ad-blocker](http://tinysubversions.com/notes/ethical-ad-blocker/)
+- [Tomorrow podcast about saving the internet and writing](http://tmblr.co/ZMNl8l1ugSWz0)
+- [Debugging adtech assumptions](http://blogs.law.harvard.edu/doc/2015/09/18/debugging-adtech-assumptions/)
+- [Blocked: An In-Depth Special Report on iOS 9 Content Blockers](http://10up.com/blog/2015/ios-9-content-blockers-analysis-whitepaper/)
+- [Back to Work #239: Starving African Child](http://5by5.tv/b2w/239)
+- [ATP #136: War and Peace](http://atp.fm/episodes/136)
