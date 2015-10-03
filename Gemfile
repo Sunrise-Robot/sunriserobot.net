@@ -19,3 +19,6 @@ gem "builder", "~> 3.0"
 
 # For creating XML sitemap
 gem 'middleman-search_engine_sitemap'
+
+# For using specific i18n
+gem "i18n", "~> 0.6.9"
