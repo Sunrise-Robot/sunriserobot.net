@@ -1,0 +1,10 @@
+---
+number: "18"
+title: "California Dreaming"
+pubDate: "2015-10-05"
+description: "TEXT"
+enclosure_link: "TEXT"
+enclosure_length: "TEXT"
+duration: "TEXT"
+published: "false"
+---
