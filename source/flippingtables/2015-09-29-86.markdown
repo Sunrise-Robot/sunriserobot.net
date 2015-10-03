@@ -19,5 +19,6 @@ duration: "00:54:49"
 - [Tomorrow podcast about saving the internet and writing](http://tmblr.co/ZMNl8l1ugSWz0)
 - [Debugging adtech assumptions](http://blogs.law.harvard.edu/doc/2015/09/18/debugging-adtech-assumptions/)
 - [Blocked: An In-Depth Special Report on iOS 9 Content Blockers](http://10up.com/blog/2015/ios-9-content-blockers-analysis-whitepaper/)
+- [Doing the Right Thing](http://samanthabielefeld.com/journal/doing-the-right-thing)
 - [Back to Work #239: Starving African Child](http://5by5.tv/b2w/239)
 - [ATP #136: War and Peace](http://atp.fm/episodes/136)
