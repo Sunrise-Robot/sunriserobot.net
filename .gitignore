@@ -1,2 +1,11 @@
 # Build output
 build/
+
+# Vagrant stuff
+
+.vagrant/
+Cheffile
+Cheffile.lock
+Vagrantfile
+cookbooks/
+tmp/
