@@ -1,0 +1,22 @@
+---
+number: "86"
+title: "No One Wants To Call It That"
+pubDate: "2015-10-06"
+description: "Are pro tablets really happening? Everyone seems to think so. Facebook ups it's publishing game. And Amazon takes it's streaming ball and goes home."
+enclosure_link: "http://audio.simplecast.fm/18121.mp3"
+enclosure_length: "59293752"
+duration: "01:21:17"
+---
+- [OSX El Capitan](http://www.apple.com/osx/)
+- [Adblock Chrome extension has been sold to an unknown buyer](http://www.engadget.com/2015/10/02/adblock-chrome-extension-sold/)
+- [Adam Haworth on twitter](https://twitter.com/aahaworth/status/649702548358701056/photo/1)
+- [lyonsinbeta on twitter](https://twitter.com/lyonsinbeta/status/650476868013961216)
+- [Pixel C](http://pixel.google.com/)
+- [iPad Pro](http://www.apple.com/ipad-pro/)
+- [Microsoft Surface](http://microsoft.com/surface)
+- [Updates for Facebook Notes](http://newsroom.fb.com/news/2015/09/updates-for-facebook-notes/)
+- [Twitter could remove its signature 140-character limit](http://www.cnet.com/news/twitter-could-remove-its-signature-140-character-limit/)
+- [Washington Post to Push All Content on Facebook via Instant Articles](http://www.fastcompany.com/3051422/fast-feed/washington-post-to-push-all-content-on-facebook-via-instant-articles)
+- [Washington Post Joins Apple News](https://www.washingtonpost.com/pr/wp/2015/09/16/the-washington-post-joins-apple-news/)
+- [All the Important Nexus and Chromecast News Google Announced Today](http://lifehacker.com/all-the-important-nexus-and-chromecast-news-google-anno-1733593542)
+- [Amazon Just Banned the Sale of Google Chromecast and Apple TV](http://gizmodo.com/amazon-just-banned-the-sale-of-google-chromecast-and-ap-1734050473)
