@@ -6,5 +6,5 @@ description: "TEXT"
 enclosure_link: "TEXT"
 enclosure_length: "TEXT"
 duration: "TEXT"
-published: "false"
+published: false
 ---
