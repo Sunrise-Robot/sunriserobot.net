@@ -1,0 +1,17 @@
+---
+number: "36"
+title: "The Uncanny Valley of Vibrato"
+pubDate: "2015-10-07"
+description: "Are we seeing the beginning of the end to the loudness wars? Also, behind the scenes with Spotify's human-yet-auto-generated Discover playlists. As always, listen to the end for our song picks of the week! This week: Minors and Cloud Control."
+enclosure_link: "http://audio.simplecast.fm/18164.mp3"
+enclosure_length: "25312355"
+duration: "00:46:19"
+---
+- [How is Loudr different from Bandcamp?](http://help.loudr.fm/knowledgebase/articles/426432-how-is-loudr-different-from-bandcamp)
+- [Youth Lagoon at Bluebird in Denver on October 16](Youth Lagoon at Bluebird in Denver on October 16)
+- [Tastemaker: How Spotify’s Discover Weekly cracked human curation at internet scale](http://www.theverge.com/2015/9/30/9416579/spotify-discover-weekly-online-music-curation-interview)
+- [Loudness online – how loud is loud enough, and how loud is too loud ?](http://productionadvice.co.uk/online-loudness/)
+- [The Smiths - How Soon Is Now?](https://www.youtube.com/watch?v=hnpILIIo9ek)
+- [Minors - Them Beaches](http://store.minors.fr/track/them-beaches-2)
+- [Cloud Control - Dojo Rising](https://www.youtube.com/watch?v=SGSij0-cljI)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
