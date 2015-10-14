@@ -1,0 +1,15 @@
+---
+number: "37"
+title: "I Haven't Even Used My Foot Pedals Yet"
+pubDate: "2015-10-14"
+description: "Matt files his first copyright infringement claim, and feels conflicted about it. Also, how to write better lyrics? And what DAW should you learn how to use? This week's POTWs include tracks from Wild Nothing and Bright Eyes."
+enclosure_link: "http://audio.simplecast.fm/18456.mp3"
+enclosure_length: "25208055"
+duration: "00:46:05"
+---
+- [Reaper](http://www.reaper.fm)
+- [Logic Pro X](http://www.apple.com/logic-pro/)
+- [Ableton Live](https://www.ableton.com/en/live/)
+- [Wild Nothing - Chinatown](https://www.youtube.com/watch?v=kbAISMzd7vA)
+- [Bright Eyes - Let's Not Shit Ourselves](https://www.youtube.com/watch?v=pDWKSie5gLo)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
