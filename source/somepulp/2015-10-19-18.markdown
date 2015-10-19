@@ -1,0 +1,13 @@
+---
+number: "18"
+title: "Politics in the Mid-20th Century"
+pubDate: "2015-10-19"
+description: "What were presidental and congressional elections like in the pre-internet era? What were the clichés and labels of political discussions of the time? This and much more discussed as we examine politics in the mid-20th century."
+enclosure_link: "http://audio.simplecast.fm/18608.mp3"
+enclosure_length: "38300279"
+duration: "00:52:16"
+---
+- [The Watergate Scandal - Wikipedia](https://en.wikipedia.org/wiki/Watergate_scandal)
+- [The Military-Industrial Complex - Wikipedia](https://en.wikipedia.org/wiki/Military–industrial_complex)
+- [Dixiecrats - Wikipedia](https://en.wikipedia.org/wiki/Dixiecrat)
+- [The Nixon Aide and the President's Secrets](http://www.cbsnews.com/videos/the-nixon-aide-and-the-presidents-secrets/)
