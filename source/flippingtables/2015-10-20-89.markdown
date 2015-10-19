@@ -1,0 +1,19 @@
+---
+number: "89"
+title: "This Wrench I Made In A Blacksmith Shop"
+pubDate: "2015-10-20"
+description: "Super Mario Maker is amazing, Twitter's Moments raises some eyebrows, and mobile is not a neutral platform, but neither was the web, really. Lyons nearly dies on air."
+enclosure_link: "http://audio.simplecast.fm/18625.mp3"
+enclosure_length: "48475946"
+duration: "01:06:15"
+---
+- [You Get Into This Business For The Ear And The Nose, But The Throat Grows On You - The Onion](http://www.theonion.com/blogpost/you-get-business-ear-and-nose-throat-grows-you-51364)
+- [Super Mario Maker](http://supermariomaker.nintendo.com)
+- [Extreme Mario Maker](https://www.youtube.com/watch?v=IvMQe3v-HwA)
+- [Laddergoat](https://www.youtube.com/watch?v=ggB33d0BLcY)
+- [Mobile is not a neutral platform - Ben Evans](http://ben-evans.com/benedictevans/2015/9/26/mobile-is-not-a-neutral-platform)
+- [Twitter's Moment - Stratechery](https://stratechery.com/2015/twitters-moment/)
+- [Twitter Moment: Trump vs. Bush](https://twitter.com/i/moments/655779216785559552)
+- [Twitter Moment: Cats begrudgingly entertain your enthusiasm for Halloween](https://twitter.com/i/moments/653674542183903233)
+- [Handmade at Amazon](http://services.amazon.com/handmade/handmade.htm)
+- [Selling with Handmade at Amazon](https://youtu.be/4yBNMzo6UIo)
