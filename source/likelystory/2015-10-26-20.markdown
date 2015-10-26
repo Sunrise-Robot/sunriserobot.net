@@ -1,0 +1,11 @@
+---
+number: "20"
+title: "Humans Are Great And Whatever"
+pubDate: "2015-10-26"
+description: "It's fall! Shelby and Polly are back to discuss favorite fall activities, all the tv shows they're watching (or not), and how excited they are for the Gilmore Girls revival on Netflix. Oh, and there might be some goats in this episode too. Also, special guest Carolyn joins to discuss Fear the Walking Dead."
+enclosure_link: "http://audio.simplecast.fm/19174.mp3"
+enclosure_length: "49321173"
+duration: "01:06:37"
+---
+- [Crazy Ex-Girlfriend has a 96% on Rotten Tomatoes](http://www.rottentomatoes.com/tv/crazy-ex-girlfriend/s01/)
+- [Fall TV’s Winners and Losers](http://www.thewrap.com/blindspot-crazy-ex-girlfriend-quantico-muppets-heroes-reborn-life-in-pieces-limitless-rosewood-tv-ratings/)
