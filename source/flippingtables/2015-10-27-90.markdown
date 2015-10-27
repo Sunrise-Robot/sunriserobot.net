@@ -1,0 +1,20 @@
+---
+number: "90"
+title: "Outsourcing Coin Flips To The Internet"
+pubDate: "2015-10-27"
+description: "Someone is already working on The Legend of Zelda Maker. Twitter announces polls. Google brings ad free videos with the poorly named Youtube Red. And why haven't ebooks killed regular books?"
+enclosure_link: "http://audio.simplecast.fm/19233.mp3"
+enclosure_length: "52515937"
+duration: "01:11:52"
+---
+- [The Legend of Zelda Maker](https://www.youtube.com/watch?v=sIBX3bM5h1k)
+- [Zero Punctuation: Mario Maker](https://www.youtube.com/watch?v=-5TjeU4xKqE)
+- [Obviously Drivers Are Already Abusing Tesla’s Autopilot](http://www.wired.com/2015/10/obviously-drivers-are-already-abusing-teslas-autopilot/)
+- [Introducing Twitter Polls](https://blog.twitter.com/2015/introducing-twitter-polls)
+- [Twitter (Officially) Launches Polls](http://techcrunch.com/2015/10/21/do-you-like-polls-yes-or-no/)
+- [Chase Utley Slides, Breaks Ruben Tejeda's Leg](https://www.youtube.com/watch?v=GkRHdO_cNr8)
+- [Youtube Red](https://www.youtube.com/red)
+- [Google Introduces YouTube Red, a Subscription for Ad-Free and Offline Videos](http://lifehacker.com/google-introduces-youtube-red-a-subscription-for-ad-fr-1737842088)
+- [The Death of the Death of Books](https://500ish.com/the-death-of-the-death-of-books-174147664fcf#.ct0zeuqa4)
+- [Disconfirming Ebooks](https://stratechery.com/2015/disconfirming-ebooks/)
+- [Are Ebooks Declining, Or Just The Publishers?](https://stratechery.com/2015/are-ebooks-declining-or-just-the-publishers-oyster-goes-out-of-business-media-notes/)
