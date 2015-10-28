@@ -1,0 +1,17 @@
+---
+number: "39"
+title: "I Love a Lot of Time Signatures"
+pubDate: "2015-10-28"
+description: "CD Baby raises their processing fee, Billy Joel loses his mind on stage, and we take a look at the new Guitar Hero Live. As always we have great songs to share for our Picks of the Week!"
+enclosure_link: "http://audio.simplecast.fm/19281.mp3"
+enclosure_length: "23921433"
+duration: "00:41:50"
+---
+- [CD Baby raises processing fee](CD Baby raises processing fee)
+- [Apple Music has lost 40% of initial free users](http://www.musicbusinessworldwide.com/with-6-5m-paying-subs-apple-music-has-lost-40-of-initial-free-trial-users/)
+- [Billy Joel Goes Crazy](https://www.youtube.com/watch?v=PqY6mXULzpw)
+- [The First Concert In Guitar Hero Live (starts around 6:20)](https://youtu.be/VZouCvAHB4I?t=387)
+- [What Happens In Guitar Hero Live When You Fail (at 1:36:30)](https://youtu.be/VZouCvAHB4I?t=5792)
+- [Dosh - Everybody Cheer Up Song](https://www.youtube.com/watch?v=yArCDhzRJ6E)
+- [The Physics House Band - Teratology](https://www.youtube.com/watch?v=hpd8PMPtNwY)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
