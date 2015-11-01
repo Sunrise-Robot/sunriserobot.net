@@ -1,0 +1,15 @@
+---
+number: "91"
+title: "Hold Your Laptop Up to your Head"
+pubDate: "2015-11-03"
+description: "Susan of Eclectic Readers Book Club guest hosts with Lyons to talk YouTube Red, why eBooks haven't taken over the world, and how \"normal\" people listen to podcasts."
+enclosure_link: ""
+enclosure_length: "53333453"
+duration: "01:13:00"
+published: false
+---
+- [YouTube Red may not be paying creators for the free trial](https://www.reddit.com/r/letsplay/comments/3qcvc4/youtube_red_may_not_be_paying_creators_for_the/)
+- [YouTube Red 'will pay vloggers' during free trial, after concerns](http://www.bbc.com/news/technology-34657277)
+- [Poo Pourri](https://www.youtube.com/watch?v=ZKLnhuzh9uY)
+- [Podcasters, welcome to Google Play Music](http://officialandroid.blogspot.com/2015/10/podcasters-welcome-to-google-play-music.html)
+- [Google Brings Podcasting to Play Music, Swinging at Apple’s Dominance](http://recode.net/2015/10/27/google-brings-podcasting-to-play-music-swinging-at-apples-dominance/)
