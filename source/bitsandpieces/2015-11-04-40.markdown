@@ -1,0 +1,16 @@
+---
+number: “40”
+title: "Oh Good, You Brought Drums"
+pubDate: "2015-11-04”
+description: "Benni joins Matt as they discuss their past band history, on stage failures and web synthesizers."
+enclosure_link: "http://audio.simplecast.fm/19547.mp3"
+enclosure_length: "28532759"
+duration: "00:47:26”
+---
+- [Bose Noise Cancelling Toilet](http://imgur.com/4jTeHmC)
+- [Google Chrome gains MIDI support](http://arstechnica.co.uk/information-technology/2015/05/google-chrome-gains-midi-support-enables-web-based-synths-and-daws/)
+- [Web Synths](http://www.websynths.com/)
+- [Press Shuffle On Your iPod Steve Jobs One More Time](http://www.song-lyrics-generator.org.uk/ztlhrk/press-shuffle-on-your-ipod-steve-jobs.html)
+- [Death in Rome - Wrecking Ball (Miley Cyrus-Neofolk-Cover)](https://www.youtube.com/watch?v=wVmrN_NAu-s)
+- [Godspeed You! Black Emperor - Moya](https://www.youtube.com/watch?v=Rsf2LoLk3SA)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
