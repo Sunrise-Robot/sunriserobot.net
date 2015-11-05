@@ -1,11 +1,11 @@
 ---
-number: “40”
+number: "40"
 title: "Oh Good, You Brought Drums"
-pubDate: "2015-11-04”
+pubDate: "2015-11-04"
 description: "Benni joins Matt as they discuss their past band history, on stage failures and web synthesizers."
 enclosure_link: "http://audio.simplecast.fm/19547.mp3"
 enclosure_length: "28532759"
-duration: "00:47:26”
+duration: "00:47:26"
 ---
 - [Bose Noise Cancelling Toilet](http://imgur.com/4jTeHmC)
 - [Google Chrome gains MIDI support](http://arstechnica.co.uk/information-technology/2015/05/google-chrome-gains-midi-support-enables-web-based-synths-and-daws/)
