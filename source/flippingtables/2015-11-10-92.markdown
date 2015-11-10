@@ -1,0 +1,12 @@
+---
+number: "92"
+title: "Put My Brain in a Computer, Please"
+pubDate: "2015-11-10"
+description: "Susan guests again this week and shares life with actually bad software. Comcast won't call it a 'data cap'. Family sharing may finally be coming to Google Play. And Amazon opened a book store because the one thing they don't sell is irony."
+enclosure_link: "http://audio.simplecast.fm/19924.mp3"
+enclosure_length: "55977885"
+duration: "01:16:41"
+---
+- [Leaked Comcast docs prove 300GB data cap has nothing to do with network congestion](https://www.yahoo.com/tech/s/leaked-comcast-docs-prove-300gb-data-cap-nothing-003027574.html)
+- [Play Store v5.12 Reveals Upcoming Family Sharing And Gifting, Option To Easily Add NFC-Enabled Credit Cards ](http://www.androidpolice.com/2015/11/06/play-store-v5-12-reveals-upcoming-family-sharing-and-gifting-option-to-easily-add-nfc-enabled-credit-cards-apk-teardown-download/)
+- [Amazon’s first brick-and-mortar store: One big ad for the Amazon app](http://arstechnica.com/business/2015/11/amazons-first-brick-and-mortar-store-one-big-ad-for-the-amazon-app/)
