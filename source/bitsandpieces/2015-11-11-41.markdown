@@ -1,0 +1,12 @@
+---
+number: "41"
+title: "Shouldn't Have Done That"
+pubDate: "2015-11-11"
+description: "Lars joins Matt as they talk about the combination of the visual and the aural, music tastes in relationships and their Picks of the Week that both could agree on."
+enclosure_link: "http://audio.simplecast.fm/19547.mp3"
+enclosure_length: "16612435"
+duration: "00:27:34"
+---
+- [Sopor Aeternus - In der Palästra](https://www.youtube.com/watch?v=XwsJlUdklmk)
+- [Delerium - After All (Symbion Project Remix)](https://soundcloud.com/symbionproject/after-all-symbion-project-remixes-delerium)
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
