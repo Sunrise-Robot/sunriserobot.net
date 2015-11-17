@@ -1,0 +1,13 @@
+---
+number: "93"
+title: "Not A Physical Thing, But A Thing"
+pubDate: "2015-11-17"
+description: "Mike returns and shares the sad story behind his absence, as well as how you handle the digital artifacts of a departed loved one's life. On the lighter side, Mike got to use the iPad Pro and Apple Pencil and it's a huge step in the right direction."
+enclosure_link: "http://audio.simplecast.fm/20300.mp3"
+enclosure_length: "45260678"
+duration: "01:01:48"
+---
+- [Apple Pencil Vs. Wacom Cintiq](http://www.lindadong.com/blog//apple-pencil-vs-wacom-cintiq)
+- [iPad pro and apple pencil and procreate sketch test](https://www.youtube.com/watch?v=ZxgJCerVH8w)
+- [First Impressions of iPad Pro+Apple Pencil](https://www.youtube.com/watch?v=6mbzrlYcLNU)
+- [Are there any recent studies of the “Keyboard vs Mouse”-issue?](http://ux.stackexchange.com/questions/30682/are-there-any-recent-studies-of-the-keyboard-vs-mouse-issue)
