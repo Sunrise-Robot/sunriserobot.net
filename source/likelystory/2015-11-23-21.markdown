@@ -1,0 +1,12 @@
+---
+number: "21"
+title: "I Basically Got Your Hair Cut"
+pubDate: "2015-11-23"
+description: "Shelby and Polly are back with Episode 21. Nothing brings the mood down like talking about grief and loss. But don't worry - they get back to discussing bad tv quickly. For example the Bastard Executioner, which has already been cancelled. Also: The Walking Dead, VEEP, and Life in Pieces are winning the world."
+enclosure_link: "http://audio.simplecast.fm/21142.mp3"
+enclosure_length: "46215319"
+duration: "01:02:18"
+---
+- [The RobCast with David Kessler](http://robbell.podbean.com/e/episode-45-grief-loss-and-joy-with-david-kessler/)
+- [Nice try Quantico, but that's not how hacking works - WIRED](http://www.wired.com/2015/11/nice-try-quantico-but-thats-not-how-hacking-works/)
+- [For Everyone Personally Devastated About Tabitha The Goat](http://www.buzzfeed.com/mjs538/rip-tabitha#.iwwQLbBa5)
