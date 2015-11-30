@@ -9,3 +9,8 @@ Cheffile.lock
 Vagrantfile
 cookbooks/
 tmp/
+
+# Docker stuff
+
+Dockerfile
+run.sh
