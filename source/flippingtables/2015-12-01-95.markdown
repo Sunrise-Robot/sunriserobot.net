@@ -1,0 +1,15 @@
+---
+number: "95"
+title: "The Younger Side of a Midlife Crisis"
+pubDate: "2015-12-01"
+description: "Consoles are basically just PCs now and that might be a good thing. Lyons gushes a little bit about Arkham Knight. And will Apple ditch the 3.5mm headphone jack? Do we want them to?"
+enclosure_link: "http://audio.simplecast.fm/21393.mp3"
+enclosure_length: "49256165"
+duration: "01:07:20"
+---
+- [Living in Different Worlds](http://ben-evans.com/benedictevans/2015/11/8/living-in-different-worlds)
+- [PS4 backwards compatibility: Sony asks players for PS2 wishlist](http://www.independent.co.uk/life-style/gadgets-and-tech/news/ps4-ps2-backwards-compatibility-compatible-games-list-a6746581.html)
+- [Sony confirms official PS4 Remote Play app for Windows and Mac](http://www.engadget.com/2015/11/27/sony-official-ps4-remote-play-pc-windows-and-mac/)
+- [The Patent That Gave Us 20 Years of Loading Screens - The Point](https://www.youtube.com/watch?v=TU7VuXg0vFg&feature=youtu.be)
+- [Apple May Replace 3.5mm Headphone Jack on iPhone 7 With All-in-One Lightning Connector](http://www.macrumors.com/2015/11/27/iphone-7-no-3-5mm-headphone-jack-lightning/)
+- [Dell XPS Lineup Is Reinvigorated With Skylake On The New XPS 12, XPS 13, And XPS 15](http://www.anandtech.com/show/9707/dell-xps-lineup-is-reinvigorated-with-skylake-on-the-new-xps-12-xps-13-and-xps-15)
