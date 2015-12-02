@@ -1,0 +1,22 @@
+---
+number: "43"
+title: "Go Back Into That Cave and Marinate For Awhile"
+pubDate: "2015-12-02"
+description: "Mike is officially creating a new album of original music, Rdio files for bankruptcy, Microsoft finally ends the Zune (you read that right). A new DAW appears on iOS and Tim Exile is still inventing the future of music tools. Picks of the Week from The Besnard Lakes and Terranigma!"
+enclosure_link: "http://audio.simplecast.fm/21472.mp3"
+enclosure_length: "40351250"
+duration: "00:56:50"
+---
+- [Bits & Pieces Spotify Playlist](http://open.spotify.com/user/echolox/playlist/4dPhrfmMswEihGsv4ySzVm)
+- [Rdio files for bankurptcy](http://arstechnica.com/business/2015/11/rdio-shutting-down-and-pandora-will-buy-its-technology/)
+- [Microsoft pulls plug on Zune](http://www.heraldrecorder.org/technology/microsoft-has-pulled-the-plug-on-its-failed-music-service-zune-20155555/)
+- [Zoon Tattoo Guy](http://www.wired.com/images_blogs/gadgetlab/2009/09/zunefan.jpg)
+- [Zune Commercial](https://www.youtube.com/watch?v=hr-t2ftb4BM)
+- [Yahoo's prematurely published Rihanna record review is a masterpiece of post-modern non-journalism. ](https://twitter.com/bengreenman/status/670375731373936640)
+- [Ferrite, a DAW for iOS](https://www.wooji-juice.com/products/ferrite/)
+- [Mike's music now 25% off on BandCamp](http://pseudomichael.com/music)
+- [Tom Cosm's Ambitron](http://www.twitch.tv/tomcosm/v/27385257)
+- [Tim Exile's Flesh](https://www.native-instruments.com/en/products/komplete/synths/flesh/?content=3173)
+- [Fleshouts Tumblr](http://fleshouts.com/)
+- [The Besnard Lakes - Albatross](https://www.youtube.com/watch?v=RXB87SRv8Yg)
+- [Miyoko Kobayashi & Masanori Hikichi - Light Side Field (Terranigma OST)](https://youtu.be/J3vk5N8TyYU?t=1345)
