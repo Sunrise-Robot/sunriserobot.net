@@ -1,0 +1,17 @@
+---
+number: "96"
+title: "Every Other Tile Is Lava"
+pubDate: "2015-12-08"
+description: "Samsung partners with Google to make TouchWiz not suck. Porting games is way harder than you think. And Mike gets a Roomba!"
+enclosure_link: "http://audio.simplecast.fm/21953.mp3"
+enclosure_length: "39042054"
+duration: "00:53:09"
+---
+- [Display Lag](http://www.displaylag.com/display-database/)
+- [Roomba](http://www.irobot.com/For-the-Home/Vacuum-Cleaning/Roomba.aspx)
+- [Dear Kitten](https://www.youtube.com/watch?v=G4Sn91t1V4g)
+- [iRobot Looj® Gutter Cleaning Robot](http://www.irobot.com/For-the-Home/Outdoor-Maintenance/Looj.aspx)
+- [iRobot Looj 330 Overview](https://www.youtube.com/watch?v=d4JHoj7T9ew)
+- [Samsung May Partner With Google To Optimize TouchWiz](http://www.forbes.com/sites/amitchowdhry/2015/11/27/samsung-may-partner-with-google-to-optimize-touchwiz/)
+- [Bridging the Generation Gap: Porting Games to New Platforms](http://www.polygon.com/features/2015/11/30/9790028/video-game-ports-remasters-the-last-of-us)
+- [Final Fantasy 7 Remake - Gameplay Trailer - PS4 - Playstation Experience 2015](https://youtu.be/rHDoYM3CVK4)
