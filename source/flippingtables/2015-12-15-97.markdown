@@ -1,0 +1,17 @@
+---
+number: "97"
+title: "Yell Closer To My Face"
+pubDate: "2015-12-15"
+description: "The Mac App Store continues to decline. What does it mean for email clients when Dropbox shuts down Mailbox and Carousel? And Apple's battery case."
+enclosure_link: "http://audio.simplecast.fm/22462.mp3"
+enclosure_length: "53166668"
+duration: "01:12:46"
+---
+- [iPhone 6s Smart Battery Case](http://www.apple.com/shop/product/MGQL2LL/A/iphone-6s-smart-battery-case-charcoal-gray?fnode=85)
+- [Designed By Apple In California. ](https://twitter.com/bdsams/status/674261101803126787)
+- [The Curious Case of the Curious Case](http://daringfireball.net/2015/12/the_curious_case_of_the_curious_case)
+- [Leaving the Mac App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store)
+- [Saying goodbye to Carousel and Mailbox](https://blogs.dropbox.com/dropbox/2015/12/saying-goodbye-to-carousel-and-mailbox/)
+- [Dropbox is shutting down its Mailbox and Carousel apps](http://www.theverge.com/2015/12/7/9862470/dropbox-shutting-down-mailbox-carousel-apps)
+- [On Apps that Get Acquired](http://inessential.com/2015/12/07/on_apps_that_get_acquired)
+- [Dropbox Paper](http://paper.dropbox.com)
