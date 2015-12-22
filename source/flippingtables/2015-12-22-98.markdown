@@ -1,0 +1,16 @@
+---
+number: "98"
+title: "Christmas & New Year Spectacular"
+pubDate: "2015-12-22"
+description: "In the spirit of the season, Mike and Lyons talk about tech support responsibilities with family, and some New Year's resolutions to be better technologists and creators."
+enclosure_link: "http://audio.simplecast.fm/23520.mp3"
+enclosure_length: "50384647"
+duration: "01:08:55"
+---
+- [Super Mario Maker Bookmark Update!](https://www.youtube.com/watch?v=mWhJVA_jmrc)
+- [Netflix Socks](http://makeit.netflix.com/netflix-socks)
+- [Flipping Tables #90: Outsourcing Coin Flips To The Internet](http://sunriserobot.net/flippingtables/90)
+- [1Password](https://agilebits.com/onepassword)
+- [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
+- [Homebrew](http://brew.sh/)
+- [Wreck this Journal, by Keri Smith](http://www.kerismith.com/shop)
