@@ -13,7 +13,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     xml.link site_url # Link to show page, not a specific episode
     xml.description @show_data["description"]
     xml.language "en-us"
-    xml.copyright "Copyright #{Time.now.year} Sunrise Robot"
+    xml.copyright "Copyright 2015-#{Time.now.year} Sunrise Robot"
     xml.image do
       xml.url @album_art_url
       xml.title @show_data["title"]
