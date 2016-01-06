@@ -2,7 +2,7 @@
   title: "Flipping Tables"
   hosts:
     - { name: "Michael Edwards",
-        twitter: "medwardsmusic",
+        twitter: "sudomichael",
         website: "pseudomichael.com",
         website_text: "pseudomichael.com",
         photo: "michaeledwards.jpg" }
@@ -33,7 +33,7 @@
   title: "The Pseudo Show"
   hosts:
     - { name: "Michael Edwards",
-        twitter: "medwardsmusic",
+        twitter: "sudomichael",
         website: "pseudomichael.com",
         website_text: "pseudomichael.com",
         photo: "michaeledwards.jpg" }
@@ -118,7 +118,7 @@
         website_text: "facebook.com/echolox",
         photo: "mattduncan.jpg" }
     - { name: "Michael Edwards",
-        twitter: "medwardsmusic",
+        twitter: "sudomichael",
         website: "pseudomichael.com",
         website_text: "pseudomichael.com",
         photo: "michaeledwards.jpg" }
