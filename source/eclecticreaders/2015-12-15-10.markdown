@@ -7,7 +7,7 @@ enclosure_link: "http://audio.simplecast.fm/22430.mp3"
 enclosure_length: "51007598"
 duration: "01:09:35"
 ---
-- What did you think of Simon Vs. the Homo Sapiens Agenda? [Tell us about it on GoodReads!](https://www.goodreads.com/topic/show/17607770-simon-vs-the-homo-sapiens-agenda)
+What did you think of Simon Vs. the Homo Sapiens Agenda? [Tell us about it on GoodReads!](https://www.goodreads.com/topic/show/17607770-simon-vs-the-homo-sapiens-agenda)
 
 - Simon Vs. the Homo Sapiens Agenda on [GoodReads](https://www.goodreads.com/book/show/19547856-simon-vs-the-homo-sapiens-agenda?ac=1&from_search=1) and [Amazon](http://amzn.com/B00LSRXJKC)
 - The Book Thief on [GoodReads](https://www.goodreads.com/book/show/19063.The_Book_Thief?from_search=true&search_version=service) and [Amazon](http://amzn.com/B000XUBFE2)
