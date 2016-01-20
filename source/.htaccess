@@ -14,6 +14,8 @@ RewriteCond %{HTTP_HOST} ^sunriserobot.net [nc]
 RewriteRule ^flippingtables/0+([1-9]+0*)/?$ /flippingtables/$1 [r=301,nc]
 RewriteRule ^pseudoshow/0+([1-9]+0*)/?$ /pseudoshow/$1 [r=301,nc]
 
+Redirect 301 /blog/twoflippingyears /blog/two-flipping-years
+
 ErrorDocument 403 /error/
 ErrorDocument 404 /error/
 ErrorDocument 500 /error/
