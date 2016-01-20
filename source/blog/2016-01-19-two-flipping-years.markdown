@@ -2,7 +2,7 @@
 title: "Two Flipping Years"
 pubDate: "2016-01-19"
 ---
-<img class="pull-right img-responsive" src="/images/blog/lyonstableflip_104promo3.gif">
+<img class="pull-right img-responsive" style="margin: 10px;" src="/images/blog/lyonstableflip_104promo3.gif">
 
 We're celebrating 104 consecutive weekly episodes of Flipping Tables with a Live Let's Play on January 30th at 1:00PM MST! We're calling it:
 
