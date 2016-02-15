@@ -3,9 +3,9 @@ number: "12"
 title: "City of Bones: We All Feel Weird"
 pubDate: "2016-02-15"
 description: "Susan makes her triumphant return! Jeannette dislikes the Shadowhunters TV series, but we all like the Magicians show! Also, Tara tweets with Scott McCloud, and Book Bingo is back! Meredith breaks it down if you want to play along at home."
-enclosure_link: ""
-enclosure_length: ""
-duration: ""
+enclosure_link: "http://audio.simplecast.com/26734.mp3"
+enclosure_length: "57554072"
+duration: "01:18:40"
 ---
 - What did you think of City of Bones? Tell us about it on [Goodreads!](https://www.goodreads.com/group/show/68328-eclectic-readers)
 
