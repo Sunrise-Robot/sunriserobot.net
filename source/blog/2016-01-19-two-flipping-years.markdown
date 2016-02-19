@@ -4,6 +4,8 @@ pubDate: "2016-01-19"
 ---
 <img class="pull-right img-responsive" style="margin: 10px;" src="/images/blog/lyonstableflip_104promo3.gif">
 
+**Update:** Thanks for joining everyone! If you couldn't attend live, check out [the recording on our Youtube channel](https://www.youtube.com/watch?v=Pd8ACiYKg6U).
+
 We're celebrating 104 consecutive weekly episodes of Flipping Tables with a Live Let's Play on January 30th at 1:00PM MST! We're calling it:
 
 [_Super Flipping Tables Let's Play Ultra Arcade Edition 104+_](http://www.youtube.com/c/SunriseRobot/live)
