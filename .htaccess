@@ -1,0 +1,24 @@
+# Redirects flippingtablespodcast.com based episode URLs to sunriserobot.net/flippingtables
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(flippingtables)podcast\. [NC]
+RewriteRule (.*) http://sunriserobot.net/$1 [R=301,L]
+
+# Redirects pseudobookpodcast.com based episode URLs to sunriserobot.net/pseudoshow
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(pseudobook)podcast\. [NC]
+RewriteRule (.*) http://sunriserobot.net/$1 [R=301,L]
+
+# Drop leading zero from episode URL
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^sunriserobot.net [nc]
+RewriteRule ^flippingtables/0+([1-9]+0*)/?$ /flippingtables/$1 [r=301,nc]
+RewriteRule ^pseudoshow/0+([1-9]+0*)/?$ /pseudoshow/$1 [r=301,nc]
+
+Redirect 301 /blog/twoflippingyears /blog/two-flipping-years
+
+ErrorDocument 403 /error/
+ErrorDocument 404 /error/
+ErrorDocument 500 /error/
+
+# Redirect /live to Youtube until a landing page exists
+Redirect 302 /live https://gaming.youtube.com/channel/UCja4kmn28hlnUS-FcM6-Krw/live
