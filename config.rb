@@ -107,11 +107,3 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
-# Middleman can have issues with .htaccess so it is being created at build instead of passed through as a dot file
-
-page "htaccess", :layout => false
-
-after_build do
-  File.ranem 'build/htaccess', 'build/.htaccess'
-end
-
