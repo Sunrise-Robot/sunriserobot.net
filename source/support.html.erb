@@ -20,7 +20,7 @@ priority: 0.9
               <a href="http://patreon.com/sunriserobot" class="btn btn-lg btn-support" onclick="ga('send', 'event', 'support', 'click', 'patreon', 1);">Support us on Patreon</a>
               <h4>Our awesome patrons</h4>
               <ul class="list-unstyled">
-              <% YAML.load_file("source/data/patrons.yml").each do |patron| %>
+              <% data.patrons.each do |patron| %>
                 <li><%= patron %></li>
               <% end %>
               </ul>

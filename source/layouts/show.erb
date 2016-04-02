@@ -1,4 +1,6 @@
-<% @show = @shows.find { |show| current_blog.options.prefix.match(/#{show["prefix"]}/) } %>
+<% current_show = blog.options.prefix.gsub("/", "") %>
+<% @show = data.shows[current_show] %>
+
 <!DOCTYPE html>
 <html lang="en">
   <%= partial "layouts/head" %>
@@ -8,12 +10,12 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-5 col-md-4">
-            <a href="/<%= @show["prefix"] %>"><img class="img-responsive" src="/images/<%= @show["album_art"] %>"/></a>
+            <a href="/<%= @show["stub"] %>"><img class="img-responsive" src="/images/<%= @show["album_art"] %>"/></a>
           </div>
           <div class="col-sm-7 col-md-7">
             <h1 class="show-title"><%= @show["title"] %></h1>
             <p><%= @show["description"] %></p>
-            <p><% if @show["itunes"] %><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= @show["prefix"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a></p>
+            <p><% if @show["itunes"] %><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= @show["stub"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a></p>
           </div>
         </div>
       </div>

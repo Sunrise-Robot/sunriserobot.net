@@ -1,4 +1,6 @@
-<% @show = YAML.load_file("source/data/shows.yml").find { |s| s["prefix"] == blog.options.prefix.sub("/", "") } %>
+<% current_show = blog.options.prefix.gsub("/", "") %>
+<% @show = data.shows[current_show] %>
+
 <!DOCTYPE html>
 <html lang="en">
   <%= partial "layouts/head" %>
@@ -8,7 +10,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-5 col-md-4">
-            <a href="/<%= @show["prefix"] %>"><img class="img-responsive" src="/images/<%= @show["album_art"]%>"/></a>
+            <a href="/<%= @show["stub"] %>"><img class="img-responsive" src="/images/<%= @show["album_art"]%>"/></a>
           </div>
           <div class="col-sm-7 col-md-8">
             <p class="episode-date">#<%= current_article.data.number %> - <%= current_article.date.strftime("%B %-d, %Y")  %></p>
@@ -16,7 +18,7 @@
             <p class="episode-desc"><%= current_article.data.description %></p>
             <p><audio controls preload src="<%= current_article.data.enclosure_link %>"> <br>
             </audio>
-            <p><% if @show["itunes"] %><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= @show["prefix"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a></p>
+            <p><% if @show["itunes"] %><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= @show["stub"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a></p>
           </div>
         </div>
       </div>

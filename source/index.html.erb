@@ -4,21 +4,23 @@ priority: 1.0
 ---
 <article>
       <div class="container show-list">
-        <% @shows.each_slice(3) do |row| %>
+        <% data.shows.each_slice(3) do |row| %>
+        <% row.each do |shows| %>
         <div class="row">
-          <% row.each do |show| %>
+        <% shows.each do |show| %>
           <div class="col-sm-4">
             <div class="thumbnail">
-              <a href="<%= show["prefix"] %>"><img class="img-responsive" src="/images/<%= show["album_art"] %>"/></a>
+              <a href="<%= show["stub"] %>"><img class="img-responsive" src="/images/<%= show["album_art"] %>"/></a>
               <div class="caption">
-                <h2 class="index-show-title"><a href="<%= show["prefix"] %>"><%= show["title"] %></a></h2>
+                <h2 class="index-show-title"><a href="<%= show["stub"] %>"><%= show["title"] %></a></h2>
                 <p class="index-show-desc"><%= show["description"] %></p>
-                <p><% if show["itunes"] %><a href="<%= show["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= show["prefix"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a></p>
+                <p><% if show["itunes"] %><a href="<%= show["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= show["stub"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a></p>
               </div>
             </div>
           </div>
           <% end %>
         </div>
+        <% end %>
         <% end %>
       </div>
 </article>

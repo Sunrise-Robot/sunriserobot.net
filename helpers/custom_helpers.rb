@@ -5,8 +5,8 @@ module CustomHelpers
 
   def current_blog
     name = nil
-    @shows.each do |show|
-      name = show["title"] if current_page.url.match(/#{show["prefix"]}/)
+    data.shows.each_pair do |show, info|
+      name = data.shows[show]["stub"] if current_page.url.match(/#{data.shows[show]["stub"]}/)
     end
 
     blog(name)

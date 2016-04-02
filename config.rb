@@ -1,12 +1,11 @@
-@shows = YAML.load_file("source/data/shows.yml")
-
 Time.zone = "EST"
 
-@shows.each do |show|
+
+data.shows.each_pair do |show, info|
   activate :blog do |blog|
     blog.permalink = "{number}"
-    blog.name      = show["title"]
-    blog.prefix    = show["prefix"]
+    blog.name      = data.shows[show]["title"]
+    blog.prefix    = data.shows[show]["stub"]
     blog.paginate  = true
     blog.per_page  = 10
     page "#{blog.prefix}/*", layout: "episode"
