@@ -61,4 +61,11 @@ module CustomHelpers
       "#{site_url}/images/sunriserobot_social.png"
     end
   end
+
+  def rss_boilerplate
+   data.rss_boilerplate["rss_boilerplate"] % { :LINK => "LINK", # TODO: Fix link
+                            :SHOW_TITLE => "", # TODO: Fix getting show data to this method data.shows[show]["title"],
+                            :SHOW_HOSTS => "", # TODO: Fix host names
+                            :ITUNES_LINK => "" } # TODO: Fix getting show data to this method data.shows[show]["itunes"] }
+  end
 end

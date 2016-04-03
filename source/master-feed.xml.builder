@@ -16,7 +16,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     xml.copyright "Copyright 2015-#{Time.now.year} Sunrise Robot"
     xml.image do
       xml.url "" # TODO: Fix this
-      xml.title "IMAGE TITLE" # TODO: Fix this
+      xml.title "Sunrise Robot Master Feed" # TODO: Fix this
       xml.link site_url
     end
     # iTunes specific
@@ -30,51 +30,46 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.tag! "itunes:name", "Sunrise Robot"
       xml.tag! "itunes:email", "hello@sunriserobot.net"
       end
-    xml.tag! "itunes:category", "text" => "" do # TODO: Fix category
-      xml.tag! "itunes:category", "text" => "" # TODO: Fix subcategory
+    xml.tag! "itunes:category", "text" => "Technology" do 
+      xml.tag! "itunes:category", "text" => "Tech News" 
     end
   end
-    
-    all_episodes = []
 
-    data.shows.each_pair do |show, info|
-      blog(data.shows[show]["title"]).articles[0..9].each do |episode|
-        all_episodes << episode
-      end
-    end
+  all_episodes = []
 
-    all_episodes.sort! { |a, b| b.data.pubDate <=> a.data.pubDate }
 
-    # Item builder
-    all_episodes.each do |episode|
-      xml.item do
-      link = URI.join(site_url, episode.url)
-        xml.title "#{episode.data.number} - #{episode.data.title}"
-        xml.link link
-        xml.guid link
-        xml.pubDate episode.date.strftime("%a, %d %b %Y 09:00:00 GMT")
-        xml.author "" # TODO: Fix author
-        xml.description episode.data.description
-        xml.enclosure "url" => episode.data.enclosure_link,
-                      "length" => episode.data.enclosure_length,
-                      "type" => "audio/mpeg"
-
-        #rss-boilerplate = data.rss-boilerplate % { :LINK => link,
-        #                                      :SHOW_TITLE => data.shows[show]["title"],
-        #                                      :SHOW_HOSTS => "", # TODO: Fix host names
-        #                                      :ITUNES_LINK => data.shows[show]["itunes"] }
-
-        xml.tag! "content:encoded",
-                 "<p>#{episode.data.description}</p>"\
-                 "<h1>Show Notes</h1>"\
-                 "#{episode.body}"\
-                # "\n#{rss-boilerplate}"
-        xml.tag! "itunes:author", "" # TODO: Fix host names
-        xml.tag! "itunes:duration", episode.data.duration
-        xml.tag! "itunes:subtitle", episode.data.description
-        xml.tag! "itunes:summary", episode.data.description
-        xml.tag! "itunes:image", "href" => "" # TODO: Fix album art
-      end
+  data.shows.each_pair do |show, info|
+    blog(data.shows[show]["title"]).articles[0..9].each do |episode|
+      all_episodes << episode
     end
   end
+
+  all_episodes.sort! { |a, b| b.data.pubDate <=> a.data.pubDate }
+
+  # Item builder
+  all_episodes.each do |episode|
+    xml.item do
+    link = URI.join(site_url, episode.url)
+      xml.title "#{episode.data.number} - #{episode.data.title}"
+      xml.link link
+      xml.guid link
+      xml.pubDate episode.date.strftime("%a, %d %b %Y 09:00:00 GMT")
+      xml.author "" # TODO: Fix author
+      xml.description episode.data.description
+      xml.enclosure "url" => episode.data.enclosure_link,
+                    "length" => episode.data.enclosure_length,
+                    "type" => "audio/mpeg"
+      xml.tag! "content:encoded",
+               "<p>#{episode.data.description}</p>"\
+               "<h1>Show Notes</h1>"\
+               "#{episode.body}"\
+               "\n#{rss_boilerplate}" # TODO: Show data needs to get to this method somehow
+      xml.tag! "itunes:author", "" # TODO: Fix host names
+      xml.tag! "itunes:duration", episode.data.duration
+      xml.tag! "itunes:subtitle", episode.data.description
+      xml.tag! "itunes:summary", episode.data.description
+      xml.tag! "itunes:image", "href" => "" # TODO: Fix album art
+    end
+  end
+end
 
