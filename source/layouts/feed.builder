@@ -53,16 +53,11 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
         xml.enclosure "url" => episode.data.enclosure_link,
                       "length" => episode.data.enclosure_length,
                       "type" => "audio/mpeg"
-        @rss_boilerplate = @rss_boilerplate % { :LINK => link,
-                                              :SHOW_TITLE => @show_data["title"],
-                                              :SHOW_HOSTS => @host_names,
-                                              :ITUNES_LINK => @show_data["itunes"] }
-
         xml.tag! "content:encoded",
                  "<p>#{episode.data.description}</p>"\
                  "<h1>Show Notes</h1>"\
                  "#{episode.body}"\
-                 "\n#{@rss_boilerplate}"
+                 "\n#{rss_boilerplate}"
         xml.tag! "itunes:author", @host_names
         xml.tag! "itunes:duration", episode.data.duration
         xml.tag! "itunes:subtitle", episode.data.description

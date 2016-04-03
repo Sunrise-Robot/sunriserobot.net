@@ -63,7 +63,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
                "<p>#{episode.data.description}</p>"\
                "<h1>Show Notes</h1>"\
                "#{episode.body}"\
-               "\n#{rss_boilerplate}" # TODO: Show data needs to get to this method somehow
+               "\n#{rss_boilerplate(data.shows[episode.blog_controller.options.prefix.gsub("/", "")], episode)}" # TODO: Show data needs to get to this method somehow
       xml.tag! "itunes:author", "" # TODO: Fix host names
       xml.tag! "itunes:duration", episode.data.duration
       xml.tag! "itunes:subtitle", episode.data.description
