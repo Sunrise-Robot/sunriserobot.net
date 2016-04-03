@@ -1,5 +1,6 @@
 Time.zone = "EST"
 
+page "master-feed.xml", layout: false
 
 data.shows.each_pair do |show, info|
   activate :blog do |blog|
