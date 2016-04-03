@@ -6,7 +6,7 @@ module CustomHelpers
   def current_blog
     name = nil
     data.shows.each_pair do |show, info|
-      name = data.shows[show]["stub"] if current_page.url.match(/#{data.shows[show]["stub"]}/)
+      name = data.shows[show]["title"] if current_page.url.match(/#{data.shows[show]["stub"]}/)
     end
 
     blog(name)

@@ -28,14 +28,14 @@ priority: 0.9
             <div class="col-sm-6 col-md-5 col-lg-4 col-md-push-1 col-lg-push-2">
               <h3>Rate us on iTunes</h3>
               <ul class="media-list">
-              <% @shows.each do |show| %>
-                <a href="<%= show["itunes"] %>" onclick="ga('send', 'event', 'rate_on_iTunes', 'click', '<%= show["title"] %>', 1);">
+              <% data.shows.each_pair do |show, info| %>
+                <a href="<%= data.shows[show]["itunes"] %>" onclick="ga('send', 'event', 'rate_on_iTunes', 'click', '<%= show["title"] %>', 1);">
                   <li class="media">
                     <div class="media-left">
-                      <img class="media-object" height="64" width="64" src="/images/<%= show["album_art"] %>" alt="<%= show["title"] %> album art">
+                      <img class="media-object" height="64" width="64" src="/images/<%= data.shows[show]["album_art"] %>" alt="<%= data.shows[show]["title"] %> album art">
                     </div>
                     <div class="media-body">
-                      <h4 class="media-heading"><%= show["title"] %></h4>
+                      <h4 class="media-heading"><%= data.shows[show]["title"] %></h4>
                     </div>
                   </li>
                 </a>
