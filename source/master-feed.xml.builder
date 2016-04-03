@@ -16,7 +16,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     xml.copyright "Copyright 2015-#{Time.now.year} Sunrise Robot"
     xml.image do
       xml.url "" # TODO: Fix this
-      xml.title "Sunrise Robot Master Feed" # TODO: Fix this
+      xml.title "Sunrise Robot Master Feed"
       xml.link site_url
     end
     # iTunes specific
@@ -54,7 +54,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.link link
       xml.guid link
       xml.pubDate episode.date.strftime("%a, %d %b %Y 09:00:00 GMT")
-      xml.author "" # TODO: Fix author
+      xml.author hosts(data.shows[episode.blog_controller.options.prefix.gsub("/", "")])
       xml.description episode.data.description
       xml.enclosure "url" => episode.data.enclosure_link,
                     "length" => episode.data.enclosure_length,
@@ -63,8 +63,8 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
                "<p>#{episode.data.description}</p>"\
                "<h1>Show Notes</h1>"\
                "#{episode.body}"\
-               "\n#{rss_boilerplate(data.shows[episode.blog_controller.options.prefix.gsub("/", "")], episode)}" # TODO: Show data needs to get to this method somehow
-      xml.tag! "itunes:author", "" # TODO: Fix host names
+               "\n#{rss_boilerplate(data.shows[episode.blog_controller.options.prefix.gsub("/", "")], episode)}"
+      xml.tag! "itunes:author", hosts(data.shows[episode.blog_controller.options.prefix.gsub("/", "")])
       xml.tag! "itunes:duration", episode.data.duration
       xml.tag! "itunes:subtitle", episode.data.description
       xml.tag! "itunes:summary", episode.data.description
