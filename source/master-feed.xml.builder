@@ -49,7 +49,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
   all_episodes.each do |episode|
     xml.item do
     link = URI.join(site_url, episode.url)
-      xml.title "#{episode.data.number} - #{episode.data.title}"
+      xml.title "#{episode.blog_controller.name} #{episode.data.number} - #{episode.data.title}"
       xml.link link
       xml.guid link
       xml.pubDate episode.date.strftime("%a, %d %b %Y 09:00:00 GMT")
