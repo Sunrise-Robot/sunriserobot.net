@@ -39,8 +39,8 @@ pseudoshow:
         website: "pseudomichael.com",
         website_text: "pseudomichael.com",
         photo: "michaeledwards.jpg" }
-    - { name: "Justin Edwards",
-     hoiws.  twitter: "pseudojustin",
+    - { name: "Justin Edwards", 
+        twitter: "pseudojustin",
         website: "pseudojustin.com",
         website_text: "pseudojustin.com",
         photo: "justinedwards.jpg" }
