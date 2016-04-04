@@ -1,6 +1,3 @@
 ---
 blog: "Bits & Pieces"
 ---
-@show_data       = data.shows[blog.options.prefix.sub("/", "")]
-@host_names      = @show_data["hosts"].map { |host| host["name"] }.join(" and ")
-@album_art_url   = "http://sunriserobot.net/images/#{@show_data["large_art"]}"

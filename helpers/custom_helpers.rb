@@ -65,7 +65,7 @@ module CustomHelpers
   def rss_boilerplate(show, episode)
    data.rss_boilerplate["rss_boilerplate"] % { :LINK => "#{site_url}#{episode.url}",
                             :SHOW_TITLE => show["title"],
-                            :SHOW_HOSTS => hosts(show), # TODO: Fix host names
+                            :SHOW_HOSTS => hosts(show),
                             :ITUNES_LINK => show["itunes"] }
   end
 
