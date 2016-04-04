@@ -8,14 +8,13 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
         "xmlns:itunes"  => "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "version"       => "2.0" do
   xml.channel do
-    site_url = "http://sunriserobot.net"
     xml.title "Sunrise Robot Master Feed"
     xml.link site_url # Link to show page, not a specific episode
     xml.description "All the Sunrise Robot shows!"
     xml.language "en-us"
     xml.copyright "Copyright 2015-#{Time.now.year} Sunrise Robot"
     xml.image do
-      xml.url "" # TODO: Fix this
+      xml.url "#{site_url}/images/sunriserobot_album.png"
       xml.title "Sunrise Robot Master Feed"
       xml.link site_url
     end
@@ -24,7 +23,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     xml.tag! "itunes:subtitle", "Sunrise Robot Master Feed"
     xml.tag! "itunes:author", "Sunrise Robot"
     xml.tag! "itunes:summary", "All the Sunrise Robot shows!"
-    xml.tag! "itunes:image href=\"\"" # TODO: Fix this
+    xml.tag! "itunes:image href=\"#{site_url}/images/sunriserobot_album.png\""
     xml.tag! "itunes:explicit", "No"
     xml.tag! "itunes:owner" do
       xml.tag! "itunes:name", "Sunrise Robot"
@@ -68,7 +67,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.tag! "itunes:duration", episode.data.duration
       xml.tag! "itunes:subtitle", episode.data.description
       xml.tag! "itunes:summary", episode.data.description
-      xml.tag! "itunes:image", "href" => "" # TODO: Fix album art
+      xml.tag! "itunes:image", "href" => "#{site_url}/images/#{data.shows[episode.blog_controller.options.prefix.gsub("/", "")]["large_art"]}"
     end
   end
 end
