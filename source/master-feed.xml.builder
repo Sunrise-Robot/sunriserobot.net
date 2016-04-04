@@ -69,5 +69,5 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.tag! "itunes:image", "href" => "#{site_url}/images/#{data.shows[episode.blog_controller.options.prefix.gsub("/", "")]["large_art"]}"
     end
   end
+  end
 end
-

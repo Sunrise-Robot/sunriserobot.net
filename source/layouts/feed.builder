@@ -66,7 +66,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
         xml.tag! "itunes:subtitle", episode.data.description
         xml.tag! "itunes:summary", episode.data.description
         xml.tag! "itunes:image", "href" => "#{site_url}/images/#{@show["large_art"]}"
-        end
+      end
     end
   end
 end
