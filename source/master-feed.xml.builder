@@ -32,7 +32,6 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     xml.tag! "itunes:category", "text" => "Technology" do 
       xml.tag! "itunes:category", "text" => "Tech News" 
     end
-  end
 
   all_episodes = []
 
