@@ -8,19 +8,19 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
         "xmlns:itunes"  => "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "version"       => "2.0" do
   xml.channel do
-    xml.title "Sunrise Robot Master Feed"
+    xml.title "Sunrise Robot - All Shows"
     xml.link site_url # Link to show page, not a specific episode
     xml.description "All the Sunrise Robot shows!"
     xml.language "en-us"
     xml.copyright "Copyright 2015-#{Time.now.year} Sunrise Robot"
     xml.image do
       xml.url "#{site_url}/images/sunriserobot_album.png"
-      xml.title "Sunrise Robot Master Feed"
+      xml.title "Sunrise Robot - All Shows"
       xml.link site_url
     end
     # iTunes specific
     xml.tag! "itunes:new-feed-url", "http://sunriserobot.net/all-shows.xml"
-    xml.tag! "itunes:subtitle", "Sunrise Robot Master Feed"
+    xml.tag! "itunes:subtitle", "Sunrise Robot - All Shows"
     xml.tag! "itunes:author", "Sunrise Robot"
     xml.tag! "itunes:summary", "All the Sunrise Robot shows!"
     xml.tag! "itunes:image href=\"#{site_url}/images/sunriserobot_album.png\""
