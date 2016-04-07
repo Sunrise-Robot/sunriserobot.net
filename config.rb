@@ -103,3 +103,10 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
+activate :deploy do |deploy|
+  deploy.method = :rsync
+  deploy.host          = 'sunriserobot.net'
+  deploy.path          = '/home1/notupfor/public_html/'
+  deploy.build_before  = true
+  deploy.user          = ENV['SR_DEPLOY_USER']
+end
