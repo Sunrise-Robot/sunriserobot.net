@@ -73,7 +73,9 @@ module CustomHelpers
    show["hosts"].map { |host| host["name"] }.join(" and ")
   end
 
-  def podtrac_link(episode)
-    "http://www.podtrac.com/pts/redirect.mp3/#{episode.data.enclosure_link.gsub("http://", "")}"
-  end
+# Depricated because Podtrac appears to be a dumpster fire
+#  def podtrac_link(episode)
+#    "http://www.podtrac.com/pts/redirect.mp3/#{episode.data.enclosure_link.gsub("http://", "")}"
+#  end
+
 end

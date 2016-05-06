@@ -54,7 +54,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.pubDate episode.date.strftime("%a, %d %b %Y 09:00:00 GMT")
       xml.author hosts(data.shows[episode.blog_controller.options.prefix.gsub("/", "")])
       xml.description episode.data.description
-      xml.enclosure "url" => podtrac_link(episode),
+      xml.enclosure "url" => episode.data.enclosure_link,
                     "length" => episode.data.enclosure_length,
                     "type" => "audio/mpeg"
       xml.tag! "content:encoded",
