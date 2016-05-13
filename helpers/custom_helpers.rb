@@ -73,6 +73,11 @@ module CustomHelpers
    show["hosts"].map { |host| host["name"] }.join(" and ")
   end
 
+  def simplecast_player(episode_url)
+    episode_id = episode_url.match(/(?<=\/)(\d+)(?=\.)/).to_s
+
+    "<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/#{episode_id}?style=light' width='100%'></iframe>"
+  end
 # Depricated because Podtrac appears to be a dumpster fire
 #  def podtrac_link(episode)
 #    "http://www.podtrac.com/pts/redirect.mp3/#{episode.data.enclosure_link.gsub("http://", "")}"
