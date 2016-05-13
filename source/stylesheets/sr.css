@@ -622,6 +622,10 @@ a.btn.btn-web:hover {
   border-color: #dd4b39;
 }
 
+a.btn-default {
+  color: #999;
+}
+
 /* Override bootstrap default */
 
 .jumbotron {
