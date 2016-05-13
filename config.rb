@@ -12,6 +12,7 @@ data.shows.each_pair do |show, info|
     blog.per_page  = 10
     page "#{blog.prefix}/*", layout: "episode"
     page "#{blog.prefix}/feed.xml", layout: "feed"
+    page "#{blog.prefix}/markdown-feed.xml", layout: "markdown-feed"
     page "#{blog.prefix}/index.html", layout: "show"
   end
 end
