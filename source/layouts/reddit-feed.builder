@@ -59,7 +59,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
         xml.tag! "content:encoded",
                  "<p>#{episode.data.description}</p>"\
                  "<h1>Show Notes</h1>"\
-                 "#{episode.body}"\
+                 "#{episode.body}"
         xml.tag! "itunes:author", hosts(@show)
         xml.tag! "itunes:duration", episode.data.duration
         xml.tag! "itunes:subtitle", episode.data.description
