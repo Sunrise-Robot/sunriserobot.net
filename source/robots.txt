@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /flippingtables/reddit-feed.xml
+Sitemap: http://sunriserobot.net/sitemap.xml
