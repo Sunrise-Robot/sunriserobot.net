@@ -39,7 +39,7 @@ pseudoshow:
         website: "pseudomichael.com",
         website_text: "pseudomichael.com",
         photo: "michaeledwards.jpg" }
-    - { name: "Justin Edwards", 
+    - { name: "Justin Edwards",
         twitter: "pseudojustin",
         website: "pseudojustin.com",
         website_text: "pseudojustin.com",
@@ -163,6 +163,11 @@ eclecticreaders:
         website: "goodreads.com/user/show/4653158-tara-newman",
         website_text: "Goodreads",
         photo: "taranewman.jpg" }
+    - { name: "Meredith Bartlett",
+        twitter: "merethebookgal",
+        website: "goodreads.com/user/show/5402629-meredith",
+        website_text: "Goodreads",
+        photo: "meredithbartlett.jpg" }
   description: "A monthly book club and podcast for readers who enjoy an eclectic variety of books - and talking about them nonstop."
   album_art: "eclecticreaders/eclecticreaders_album.jpg"
   social_art: "eclecticreaders/eclecticreaders_social.jpg"
