@@ -1,5 +1,7 @@
-<nav class="navbar navbar-default navbar-static-top">
+<header>
+  <nav class="navbar navbar-default navbar-static-top">
       <div class="container">
+        <h2 class="nav-heading pull-left"><a href="/">Sunrise Robot</a></h2>
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -9,8 +11,7 @@
           </button>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="/">Home</a></li>
+          <ul class="nav navbar-nav navbar-right">
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Podcasts <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
@@ -19,24 +20,13 @@
                 <% end %>
               </ul>
             </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">All Shows Feed <span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="https://itunes.apple.com/us/podcast/sunrise-robot-master-feed/id1100367654">iTunes</a></li>
-                <li><a href="http://sunriserobot.net/all-shows.xml">RSS</a></li>
-              </ul>
-            </li>
             <li><a href="/blog">Blog</a></li>
-          </ul>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="http://twitter.com/sunriserobot"><i class="fa fa-twitter fa-fw"></i> sunriserobot</a></li>
-            <li><a href="mailto:hello@sunriserobot.net"><i class="fa fa-bullhorn fa-fw"></i> Advertise</a></li>
-            <li><a href="/support" onclick="ga('send', 'event', 'support', 'click', 'from_header', 1);"><i class="fa fa-thumbs-up fa-fw"></i> Support Us</a></li>
+            <li><a href="mailto:hello@sunriserobot.net">Advertise</a></li>
+            <li><a href="/support" onclick="ga('send', 'event', 'support', 'click', 'from_header', 1);">Support</a></li>
+            <li class="hidden-xs"><a href="http://twitter.com/sunriserobot" class="social"><i class="fa fa-lg fa-twitter fa-fw"></i> <span class="sr-only">Twitter</span></a></li>
+            <li class="hidden-xs"><a href="https://www.facebook.com/sunriserobot" class="social"><i class="fa fa-lg fa-facebook fa-fw"></i> <span class="sr-only">Facebook</span></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-
-	<header>
-      <a href="/"><img class="img-responsive" src="/images/sunriserobot_header.png" alt="Sunrise Robot logo" /></a>
-    </header>
+</header>
