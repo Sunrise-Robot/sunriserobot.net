@@ -106,6 +106,10 @@ footer {
   font-size: 22px;
 }
 
+.navbar-default {
+  border: none;
+}
+
 .navbar-default .navbar-nav>li>a {
   font-family: 'Oswald', sans-serif;
   color: #fff;
@@ -115,13 +119,16 @@ footer {
   padding: 0px 20px 0px;
 }
 
-.navbar-collapse {
-  background-color: #ff8100;
-  line-height: 96px;
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+  color: #ff8100;
 }
 
 .navbar-default .navbar-nav>li>a.social {
   padding: 0 10px; 
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #ff8100;
 }
 
 body {
@@ -494,6 +501,10 @@ footer h2 a:hover, footer h2 a:focus {
   text-shadow: 4px 4px 0 #ffb16b, 8px 8px 0 #e86d00;
 }
 
+.navbar-toggle {
+  margin-top: 16px;
+}
+
 .navbar-default .navbar-toggle {
     border-color: #fff;
 }
@@ -509,8 +520,8 @@ footer h2 a:hover, footer h2 a:focus {
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
-  color: #ffdcb9;
-  background-color: #ffad59;
+  color: #fff;
+  background-color: #ff9325;
 }
 
 .dropdown-menu>li>a {
@@ -661,6 +672,10 @@ a.btn-default {
   color: #999;
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
 /* Override bootstrap default */
 
 .jumbotron {
@@ -711,6 +726,19 @@ a.btn-default {
 
   .blog-entry ul li, .blog-entry ol li {
     font-size: 20px;
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: #fff;
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover, .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+    color: #ffdcb9;
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    font-size: 20px;
+    padding: 0 10px 0;
   }
 
 }
@@ -772,6 +800,20 @@ a.btn-default {
     line-height: 22px;
   }
 
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: #ff8100;
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover, .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+    color: #df7100;
+  }
+
+  .nav-heading {
+    font-size: 42px;
+    line-height: 64px;
+    text-shadow: 3px 3px 0 #ffb16b, 6px 6px 0 #c85e00;
+  }
+
 }
 
 
@@ -802,6 +844,16 @@ a.btn-default {
   footer h2 {
     font-size: 64px;
     line-height: 68px;
+  }
+
+  .nav-heading {
+    font-size: 48px;
+    text-shadow: 4px 4px 0 #ffb16b, 8px 8px 0 #c85e00;
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    font-size: 22px;
+    padding: 0px 20px 0px;
   }
 
 }
