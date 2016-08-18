@@ -875,19 +875,6 @@ a.btn-default {
 
 @media (min-width: 992px) {
 
-  nav.navbar.navbar-default.navbar-static-top {
-    background-image: url(/images/assets/navbg.png);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-
-  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    border-color: #ff8100;
-    background-color: unset;
-  }
-
   .navbar {
     height: 96px;
   }
@@ -930,10 +917,22 @@ a.btn-default {
 
 
 
-
 /* Extra Large Desktop */
 
 @media (min-width: 1200px) {
+
+  nav.navbar.navbar-default.navbar-static-top {
+    background-image: url(/images/assets/navbg.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #ff8100;
+    background-color: unset;
+  }
 
   .navbar {
     height: 96px;
