@@ -31,7 +31,7 @@ body {
 .navbar {
   position: relative;
   width: 100%;
-  height: 96px;
+  height: 64px;
   padding: 0px 0;
   background-color: #ff8100;
   border: none;
@@ -106,6 +106,7 @@ footer {
 img.nav-robot {
   height: 80px;
   margin-left: 80px;
+  overflow-y: hidden;
 }
 
 .navbar ul li {
@@ -130,7 +131,7 @@ img.nav-robot {
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover, .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
-    color: #ffdcb9;
+  color: #ffdcb9;
 }
 
 .navbar-default .navbar-nav>li>a.social {
@@ -139,6 +140,7 @@ img.nav-robot {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
   border-color: #ff8100;
+  background-color: #ff8100;
 }
 
 body {
@@ -182,7 +184,7 @@ h1 {
 h2 {
   font-size: 32px;
   line-height: 40px;
-  margin: 0 0 4px;
+  margin: 0 0 0px;
 }
 
 h3 {
@@ -513,6 +515,7 @@ footer h2 a:hover, footer h2 a:focus {
 
 .navbar-toggle {
   margin-top: 16px;
+/*  padding: 7px 10px;*/
 }
 
 .navbar-default .navbar-toggle {
@@ -716,14 +719,14 @@ a.btn-default {
   }
 
   header {
-    min-height: 96px;
+    min-height: 64px;
     background-color: #ff8100;
   }
 
   .navbar {
     position: relative;
     width: 100%;
-    min-height: 64px;
+    min-height: 96px;
     padding: 16px 0;
     background-color: #ff8100;
     border: none;
@@ -789,6 +792,10 @@ a.btn-default {
 /* Tablet portrait / Small Desktop */
 
 @media (min-width: 768px) {
+
+  .navbar {
+    height: 96px;
+  }
 
   .episode-desc {
     font-size: 16px;
@@ -868,6 +875,23 @@ a.btn-default {
 
 @media (min-width: 992px) {
 
+  nav.navbar.navbar-default.navbar-static-top {
+    background-image: url(/images/assets/navbg.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #ff8100;
+    background-color: unset;
+  }
+
+  .navbar {
+    height: 96px;
+  }
+
   .episode-desc {
     font-size: 18px;
     line-height: 26px;
@@ -911,12 +935,8 @@ a.btn-default {
 
 @media (min-width: 1200px) {
 
-  nav.navbar.navbar-default.navbar-static-top {
-    background-image: url(/images/assets/navbg.png);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  .navbar {
+    height: 96px;
   }
 
   .episode-desc {
