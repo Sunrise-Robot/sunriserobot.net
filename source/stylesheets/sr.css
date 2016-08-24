@@ -47,6 +47,11 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
+  background-image: url(/images/assets/navbg.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .subheader {
@@ -100,7 +105,7 @@ footer {
 }
 
 .nav-heading a:hover {
-  color: #ffdcb9;
+  color: #ffeddb;
 }
 
 img.nav-robot {
