@@ -68,6 +68,10 @@ footer {
   margin-top: 16px;
 }
 
+.show-box {
+  margin: 0px 0 16px;
+}
+
 .show-notes {
   margin-bottom: 32px;
 }
@@ -275,6 +279,16 @@ footer h3 {
 .index-show-title {
     font-size: 32px;
     line-height: 40px;
+}
+
+.show-box-title {
+  font-size: 32px;
+  line-height: 40px;
+  margin: 8px 0 0;
+}
+
+.show-box-desc {
+  font-size: 18px;
 }
 
 .show-title {

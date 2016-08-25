@@ -5,6 +5,30 @@ priority: 1.0
 <article>
       <div class="container show-list">
         <div class="row">
+          <div class="col-sm-8">
+            <% data.shows.each_pair do |show, info| %>
+            <div class="show-box">
+              <div class="row">
+                <div class="col-sm-4">
+                  <a href="<%= data.shows[show]["stub"] %>"><img class="img-responsive" src="/images/<%= data.shows[show]["album_art"] %>"/></a>
+                </div>
+                <div class="col-sm-8">
+                  <h2 class="show-box-title"><a href="<%= data.shows[show]["stub"] %>"><%= data.shows[show]["title"] %></a></h2>
+                  <p class="show-box-desc"><%= data.shows[show]["description"] %></p>
+                  <p><% if data.shows[show]["itunes"] %><a href="<%= data.shows[show]["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= data.shows[show]["stub"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a>
+                </div>
+              </div>
+            </div>
+            <% end %>
+          </div>
+          <div class="col-sm-4">
+            <h2>Sidebar</h2>
+          </div>
+        </div>
+
+
+        <hr/>
+        <div class="row">
           <% data.shows.each_pair do |show, info| %>
           <div class="col-sm-4">
             <div class="thumbnail">
