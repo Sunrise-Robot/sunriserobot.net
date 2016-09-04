@@ -65,11 +65,11 @@ footer {
 }
 
 .show-list {
-  margin-top: 16px;
+  margin-top: 24px;
 }
 
 .show-box {
-  margin: 0px 0 16px;
+  margin: 0px 0 24px;
 }
 
 .show-notes {
@@ -165,7 +165,7 @@ footer {
 
 p, ol li, ul li {
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 28px;
 }
 
@@ -193,7 +193,7 @@ h1 {
 h2 {
   font-size: 32px;
   line-height: 40px;
-  margin: 0 0 0px;
+  margin: 0;
 }
 
 h3 {
@@ -208,9 +208,19 @@ h4 {
   margin: 0 0 4px;
 }
 
-.support-sidebar p {
-  color: #666;
+.sidebar {
+}
+
+.sidebar p {
+  color: #333;
   font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.sidebar h3 {
+  color: #333;
+  font-size: 28px;
 }
 
 .press h1, .press h2, .press h3, .press h4 {
@@ -284,7 +294,6 @@ footer h3 {
 .show-box-title {
   font-size: 32px;
   line-height: 40px;
-  margin: 8px 0 0;
 }
 
 .show-box-desc {
@@ -479,7 +488,7 @@ a, a:active {
 }
 a:hover,
 a:focus {
-  color: #ff7800;
+  color: #ff8100;
   text-decoration: none;
 }
 
@@ -501,17 +510,40 @@ article a:hover, article a:focus {
   text-decoration: underline;
 }
 
+h2.show-box-title a {
+  color: #333;
+}
+
+h2.show-box-title a:hover {
+  color: #ff8100;
+  text-decoration: none;
+}
+
+.sidebar a, .sidebar a:active {
+  color: #666;
+  font-weight: 300;
+}
+
+.sidebar a:hover {
+  color: #ff8100;
+  text-decoration: none;
+}
+
+.sidebar a.btn.btn-lg.btn-support:hover {
+  color: #0090ff;
+}
+
 .list-episode-title a:hover {
   text-decoration: none;
 }
 
 .blog-entry a, .blog-entry a:active {
-  color: #ff7800;
+  color: #ff8100;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #ff7800;
+  color: #ff8100;
   text-decoration: none;
 }
 
@@ -612,12 +644,12 @@ a.btn.btn-itunes:hover {
 
 a.btn.btn-rss {
   color: #fff;
-  background-color: #ff7800;
+  background-color: #ff8100;
   border-color: #df6900;
 }
 
 a.btn.btn-rss:hover {
-  color: #ff7800;
+  color: #ff8100;
   background-color: #ffe7d2;
   border-color: #fcb06a;
 }
