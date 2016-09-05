@@ -9,7 +9,7 @@ priority: 1.0
             <% data.shows.each_pair do |show, info| %>
             <div class="show-box">
               <div class="row">
-                <div class="col-sm-10 col-md-5 col-lg-4">
+                <div class="col-sm-10 col-md-5 col-lg-4 album-art">
                   <a href="<%= data.shows[show]["stub"] %>"><img class="img-responsive" src="/images/<%= data.shows[show]["album_art"] %>"/></a>
                 </div>
                 <div class="col-sm-11 col-md-7 col-lg-8">
@@ -23,12 +23,16 @@ priority: 1.0
           </div>
           <div class="col-sm-5 col-md-4">
             <div class="sidebar">
-              <h3>All Shows Feed</h3>
-              <p>Use iTunes or any podcast rss reader to subscribe to the master feed of all Sunrise Robot shows:</p>
-              <p><a href=""><i class="fa fa-fw fa-music"></i> All Shows iTunes Feed</a><br/><a href=""><i class="fa fa-fw fa-rss"></i> All Shows RSS Feed</a></p>
-              <h3>Support the Network</h3>
-              <p>If you like what we're doing, then help us keep the lights on and the episodes coming!</p>
-              <p><a href="/support" class="btn btn-lg btn-support" onclick="ga('send', 'event', 'support', 'click', 'from_show', 1);"><i class="fa fa-thumbs-up fa-fw"></i> Support Us</a></p>
+              <div class="sidebar-item">
+                <h3>All Shows Feed</h3>
+                <p>Use iTunes or any podcast rss reader to subscribe to the master feed of all Sunrise Robot shows:</p>
+                <p><a href=""><i class="fa fa-fw fa-music"></i> All Shows iTunes Feed</a><br/><a href=""><i class="fa fa-fw fa-rss"></i> All Shows RSS Feed</a></p>
+              </div>
+              <div class="sidebar-item">
+                <h3>Support the Network</h3>
+                <p>If you like what we're doing, then help us keep the lights on and the episodes coming!</p>
+                <p><a href="/support" class="btn btn-lg btn-support" onclick="ga('send', 'event', 'support', 'click', 'from_show', 1);"><i class="fa fa-thumbs-up fa-fw"></i> Support Us</a></p>
+              </div>
             </div>
           </div>
         </div>

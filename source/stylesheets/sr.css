@@ -54,6 +54,10 @@ footer {
     background-size: cover;
 }
 
+.album-art {
+  margin: 0 0 8px;
+}
+
 .subheader {
   padding: 32px 0;
   background-color: #fcfcfc;
@@ -78,6 +82,10 @@ footer {
 
 .support-sidebar {
   margin-top: 16px;
+}
+
+.sidebar-item {
+  margin: 0 0 48px;
 }
 
 .host-img {
