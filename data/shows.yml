@@ -157,11 +157,6 @@ raconteurdenver:
   stub: "raconteurdenver"
   title: "Raconteur Denver"
   hosts:
-    - { name: "Michael Edwards",
-        twitter: "sudomichael",
-        website: "pseudomichael.com",
-        website_text: "pseudomichael.com",
-        photo: "michaeledwards.jpg" }
     - { name: "Amber Blais",
         twitter: "eyaanya",
         photo: "amberblais.jpg" }
@@ -169,6 +164,11 @@ raconteurdenver:
         website: "http://www.springgunpress.com/",
         website_text: "springgunpress.com",
         photo: "derrickmund.jpg" }
+    - { name: "Michael Edwards",
+        twitter: "sudomichael",
+        website: "pseudomichael.com",
+        website_text: "pseudomichael.com",
+        photo: "michaeledwards.jpg" }
   description: "Raconteur Denver is a live storytelling event that combines the joy of exploring new locations, meeting new people, and hearing stories from Denver's diverse communities."
   album_art: "raconteurdenver/raconteurdenver_album.jpg"
   social_art: "raconteurdenver/raconteurdenver_social.jpg"
