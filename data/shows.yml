@@ -120,33 +120,6 @@ eclecticreaders:
     - { category: "Literature" }
     - { category: "Hobbies" }
   itunes: "https://itunes.apple.com/us/podcast/eclectic-readers-book-club/id1006545606"
-raconteurdenver:
-  stub: "raconteurdenver"
-  title: "Raconteur Denver"
-  hosts:
-    - { name: "Michael Edwards",
-        twitter: "sudomichael",
-        website: "pseudomichael.com",
-        website_text: "pseudomichael.com",
-        photo: "michaeledwards.jpg" }
-    - { name: "Amber Blais",
-        twitter: "eyaanya",
-        photo: "amberblais.jpg" }
-    - { name: "Derrick Mund",
-        website: "http://www.springgunpress.com/",
-        website_text: "springgunpress.com",
-        photo: "derrickmund.jpg" }
-  description: "Raconteur Denver is a live storytelling event that combines the joy of exploring new locations, meeting new people, and hearing stories from Denver's diverse communities."
-  album_art: "raconteurdenver/raconteurdenver_album.jpg"
-  social_art: "raconteurdenver/raconteurdenver_social.jpg"
-  large_art: "raconteurdenver/raconteurdenver_large.jpg"
-  email: "raconteurdenver@gmail.com"
-  categories:
-    - { category: "Arts",
-        subcategory: "Performing Arts" }
-    - { category: "Arts",
-        subcategory: "Spoken Word" }
-  itunes: "https://itunes.apple.com/us/podcast/raconteur-denver-podcast/id1084207779?mt=2"
 pseudoshow:
   stub: "pseudoshow"
   title: "The Pseudo Show"
@@ -180,6 +153,33 @@ pseudoshow:
     - { name: "Betsy Lay",
         link: "betsylay.bandcamp.com",
         quote: "Creative, insightful, and fun." }
+raconteurdenver:
+  stub: "raconteurdenver"
+  title: "Raconteur Denver"
+  hosts:
+    - { name: "Michael Edwards",
+        twitter: "sudomichael",
+        website: "pseudomichael.com",
+        website_text: "pseudomichael.com",
+        photo: "michaeledwards.jpg" }
+    - { name: "Amber Blais",
+        twitter: "eyaanya",
+        photo: "amberblais.jpg" }
+    - { name: "Derrick Mund",
+        website: "http://www.springgunpress.com/",
+        website_text: "springgunpress.com",
+        photo: "derrickmund.jpg" }
+  description: "Raconteur Denver is a live storytelling event that combines the joy of exploring new locations, meeting new people, and hearing stories from Denver's diverse communities."
+  album_art: "raconteurdenver/raconteurdenver_album.jpg"
+  social_art: "raconteurdenver/raconteurdenver_social.jpg"
+  large_art: "raconteurdenver/raconteurdenver_large.jpg"
+  email: "raconteurdenver@gmail.com"
+  categories:
+    - { category: "Arts",
+        subcategory: "Performing Arts" }
+    - { category: "Arts",
+        subcategory: "Spoken Word" }
+  itunes: "https://itunes.apple.com/us/podcast/raconteur-denver-podcast/id1084207779?mt=2"
 somepulp:
   stub: "somepulp"
   title: "Some Pulp"
