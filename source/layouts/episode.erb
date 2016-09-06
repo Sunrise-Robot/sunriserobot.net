@@ -25,17 +25,11 @@
     <section class="main-content"> <!-- Show Notes & Sidebar -->
       <div class="container">
         <div class="row clearfix">
-          <article class="col-sm-7 col-md-8 col-sm-push-5 col-md-push-4"> <!-- Show Notes column -->
+          <article class="col-sm-7 col-md-7"> <!-- Show Notes column -->
             <h2>Show Notes</h2>
             <div class="show-notes">
               <%= yield %>
             </div>
-            <h4>Share this episode</h4>
-            <ul class="list-inline discuss-links">
-              <li><a href="https://twitter.com/share?text=<%= current_article.title %>%20@sunriserobot%20%23podcast&url=http://sunriserobot.net<%= current_article.url %>" class="btn btn-twitter" onclick="ga('send', 'event', 'share_button', 'click', 'twitter', 1);"><i class="fa fa-twitter fa-lg fa-fw"></i></a></li>
-              <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://sunriserobot.net<%= current_article.url %>" class="btn btn-facebook" onclick="ga('send', 'event', 'share_button', 'click', 'facebook', 1);"><i class="fa fa-facebook fa-lg fa-fw"></i></a></li>
-              <li><a href="https://plus.google.com/share?url=http://sunriserobot.net<%= current_article.url %>" class="btn btn-google" onclick="ga('send', 'event', 'share_button', 'click', 'gplus', 1);"><i class="fa fa-google-plus fa-lg fa-fw"></i></a></li>
-            </ul>
             <p class="back-to-episode-list"><a href="/<%= @show["stub"] %>"><i class="fa fa-angle-left fa-fw"></i> back to full episode list</a></p>
           </article> <!-- End Show Notes -->
 

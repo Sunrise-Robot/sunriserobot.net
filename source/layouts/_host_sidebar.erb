@@ -1,4 +1,4 @@
-<aside class="col-sm-5 col-md-4 col-sm-pull-7 col-md-pull-8"> <!-- Sidebar column -->
+<aside class="col-sm-5 col-md-5 col-lg-4"> <!-- Sidebar column -->
             <h2>Hosted by</h2>
             <% @show["hosts"].each do |host| %>
             <h3 class="host-name"><%= host["name"] %></h3>
@@ -15,11 +15,6 @@
               </div>
             </div>
             <% end %>
-            <div class="support-sidebar">
-            <h3>The Show Must Go On</h3>
-            <p>If you like what we're doing, then help us keep the lights on and the episodes coming!</p>
-            <p><a href="/support" class="btn btn-lg btn-support" onclick="ga('send', 'event', 'support', 'click', 'from_show', 1);"><i class="fa fa-thumbs-up fa-fw"></i> Support The Show</a></p>
-            </div>
             <% if @show["praise"] %>
             <div class="press">
               <h4>Praise for <%= @show["title"] %></h4>
@@ -36,4 +31,9 @@
             <% end %>
             </div>
             <% end %>
+            <div class="support-sidebar">
+              <h3>The Show Must Go On</h3>
+              <p>If you like what we're doing, then help us keep the lights on and the episodes coming!</p>
+              <p><a href="/support" class="btn btn-lg btn-support" onclick="ga('send', 'event', 'support', 'click', 'from_show', 1);"><i class="fa fa-thumbs-up fa-fw"></i> Support The Show</a></p>
+            </div>
           </aside> <!-- End of Sidebar -->
