@@ -162,11 +162,6 @@ raconteurdenver:
         website: "http://www.amberjblais.com",
         website_text: "amberjblais.com",
         photo: "amberblais.jpg" }
-    - { name: "Derrick Mund",
-        twitter: "wincenamiss",
-        website: "http://www.springgunpress.com/",
-        website_text: "springgunpress.com",
-        photo: "derrickmund.jpg" }
     - { name: "Michael Edwards",
         twitter: "sudomichael",
         website: "pseudomichael.com",
