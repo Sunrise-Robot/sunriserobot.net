@@ -117,7 +117,8 @@ eclecticreaders:
   large_art: "eclecticreaders/eclecticreaders_large.jpg"
   email: "hello@sunriserobot.net"
   categories:
-    - { category: "Literature" }
+    - { category: "Arts",
+        subcategory: "Literature" }
     - { category: "Hobbies" }
   itunes: "https://itunes.apple.com/us/podcast/eclectic-readers-book-club/id1006545606"
 pseudoshow:
