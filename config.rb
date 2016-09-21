@@ -1,4 +1,4 @@
-Time.zone = "EST"
+Time.zone = "Eastern Time (US & Canada)"
 
 page "master-feed.xml", layout: false
 page "all-shows.xml", layout: false
