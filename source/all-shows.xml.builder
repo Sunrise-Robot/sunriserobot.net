@@ -37,7 +37,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
 
 
   data.shows.each_pair do |show, info|
-    blog(data.shows[show]["title"]).articles[0..9].each do |episode|
+    blog(data.shows[show]["title"]).articles.each do |episode|
       all_episodes << episode
     end
   end
