@@ -17,3 +17,6 @@ run.sh
 
 # OSX stuff
 .DS_Store
+
+# MP3 Archive
+mp3s/
