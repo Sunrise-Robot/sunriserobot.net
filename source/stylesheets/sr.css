@@ -1035,3 +1035,8 @@ a.btn-default {
   }
 
 }
+
+audio {
+  display: block;
+  width: 100%;
+}

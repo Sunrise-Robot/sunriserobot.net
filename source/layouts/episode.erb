@@ -15,7 +15,7 @@
             <p class="episode-date">#<%= current_article.data.number %> - <%= current_article.date.strftime("%B %-d, %Y")  %></p>
             <h1 class="episode-title"><%= current_article.title %></h1>
             <p class="episode-desc"><%= current_article.data.description %></p>
-            <p><%= simplecast_player(current_article.data.enclosure_link) %><br>
+            <p><audio src="<%= current_article.data.enclosure_link %>" controls preload>If you can see this your browser doesn't support <code>audio</code></audio><br>
             <p><% if @show["itunes"] %><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'iTunes', 1);"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= @show["stub"] %>/feed.xml" class="btn btn-rss" role="button" onclick="ga('send', 'event', 'subscribe_button', 'click', 'RSS', 1);"><i class="fa fa-rss"></i> RSS</a></p>
           </div>
         </div>
