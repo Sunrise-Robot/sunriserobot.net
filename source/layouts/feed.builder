@@ -23,7 +23,11 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.link show_url
     end
     # iTunes specific
-    xml.tag! "itunes:new-feed-url", "http://sunriserobot.net/#{@show["stub"]}/feed.xml"
+    if @show["fwd_rss"]
+      xml.tag! "itunes:new-feed-url", @show["fwd_rss"]
+    else
+      xml.tag! "itunes:new-feed-url", "http://sunriserobot.net/#{@show["stub"]}/feed.xml"
+    end
     xml.tag! "itunes:subtitle", @show["title"]
     xml.tag! "itunes:author", "Sunrise Robot"
     xml.tag! "itunes:summary", @show["description"]
