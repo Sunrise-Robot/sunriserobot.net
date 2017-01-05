@@ -154,32 +154,6 @@ pseudoshow:
     - { name: "Betsy Lay",
         link: "betsylay.bandcamp.com",
         quote: "Creative, insightful, and fun." }
-raconteurdenver:
-  stub: "raconteurdenver"
-  title: "Raconteur Denver"
-  hosts:
-    - { name: "Amber Blais",
-        twitter: "eyaanya",
-        website: "http://www.amberjblais.com",
-        website_text: "amberjblais.com",
-        photo: "amberblais.jpg" }
-    - { name: "Michael Edwards",
-        twitter: "sudomichael",
-        website: "pseudomichael.com",
-        website_text: "pseudomichael.com",
-        photo: "michaeledwards.jpg" }
-  description: "Raconteur Denver is a live storytelling event that combines the joy of exploring new locations, meeting new people, and hearing stories from Denver's diverse communities."
-  album_art: "raconteurdenver/raconteurdenver_album.jpg"
-  social_art: "raconteurdenver/raconteurdenver_social.jpg"
-  large_art: "raconteurdenver/raconteurdenver_large.jpg"
-  email: "raconteurdenver@gmail.com"
-  categories:
-    - { category: "Arts",
-        subcategory: "Performing Arts" }
-    - { category: "Arts",
-        subcategory: "Spoken Word" }
-  itunes: "https://itunes.apple.com/us/podcast/raconteur-denver-podcast/id1084207779?mt=2"
-  fwd_rss: "https://simplecast.com/podcasts/2549/rss"
 somepulp:
   stub: "somepulp"
   title: "Some Pulp"

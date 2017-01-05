@@ -1,3 +1,0 @@
----
-blog: "Raconteur Denver"
----
