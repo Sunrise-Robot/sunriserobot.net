@@ -121,6 +121,7 @@ eclecticreaders:
         subcategory: "Literature" }
     - { category: "Hobbies" }
   itunes: "https://itunes.apple.com/us/podcast/eclectic-readers-book-club/id1006545606"
+  fwd_rss: "https://eclecticreaders.fireside.fm/rss"
 pseudoshow:
   stub: "pseudoshow"
   title: "The Pseudo Show"
