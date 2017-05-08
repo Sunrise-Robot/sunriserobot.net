@@ -2,14 +2,15 @@ current_show = blog.options.prefix.gsub("/", "")
 @show = data.shows[current_show]
 
 xml.instruct!
-xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
-        "xmlns:sy"      => "http://purl.org/rss/1.0/modules/syndication/",
-        "xmlns:admin"   => "http://webns.net/mvcb/",
-        "xmlns:atom"    => "http://www.w3.org/2005/Atom/",
-        "xmlns:rdf"     => "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-        "xmlns:content" => "http://purl.org/rss/1.0/modules/content/",
-        "xmlns:itunes"  => "http://www.itunes.com/dtds/podcast-1.0.dtd",
-        "version"       => "2.0" do
+xml.rss "xmlns:dc"         => "http://purl.org/dc/elements/1.1/",
+        "xmlns:sy"         => "http://purl.org/rss/1.0/modules/syndication/",
+        "xmlns:admin"      => "http://webns.net/mvcb/",
+        "xmlns:atom"       => "http://www.w3.org/2005/Atom/",
+        "xmlns:rdf"        => "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "xmlns:content"    => "http://purl.org/rss/1.0/modules/content/",
+        "xmlns:itunes"     => "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "version"          => "2.0",
+        "xmlns:googleplay" => "http://www.google.com/schemas/play-podcasts/1.0" do
   xml.channel do
     show_url = "#{site_url}/#{@show["stub"]}"
     xml.title @show["title"]
