@@ -35,6 +35,6 @@ Sincerely,
 
 _P.S. Here's where you can follow us from now on:_
 
-**Mike** is pushing hard into a new career of design and motion graphics. Follow him on [Twitter](http://twitter.com/sudomichael), [Dribbble](http://dribbble.com/pseudomichael) and [Vimeo](http://vimeo.com/pseudomichael). He also has a [website](http://pseudomichael.com) where he occasionally blogs.
+**Mike** is pushing hard into a new career of design and motion graphics. Follow him on [Instagram](http://instagram.com/pseudomichael), [Dribbble](http://dribbble.com/pseudomichael) and [Vimeo](http://vimeo.com/pseudomichael). He also has a [website](http://pseudomichael.com) where he writes from time to time.
 
-**Lyons** is on [Twitter]() and swears he isn't done with podcasting. He also blogs occasionally from his [website](http://lyonsinbeta.com).
+**Lyons** is on [Twitter](http://twitter.com/lyonsinbeta) and swears he isn't done with podcasting. He also blogs occasionally from his [website](http://lyonsinbeta.com).

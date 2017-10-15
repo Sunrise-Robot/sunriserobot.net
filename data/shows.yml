@@ -3,7 +3,6 @@ flippingtables:
   title: "Flipping Tables"
   hosts:
     - { name: "Michael Edwards",
-        twitter: "sudomichael",
         website: "pseudomichael.com",
         website_text: "pseudomichael.com",
         photo: "michaeledwards.jpg" }
@@ -40,7 +39,6 @@ bitsandpieces:
         website_text: "facebook.com/echolox",
         photo: "mattduncan.jpg" }
     - { name: "Michael Edwards",
-        twitter: "sudomichael",
         website: "pseudomichael.com",
         website_text: "pseudomichael.com",
         photo: "michaeledwards.jpg" }
@@ -127,7 +125,6 @@ pseudoshow:
   title: "The Pseudo Show"
   hosts:
     - { name: "Michael Edwards",
-        twitter: "sudomichael",
         website: "pseudomichael.com",
         website_text: "pseudomichael.com",
         photo: "michaeledwards.jpg" }
